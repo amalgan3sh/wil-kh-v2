@@ -1,0 +1,20 @@
+INFO - 2024-06-29 06:08:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-29 06:08:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-29 06:08:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-29 06:08:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-29 06:08:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-29 06:09:50 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "public/public_header.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('public/public_header.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('public/public_header', [], true)
+ 3 APPPATH\Controllers\PublicController.php(229): view('public/public_header')
+ 4 APPPATH\Controllers\PublicController.php(213): App\Controllers\PublicController->App\Controllers\{closure}()
+ 5 APPPATH\Controllers\PublicController.php(226): App\Controllers\PublicController->renderCache('public_index_view', Object(Closure))
+ 6 APPPATH\Controllers\PublicController.php(24): App\Controllers\PublicController->renderView('public_index_view', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PublicController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PublicController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
