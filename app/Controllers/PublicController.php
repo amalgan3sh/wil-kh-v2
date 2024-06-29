@@ -28,6 +28,15 @@ class PublicController extends BaseController
         ]);
     }
 
+    public function aboutUs(): string
+    {
+        return $this->renderView('about_us_view', [
+            'public/public_header',
+            'public/about_us',
+            'public/public_footer',
+        ]);
+    }
+
 
 
     /**

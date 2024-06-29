@@ -164,13 +164,8 @@
                 </li>
                 <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Pages</a>
                   <ul class="dropdown-menu">
-                    <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">About Us</a>
-                      <ul class="dropdown-menu">
-                        <li><a href="about-us.html">About Us 1</a>
-                        </li>
-                        <li><a href="about-us-2.html">About Us 2</a>
-                        </li>
-                      </ul>
+                    <li class="dropdown-submenu"><a class="dropdown-item" href="<?php echo base_url('/about_us') ?>">About Us</a>
+
                     </li>
                     <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">Team</a>
                       <ul class="dropdown-menu">
