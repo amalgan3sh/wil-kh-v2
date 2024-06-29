@@ -83,7 +83,7 @@
           </div>
           <div class="row">
             <div class="col">
-              <div class="copyright p-4 white-bg mt-5 ms-md-n6">Copyright © 2021 All rights reserved | Labortech Made by <i class="lar la-heart text-theme heartBeat2"></i>  <u><a href="www.themeht.com">ThemeHt</a></u>
+              <div class="copyright p-4 white-bg mt-5 ms-md-n6">Copyright © 2024 All rights reserved | Wil-Kh Powered by <i class="lar la-heart text-theme heartBeat2"></i>  <u><a href="www.spyderhub.com">Spyderhub</a></u>
               </div>
             </div>
           </div>
