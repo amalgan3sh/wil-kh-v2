@@ -36,7 +36,7 @@ class App extends BaseConfig
             $baseURL = $protocol . "://" . $host;
         } else {
             // Construct the base URL and append "buildmax/"
-            $baseURL = $protocol . "://" . $host . "/wil-kh";
+            $baseURL = $protocol . "://" . $host . "/wil-kh-v2";
         }
 
         // Set the base URL

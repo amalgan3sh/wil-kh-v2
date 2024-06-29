@@ -22,7 +22,9 @@ class PublicController extends BaseController
     public function index(): string
     {
         return $this->renderView('public_index_view', [
-            'index',
+            'public/public_header',
+            'public/index',
+            'public/public_footer',
         ]);
     }
 

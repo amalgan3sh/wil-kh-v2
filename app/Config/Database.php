@@ -36,16 +36,16 @@ class Database extends \CodeIgniter\Database\Config
         parent::__construct();
 
             // Determine environment based on server hostname
-    $environment = ($_SERVER['HTTP_HOST'] === 'buildmax.lammy.life') ? 'production' : 'development';
+    $environment = ($_SERVER['HTTP_HOST'] === 'wil-kh') ? 'production' : 'development';
 
     // Set the appropriate database connection based on the environment
     if ($environment === 'production') {
         $this->default = [
             'DSN'          => '',
-            'hostname'     => $_ENV['PROD_HOSTNAME'],
-            'username'     => $_ENV['PROD_USERNAME'],
-            'password'     => $_ENV['PROD_PASSWORD'],
-            'database'     => $_ENV['PROD_DATABASE'],
+            'hostname'     => $_ENV['DEV_HOSTNAME'],
+            'username'     => $_ENV['DEV_USERNAME'],
+            'password'     => $_ENV['DEV_PASSWORD'],
+            'database'     => $_ENV['DEV_DATABASE'],
             'DBDriver'     => 'MySQLi',
             'DBPrefix'     => '',
             'pConnect'     => false,
