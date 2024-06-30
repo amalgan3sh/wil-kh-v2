@@ -246,25 +246,23 @@
                     <li><a href="<?php echo base_url('/arsenic_research') ?>">Arsenic Research</a></li>
                   </ul>
                 </li>
-                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">News</a>
+                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Publications</a>
                   <ul class="dropdown-menu">
-                    <li><a href="blog-left-sidebar.html">Blog left sidebar</a>
+                    <li><a href="journal_article">Journal Article</a>
                     </li>
-                    <li><a href="blog-right-sidebar.html">Blog right sidebar</a>
+                    <li><a href="blog-right-sidebar.html">Conference</a>
                     </li>
-                    <li><a href="blog-single.html">Blog Single</a>
+                    <li><a href="blog-single.html">WIL Newsletter</a>
                     </li>
                   </ul>
                 </li>
               </ul>
             </div>
             <div class="right-nav align-items-center d-flex justify-content-end">
-              <div class="search-icon d-sm-inline-block d-none"> <a id="search" href="javascript:void(0)"><i class="las la-search"></i></a>
-              </div>
+              
               <div class="ms-sm-3 me-md-5">
                 <div class="cart">
-                  <a href="#" id="header-cart-btn" data-bs-toggle="modal" data-bs-target="#cartModal"> <span class="white-bg px-2 py-1 shadow-sm" data-cart-items="2">
-                  <i class="las la-shopping-cart"></i>
+                  
                 </span>
                   </a>
                 </div>

@@ -17,6 +17,7 @@ $routes->get('water_quality_test', 'PublicController::WaterQualityTest');
 $routes->get('food_quality_test', 'PublicController::FoodQualityTest');
 $routes->get('soil_quality_test', 'PublicController::SoilQualityTest');
 $routes->get('arsenic_research', 'PublicController::ArsenicResearch');
+$routes->get('journal_article', 'PublicController::JournalArticle');
 
 
 

@@ -125,6 +125,15 @@ class PublicController extends BaseController
         ]);
     }
 
+    public function JournalArticle(): string
+    {
+        return $this->renderView('about_us_view', [
+            'public/public_header',
+            'public/journal_article',
+            'public/public_footer',
+        ]);
+    }
+
 
 
     /**

@@ -1,4 +1,4 @@
-a:3:{s:4:"time";i:1719656621;s:3:"ttl";i:1;s:4:"data";s:55701:"<!DOCTYPE html>
+a:3:{s:4:"time";i:1719736349;s:3:"ttl";i:1;s:4:"data";s:55080:"<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -167,23 +167,13 @@ a:3:{s:4:"time";i:1719656621;s:3:"ttl";i:1;s:4:"data";s:55701:"<!DOCTYPE html>
                     <li class="dropdown-submenu"><a class="dropdown-item" href="https://localhost/wil-kh-v2/about_us">About Us</a>
 
                     </li>
-                    <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">Team</a>
-                      <ul class="dropdown-menu">
-                        <li><a href="team.html">Our Team</a>
-                        </li>
-                        <li><a href="team-single.html">Team Single</a>
-                        </li>
-                      </ul>
+                    <li class="dropdown-submenu"><a class="dropdown-item" href="https://localhost/wil-kh-v2/our_team">Team</a>
+
                     </li>
-                    <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">Contact Us</a>
-                      <ul class="dropdown-menu">
-                        <li><a href="contact.html">Contact us 1</a>
-                        </li>
-                        <li><a href="contact-2.html">Contact us 2</a>
-                        </li>
-                      </ul>
+                    <li class="dropdown-submenu"><a class="dropdown-item" href="https://localhost/wil-kh-v2/contact_us">Contact Us</a>
+                      
                     </li>
-                    <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">Element</a>
+                    <!-- <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">Element</a>
                       <ul class="dropdown-menu">
                         <li><a href="shortcode-about.html">About</a>
                         </li>
@@ -202,8 +192,8 @@ a:3:{s:4:"time";i:1719656621;s:3:"ttl";i:1;s:4:"data";s:55701:"<!DOCTYPE html>
                         <li> <a href="shortcode-testimonial.html">Testimonial</a>
                         </li>
                       </ul>
-                    </li>
-                    <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">Utilities</a>
+                    </li> -->
+                    <!-- <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">Utilities</a>
                       <ul class="dropdown-menu">
                         <li><a href="faq.html">Faq</a>
                         </li>
@@ -216,10 +206,10 @@ a:3:{s:4:"time";i:1719656621;s:3:"ttl";i:1;s:4:"data";s:55701:"<!DOCTYPE html>
                         <li><a href="error-404.html">404 Error</a>
                         </li>
                       </ul>
-                    </li>
+                    </li> -->
                   </ul>
                 </li>
-                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Shop</a>
+                <!-- <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Shop</a>
                   <ul class="dropdown-menu">
                     <li><a href="product-grid.html">Product Grid</a>
                     </li>
@@ -232,32 +222,31 @@ a:3:{s:4:"time";i:1719656621;s:3:"ttl";i:1;s:4:"data";s:55701:"<!DOCTYPE html>
                     <li><a href="product-checkout.html">Product Checkout</a>
                     </li>
                   </ul>
-                </li>
-                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Services</a>
+                </li> -->
+                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Development</a>
                   <ul class="dropdown-menu">
-                    <li><a href="pathologycam-testing.html">Pathologycam Testing</a>
+                    <li><a href="https://localhost/wil-kh-v2/water_product">Water Product</a>
                     </li>
-                    <li><a href="biochemistry-solution.html">Biochemistry Solution</a>
+                    <li><a href="https://localhost/wil-kh-v2/food_product">Food Product</a>
                     </li>
-                    <li><a href="chemical-research.html">Chemical Research</a>
+                    <li><a href="https://localhost/wil-kh-v2/environmental_product">Environmental Product</a>
                     </li>
-                    <li><a href="pharmaceutical-research.html">Pharmaceutical Research</a>
-                    </li>
-                    <li><a href="diabetes-testing.html">Diabetes Testing</a>
-                    </li>
+                     
                   </ul>
                 </li>
                 <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">
                       Research
                     </a>
                   <ul class="dropdown-menu">
-                    <li><a href="research-style-1.html">Research Style One</a>
+                    <li><a href="https://localhost/wil-kh-v2/laboratory">Laboratory</a>
                     </li>
-                    <li><a href="research-single.html">Research Single</a>
-                    </li>
+                    <li><a href="https://localhost/wil-kh-v2/water_quality_test">Water Quality Test</a></li>
+                    <li><a href="https://localhost/wil-kh-v2/food_quality_test">Food Quality Test</a></li>
+                    <li><a href="https://localhost/wil-kh-v2/soil_quality_test">Soil Quality Test</a></li>
+                    <li><a href="https://localhost/wil-kh-v2/arsenic_research">Arsenic Research</a></li>
                   </ul>
                 </li>
-                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">News</a>
+                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Publications</a>
                   <ul class="dropdown-menu">
                     <li><a href="blog-left-sidebar.html">Blog left sidebar</a>
                     </li>
@@ -270,12 +259,10 @@ a:3:{s:4:"time";i:1719656621;s:3:"ttl";i:1;s:4:"data";s:55701:"<!DOCTYPE html>
               </ul>
             </div>
             <div class="right-nav align-items-center d-flex justify-content-end">
-              <div class="search-icon d-sm-inline-block d-none"> <a id="search" href="javascript:void(0)"><i class="las la-search"></i></a>
-              </div>
+              
               <div class="ms-sm-3 me-md-5">
                 <div class="cart">
-                  <a href="#" id="header-cart-btn" data-bs-toggle="modal" data-bs-target="#cartModal"> <span class="white-bg px-2 py-1 shadow-sm" data-cart-items="2">
-                  <i class="las la-shopping-cart"></i>
+                  
                 </span>
                   </a>
                 </div>
