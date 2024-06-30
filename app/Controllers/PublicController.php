@@ -46,6 +46,15 @@ class PublicController extends BaseController
         ]);
     }
 
+    public function ContactUs(): string
+    {
+        return $this->renderView('about_us_view', [
+            'public/public_header',
+            'public/contact_us',
+            'public/public_footer',
+        ]);
+    }
+
 
 
     /**

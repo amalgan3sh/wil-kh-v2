@@ -170,13 +170,8 @@
                     <li class="dropdown-submenu"><a class="dropdown-item" href="<?php echo base_url('/our_team') ?>">Team</a>
 
                     </li>
-                    <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">Contact Us</a>
-                      <ul class="dropdown-menu">
-                        <li><a href="contact.html">Contact us 1</a>
-                        </li>
-                        <li><a href="contact-2.html">Contact us 2</a>
-                        </li>
-                      </ul>
+                    <li class="dropdown-submenu"><a class="dropdown-item" href="contact_us">Contact Us</a>
+                      
                     </li>
                     <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">Element</a>
                       <ul class="dropdown-menu">
