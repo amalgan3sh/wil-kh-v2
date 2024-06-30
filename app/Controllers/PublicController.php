@@ -37,6 +37,15 @@ class PublicController extends BaseController
         ]);
     }
 
+    public function Team(): string
+    {
+        return $this->renderView('about_us_view', [
+            'public/public_header',
+            'public/team',
+            'public/public_footer',
+        ]);
+    }
+
 
 
     /**

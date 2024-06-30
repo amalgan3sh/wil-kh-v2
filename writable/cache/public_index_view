@@ -1,4 +1,4 @@
-a:3:{s:4:"time";i:1719654968;s:3:"ttl";i:1;s:4:"data";s:55907:"<!DOCTYPE html>
+a:3:{s:4:"time";i:1719656621;s:3:"ttl";i:1;s:4:"data";s:55701:"<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -164,12 +164,8 @@ a:3:{s:4:"time";i:1719654968;s:3:"ttl";i:1;s:4:"data";s:55907:"<!DOCTYPE html>
                 </li>
                 <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Pages</a>
                   <ul class="dropdown-menu">
-                    <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">About Us</a>
-                      <ul class="dropdown-menu">
-                        <li><a href="https://localhost/wil-kh-v2/about_us">About Us 1</a>
-                        </li>
-                        
-                      </ul>
+                    <li class="dropdown-submenu"><a class="dropdown-item" href="https://localhost/wil-kh-v2/about_us">About Us</a>
+
                     </li>
                     <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">Team</a>
                       <ul class="dropdown-menu">

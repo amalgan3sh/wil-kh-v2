@@ -8,7 +8,7 @@
     <div class="row">
       <div class="col-lg-6">
         <div class="white-bg p-md-5 p-3 d-inline-block">
-        <h1 class="text-theme">About <span class="text-black">Labortech</span></h1>
+        <h1 class="text-theme">About <span class="text-black">Wil-Kh</span></h1>
         <nav aria-label="breadcrumb" class="page-breadcrumb border-top border-light pt-3 mt-3">
           <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="index.html"><i class="las la-home me-1"></i>Home</a>
@@ -83,22 +83,21 @@
       </div>
       <div class="col-lg-6 col-12 mt-6 mt-lg-0 ps-lg-6">
         <div class="section-title">
-          <h2 class="title">We Employ Latest Research Technology & Company</h2> 
-          <p class="mb-0">We’re here to care for you and your entire family doctor will general health! Our doctors include highly qualified male and female practitioners who come from a range of backgrounds and bring a diversity of skills.</p>
+          <h2 class="title">We Employ Cutting-Edge Research Technology & Expertise</h2> 
+          <p class="mb-0">At WIL-KH, we're dedicated to providing high-quality products and services in water, food, and environmental safety. Our state-of-the-art laboratory facilities support our research and development activities, ensuring precise and reliable results.</p>
         </div>
         <div class="d-flex align-items-start">
           <ul class="list-unstyled list-icon mb-5 me-5">
-            <li class="mb-3"><i class="las la-check"></i> Home medicine review</li>
-            <li class="mb-3"><i class="las la-check"></i> Highest Quality Results</li>
-            <li><i class="las la-check"></i> We Ensure Safe Diagnosis</li>
+            <li class="mb-3"><i class="las la-check"></i> Water Quality Testing</li>
+            <li class="mb-3"><i class="las la-check"></i> Food Safety Analysis</li>
+            <li><i class="las la-check"></i> Soil Quality Assessment</li>
           </ul>
           <ul class="list-unstyled list-icon mb-5">
-            <li class="mb-3"><i class="las la-check"></i> Home medicine review</li>
-            <li class="mb-3"><i class="las la-check"></i> Highest Quality Results</li>
-            <li><i class="las la-check"></i> We Ensure Safe Diagnosis</li>
+            <li class="mb-3"><i class="las la-check"></i> Arsenic Research</li>
+            <li class="mb-3"><i class="las la-check"></i> Risk Assessment</li>
+            <li><i class="las la-check"></i> Expert Consultation</li>
           </ul>
         </div>
-        <img class="img-fluid me-3" src="images/sign.png" alt="">
         <a class="btn btn-theme" href="#"> <span>More About</span>
         </a>
       </div>
@@ -129,7 +128,7 @@
       <div class="col-lg-6 col-md-8 pe-md-0">
         <div class="light-bg p-5 z-index-1 mt-n7">
           <div class="ht-progress-bar mb-4">
-            <h4>Environmental Testing</h4>
+            <h4>Water Quality Testing</h4>
             <div class="progress" data-value="85">
               <div class="progress-bar">
                 <div class="progress-parcent"><span>85</span>%</div>
@@ -137,7 +136,7 @@
             </div>
           </div>
           <div class="ht-progress-bar mb-4">
-            <h4>Immune system</h4>
+            <h4>Food Safety Analysis</h4>
             <div class="progress" data-value="75">
               <div class="progress-bar">
                 <div class="progress-parcent"><span>75</span>%</div>
@@ -145,7 +144,7 @@
             </div>
           </div>
           <div class="ht-progress-bar mb-4">
-            <h4>Advanced Microscopy</h4>
+            <h4>Soil Quality Assessment</h4>
             <div class="progress" data-value="95">
               <div class="progress-bar">
                 <div class="progress-parcent"><span>95</span>%</div>
@@ -153,7 +152,7 @@
             </div>
           </div>
           <div class="ht-progress-bar">
-            <h4>Management</h4>
+            <h4>Arsenic Research</h4>
             <div class="progress" data-value="80">
               <div class="progress-bar">
                 <div class="progress-parcent"><span>80</span>%</div>
