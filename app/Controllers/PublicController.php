@@ -55,6 +55,76 @@ class PublicController extends BaseController
         ]);
     }
 
+    public function WaterProduct(): string
+    {
+        return $this->renderView('about_us_view', [
+            'public/public_header',
+            'public/water_product',
+            'public/public_footer',
+        ]);
+    }
+
+    public function FoodProduct(): string
+    {
+        return $this->renderView('about_us_view', [
+            'public/public_header',
+            'public/food_product',
+            'public/public_footer',
+        ]);
+    }
+
+    public function EnvironmentalProduct(): string
+    {
+        return $this->renderView('about_us_view', [
+            'public/public_header',
+            'public/environmental_product',
+            'public/public_footer',
+        ]);
+    }
+
+    public function Laboratory(): string
+    {
+        return $this->renderView('about_us_view', [
+            'public/public_header',
+            'public/laboratory',
+            'public/public_footer',
+        ]);
+    }
+    public function WaterQualityTest(): string
+    {
+        return $this->renderView('about_us_view', [
+            'public/public_header',
+            'public/water_quality_test',
+            'public/public_footer',
+        ]);
+    }
+    public function FoodQualityTest(): string
+    {
+        return $this->renderView('about_us_view', [
+            'public/public_header',
+            'public/food_quality_test',
+            'public/public_footer',
+        ]);
+    }
+
+    public function SoilQualityTest(): string
+    {
+        return $this->renderView('about_us_view', [
+            'public/public_header',
+            'public/soil_quality_test',
+            'public/public_footer',
+        ]);
+    }
+
+    public function ArsenicResearch(): string
+    {
+        return $this->renderView('about_us_view', [
+            'public/public_header',
+            'public/arsenic_research',
+            'public/public_footer',
+        ]);
+    }
+
 
 
     /**

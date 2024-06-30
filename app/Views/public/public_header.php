@@ -170,10 +170,10 @@
                     <li class="dropdown-submenu"><a class="dropdown-item" href="<?php echo base_url('/our_team') ?>">Team</a>
 
                     </li>
-                    <li class="dropdown-submenu"><a class="dropdown-item" href="contact_us">Contact Us</a>
+                    <li class="dropdown-submenu"><a class="dropdown-item" href="<?php echo base_url('/contact_us') ?>">Contact Us</a>
                       
                     </li>
-                    <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">Element</a>
+                    <!-- <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">Element</a>
                       <ul class="dropdown-menu">
                         <li><a href="shortcode-about.html">About</a>
                         </li>
@@ -192,8 +192,8 @@
                         <li> <a href="shortcode-testimonial.html">Testimonial</a>
                         </li>
                       </ul>
-                    </li>
-                    <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">Utilities</a>
+                    </li> -->
+                    <!-- <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">Utilities</a>
                       <ul class="dropdown-menu">
                         <li><a href="faq.html">Faq</a>
                         </li>
@@ -206,10 +206,10 @@
                         <li><a href="error-404.html">404 Error</a>
                         </li>
                       </ul>
-                    </li>
+                    </li> -->
                   </ul>
                 </li>
-                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Shop</a>
+                <!-- <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Shop</a>
                   <ul class="dropdown-menu">
                     <li><a href="product-grid.html">Product Grid</a>
                     </li>
@@ -222,29 +222,28 @@
                     <li><a href="product-checkout.html">Product Checkout</a>
                     </li>
                   </ul>
-                </li>
-                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Services</a>
+                </li> -->
+                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Development</a>
                   <ul class="dropdown-menu">
-                    <li><a href="pathologycam-testing.html">Pathologycam Testing</a>
+                    <li><a href="<?php echo base_url('/water_product') ?>">Water Product</a>
                     </li>
-                    <li><a href="biochemistry-solution.html">Biochemistry Solution</a>
+                    <li><a href="<?php echo base_url('/food_product') ?>">Food Product</a>
                     </li>
-                    <li><a href="chemical-research.html">Chemical Research</a>
+                    <li><a href="<?php echo base_url('/environmental_product') ?>">Environmental Product</a>
                     </li>
-                    <li><a href="pharmaceutical-research.html">Pharmaceutical Research</a>
-                    </li>
-                    <li><a href="diabetes-testing.html">Diabetes Testing</a>
-                    </li>
+                     
                   </ul>
                 </li>
                 <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">
                       Research
                     </a>
                   <ul class="dropdown-menu">
-                    <li><a href="research-style-1.html">Research Style One</a>
+                    <li><a href="<?php echo base_url('/laboratory') ?>">Laboratory</a>
                     </li>
-                    <li><a href="research-single.html">Research Single</a>
-                    </li>
+                    <li><a href="<?php echo base_url('/water_quality_test') ?>">Water Quality Test</a></li>
+                    <li><a href="<?php echo base_url('/food_quality_test') ?>">Food Quality Test</a></li>
+                    <li><a href="<?php echo base_url('/soil_quality_test') ?>">Soil Quality Test</a></li>
+                    <li><a href="<?php echo base_url('/arsenic_research') ?>">Arsenic Research</a></li>
                   </ul>
                 </li>
                 <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">News</a>
