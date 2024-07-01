@@ -1,4 +1,4 @@
-a:3:{s:4:"time";i:1719736982;s:3:"ttl";i:1;s:4:"data";s:29761:"<!DOCTYPE html>
+a:3:{s:4:"time";i:1719816493;s:3:"ttl";i:1;s:4:"data";s:38068:"<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -162,53 +162,7 @@ a:3:{s:4:"time";i:1719736982;s:3:"ttl";i:1;s:4:"data";s:29761:"<!DOCTYPE html>
                 <li class="nav-item dropdown"> <a class="nav-link active" href="https://localhost/wil-kh-v2/">Home</a>
 
                 </li>
-                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Pages</a>
-                  <ul class="dropdown-menu">
-                    <li class="dropdown-submenu"><a class="dropdown-item" href="https://localhost/wil-kh-v2/about_us">About Us</a>
-
-                    </li>
-                    <li class="dropdown-submenu"><a class="dropdown-item" href="https://localhost/wil-kh-v2/our_team">Team</a>
-
-                    </li>
-                    <li class="dropdown-submenu"><a class="dropdown-item" href="https://localhost/wil-kh-v2/contact_us">Contact Us</a>
-                      
-                    </li>
-                    <!-- <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">Element</a>
-                      <ul class="dropdown-menu">
-                        <li><a href="shortcode-about.html">About</a>
-                        </li>
-                        <li> <a href="shortcode-counter.html">Counter</a>
-                        </li>
-                        <li> <a href="shortcode-feature.html">Feature Box</a>
-                        </li>
-                        <li><a href="shortcode-pricing.html">Pricing Table</a>
-                        </li>
-                        <li> <a href="shortcode-progress-bar.html">Progress Bar</a>
-                        </li>
-                        <li> <a href="shortcode-services.html">Services</a>
-                        </li>
-                        <li> <a href="shortcode-team.html">Team</a>
-                        </li>
-                        <li> <a href="shortcode-testimonial.html">Testimonial</a>
-                        </li>
-                      </ul>
-                    </li> -->
-                    <!-- <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">Utilities</a>
-                      <ul class="dropdown-menu">
-                        <li><a href="faq.html">Faq</a>
-                        </li>
-                        <li><a href="pricing.html">Pricing</a>
-                        </li>
-                        <li> <a href="login.html">Login</a>
-                        </li>
-                        <li><a href="coming-soon.html">Coming Soon</a>
-                        </li>
-                        <li><a href="error-404.html">404 Error</a>
-                        </li>
-                      </ul>
-                    </li> -->
-                  </ul>
-                </li>
+                
                 <!-- <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Shop</a>
                   <ul class="dropdown-menu">
                     <li><a href="product-grid.html">Product Grid</a>
@@ -256,8 +210,28 @@ a:3:{s:4:"time";i:1719736982;s:3:"ttl";i:1;s:4:"data";s:29761:"<!DOCTYPE html>
                     </li>
                   </ul>
                 </li>
+                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Pages</a>
+                  <ul class="dropdown-menu">
+                    <li class="dropdown-submenu"><a class="dropdown-item" href="https://localhost/wil-kh-v2/about_us">About Us</a>
+
+                    </li>
+                    <li class="dropdown-submenu"><a class="dropdown-item" href="https://localhost/wil-kh-v2/our_team">Team</a>
+
+                    </li>
+                    <li class="dropdown-submenu"><a class="dropdown-item" href="https://localhost/wil-kh-v2/contact_us">Contact Us</a>
+                      
+                    </li>
+                    <li class="dropdown-submenu"><a class="dropdown-item" href="https://localhost/wil-kh-v2/our_vision">Our Vision</a>
+                      
+                    </li>
+
+
+                  </ul>
+                </li>
               </ul>
+              
             </div>
+            
             <div class="right-nav align-items-center d-flex justify-content-end">
               
               <div class="ms-sm-3 me-md-5">
@@ -283,21 +257,24 @@ a:3:{s:4:"time";i:1719736982;s:3:"ttl";i:1;s:4:"data";s:29761:"<!DOCTYPE html>
   </div>
 </div>
 
-<!--header end--><!--page title start-->
+<!--header end-->
 
-<section class="page-title parallaxie" data-bg-img="https://images.pexels.com/photos/4467632/pexels-photo-4467632.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+
+<!--page title start-->
+
+<section class="page-title parallaxie" data-bg-img="https://media.istockphoto.com/id/1346675527/photo/medical-science-laboratory-portrait-of-beautiful-black-scientist-looking-under-microscope.jpg?s=1024x1024&w=is&k=20&c=Q6PN-EmvU-xCP6Ky5mPoppAaoOheCdFOLmrwklaO5SI=">
   <div class="container">
     <div class="row">
       <div class="col-lg-6">
         <div class="white-bg p-md-5 p-3 d-inline-block">
-        <h1 class="text-theme">Journal <span class="text-black">Articles</span></h1>
+        <h1 class="text-theme">About <span class="text-black">Wil-Kh</span></h1>
         <nav aria-label="breadcrumb" class="page-breadcrumb border-top border-light pt-3 mt-3">
           <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="index.html"><i class="las la-home me-1"></i>Home</a>
             </li>
-            <li class="breadcrumb-item">Research
+            <li class="breadcrumb-item">Pages
             </li>
-            <li class="breadcrumb-item active" aria-current="page">Journal Articles</li>
+            <li class="breadcrumb-item active" aria-current="page">About Us</li>
           </ol>
         </nav>
         </div>
@@ -308,183 +285,145 @@ a:3:{s:4:"time";i:1719736982;s:3:"ttl";i:1;s:4:"data";s:29761:"<!DOCTYPE html>
 
 <!--page title end-->
 
+
 <!--body content start-->
 
 <div class="page-content">
 
-<!--journal articles start-->
+<!--about start-->
 
 <section>
   <div class="container">
-    <div class="row">
-      <div class="col-12 col-lg-8 mb-6 mb-lg-0">
-        <!-- Journal Article Card -->
-        <div class="card post-card border-0 rounded-0 shadow-sm bg-transparent mb-6">
-          <img class="card-img-top" src="https://images.pexels.com/photos/26705424/pexels-photo-26705424/free-photo-of-otters-with-food-in-water.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Water Quality Research">
-          <div class="card-body px-4 pb-4 pt-0">
-            <div class="mt-n3">
-              <div class="d-inline-block white-bg px-2 py-1 text-black box-shadow">15 May 2024</div>
+    <div class="row align-items-center justify-content-between">
+      <div class="col-lg-6 col-12">
+        <div class="me-5">
+          <img class="img-fluid w-100" src="https://media.istockphoto.com/id/1139014038/photo/black-female-biochemist-using-microscope-while-working-on-research-in-a-laboratory.jpg?s=1024x1024&w=is&k=20&c=MRUoi-kL1qyBm1hsq6-hUjfVkmiplQ3pA7iEP3sfZmU=" alt="">
+        </div>
+        <div class="white-bg mt-n6 p-5 shadow-sm ms-5 z-index-1">
+          <div class="owl-carousel no-pb" data-dots="false" data-items="2" data-autoplay="true" data-autoplay-timeout="8000">
+            <div class="item">
+              <div class="counter d-flex">
+                <div class="counter-icon me-3"> <i class="flaticon-medical-laboratory-1"></i>
+                </div>
+                <div class="counter-desc"> <span class="count-number text-black" data-to="24" data-speed="2000">24</span>
+                  <h6>Our Equipments</h6>
+                </div>
+              </div>
             </div>
-            <h2 class="h4 my-3">Innovative Approaches to Water Quality Monitoring in Urban Areas</h2>
-            <ul class="list-inline mb-0 border-top border-bottom border-light py-2 mb-4">
-              <li class="list-inline-item"> <a href="#" class="text-black"><i class="lar la-user-circle me-1"></i> Dr. Sarah Johnson</a>
-              </li>
-              <li class="list-inline-item"> <a href="#" class="text-black"><i class="las la-eye me-1"></i> 524</a>
-              </li>
-              <li class="list-inline-item"> <a href="#" class="text-black"><i class="lar la-comments me-1"></i> 48</a>
-              </li>
-            </ul>
-            <div class="d-flex justify-content-between align-items-center">
-              <div><a class="px-3 py-2 light-bg text-black" href="#">Water Quality</a>  <a class="px-3 py-2 light-bg text-black" href="#">Urban Water</a>
-              </div> <a class="link-btn" href="article-single.html"><i class="las la-long-arrow-alt-right"></i></a>
+            <div class="item">
+              <div class="counter d-flex">
+                <div class="counter-icon me-3"> <i class="flaticon-heathcare-and-medical"></i>
+                </div>
+                <div class="counter-desc"> <span class="count-number text-black" data-to="272" data-speed="2000">272</span>
+                  <h6>Field Expertise</h6>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="counter d-flex">
+                <div class="counter-icon me-3"> <i class="flaticon-pharmacy"></i>
+                </div>
+                <div class="counter-desc"> <span class="count-number text-black" data-to="423" data-speed="2000">423</span>
+                  <h6>Complete Cases</h6>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="counter d-flex">
+                <div class="counter-icon me-3"> <i class="flaticon-award"></i>
+                </div>
+                <div class="counter-desc"> <span class="count-number text-black" data-to="576" data-speed="2000">576</span>
+                  <h6>Awards Winning</h6>
+                </div>
+              </div>
             </div>
           </div>
-        </div>
-        <!-- End Journal Article Card -->
-        
-        <!-- Journal Article Card -->
-        <div class="card post-card border-0 rounded-0 shadow-sm bg-transparent mb-6">
-          <img class="card-img-top" src="https://blueandgreentomorrow.com/wp-content/uploads/2023/07/sustainable-water-treatment-scaled.jpg" alt="Water Treatment Technology">
-          <div class="card-body px-4 pb-4 pt-0">
-            <div class="mt-n3">
-              <div class="d-inline-block white-bg px-2 py-1 text-black box-shadow">3 April 2024</div>
-            </div>
-            <h2 class="h4 my-3">Advanced Membrane Technology for Sustainable Water Treatment</h2>
-            <ul class="list-inline mb-0 border-top border-bottom border-light py-2 mb-4">
-              <li class="list-inline-item"> <a href="#" class="text-black"><i class="lar la-user-circle me-1"></i> Prof. Michael Lee</a>
-              </li>
-              <li class="list-inline-item"> <a href="#" class="text-black"><i class="las la-eye me-1"></i> 412</a>
-              </li>
-              <li class="list-inline-item"> <a href="#" class="text-black"><i class="lar la-comments me-1"></i> 35</a>
-              </li>
-            </ul>
-            <div class="d-flex justify-content-between align-items-center">
-              <div><a class="px-3 py-2 light-bg text-black" href="#">Water Treatment</a>  <a class="px-3 py-2 light-bg text-black" href="#">Membrane Technology</a>
-              </div> <a class="link-btn" href="article-single.html"><i class="las la-long-arrow-alt-right"></i></a>
-            </div>
-          </div>
-        </div>
-        <!-- End Journal Article Card -->
-        
-        <!-- Journal Article Card -->
-        <div class="card post-card border-0 rounded-0 shadow-sm bg-transparent">
-          <img class="card-img-top" src="https://chahalacademy.com/assets/study-material/water-conservation.webp" alt="Water Scarcity Solutions">
-          <div class="card-body px-4 pb-4 pt-0">
-            <div class="mt-n3">
-              <div class="d-inline-block white-bg px-2 py-1 text-black box-shadow">20 March 2024</div>
-            </div>
-            <h2 class="h4 my-3">Addressing Water Scarcity: A Comprehensive Approach to Conservation and Reuse</h2>
-            <ul class="list-inline mb-0 border-top border-bottom border-light py-2 mb-4">
-              <li class="list-inline-item"> <a href="#" class="text-black"><i class="lar la-user-circle me-1"></i> Dr. Emily Chen</a>
-              </li>
-              <li class="list-inline-item"> <a href="#" class="text-black"><i class="las la-eye me-1"></i> 378</a>
-              </li>
-              <li class="list-inline-item"> <a href="#" class="text-black"><i class="lar la-comments me-1"></i> 42</a>
-              </li>
-            </ul>
-            <div class="d-flex justify-content-between align-items-center">
-              <div><a class="px-3 py-2 light-bg text-black" href="#">Water Scarcity</a>  <a class="px-3 py-2 light-bg text-black" href="#">Conservation</a>
-              </div> <a class="link-btn" href="article-single.html"><i class="las la-long-arrow-alt-right"></i></a>
-            </div>
-          </div>
-        </div>
-        <!-- End Journal Article Card -->
-        
-        <!-- Pagination -->
-        <div class="mt-8">
-          <nav aria-label="Page navigation">
-            <ul class="pagination">
-              <li class="page-item"><a class="page-link" href="#">Previous</a>
-              </li>
-              <li class="page-item"><a class="page-link" href="#">1</a>
-              </li>
-              <li class="page-item"><a class="page-link" href="#">2</a>
-              </li>
-              <li class="page-item"><a class="page-link" href="#">3</a>
-              </li>
-              <li class="page-item"><a class="page-link" href="#">Next</a>
-              </li>
-            </ul>
-          </nav>
         </div>
       </div>
-      
-      <!-- Sidebar -->
-      <div class="col-12 col-lg-4">
-        <!-- Search Widget -->
-        <div class="mb-5 p-4 border">
-          <form>
-            <div class="input-group">
-              <input class="form-control h-auto" type="search" placeholder="Search Articles" aria-label="Search">
-              <button class="btn btn-theme mt-2 my-sm-0" type="submit"><span><i class="las la-search"></i></span>
-              </button>
-            </div>
-          </form>
+      <div class="col-lg-6 col-12 mt-6 mt-lg-0 ps-lg-6">
+        <div class="section-title">
+          <h2 class="title">We Employ Cutting-Edge Research Technology & Expertise</h2> 
+          <p class="mb-0">At WIL-KH, we're dedicated to providing high-quality products and services in water, food, and environmental safety. Our state-of-the-art laboratory facilities support our research and development activities, ensuring precise and reliable results.</p>
         </div>
-        
-        <!-- Recent Articles Widget -->
-        <div class="mb-5 p-4 border">
-          <h4 class="mb-3">Recent Articles</h4>
-          <article>
-            <div class="row align-items-center">
-              <div class="col-sm-5">
-                <img src="images/research/recent-1.jpg" class="img-fluid" alt="Recent Article 1">
-              </div>
-              <div class="col-sm-7">
-                <h5 class="h6">
-                  <a href="article-single.html">Nanotechnology in Water Purification: A Breakthrough Study</a>
-                </h5>
-                <a class="d-inline-block text-grey" href="#">10 May 2024</a>
-              </div>
-            </div>
-          </article>
-          <!-- Add more recent articles here -->
-        </div>
-        
-        <!-- Categories Widget -->
-        <div class="mb-5 p-4 border">
-          <h4 class="mb-3">Categories</h4>
-          <ul class="list-unstyled list-group list-group-flush">
-            <li class="mb-3"> <a class="list-group-item text-black border-0" href="#">
-                  Water Quality
-                  <span class="ms-2 light-bg font-weight-normal p-2">18</span>
-                </a>
-            </li>
-            <li class="mb-3"> <a class="list-group-item text-black border-0" href="#">
-                  Water Treatment
-                  <span class="ms-2 light-bg font-weight-normal p-2">24</span>
-                </a>
-            </li>
-            <li class="mb-3"> <a class="list-group-item text-black border-0" href="#">
-                  Water Conservation
-                  <span class="ms-2 light-bg font-weight-normal p-2">15</span>
-                </a>
-            </li>
-            <li class="mb-3"> <a class="list-group-item text-black border-0" href="#">
-                  Sustainable Technologies
-                  <span class="ms-2 light-bg font-weight-normal p-2">22</span>
-                </a>
-            </li>
-            <li> <a class="list-group-item text-black border-0" href="#">
-                  Water Policy
-                  <span class="ms-2 light-bg font-weight-normal p-2">11</span>
-                </a>
-            </li>
+        <div class="d-flex align-items-start">
+          <ul class="list-unstyled list-icon mb-5 me-5">
+            <li class="mb-3"><i class="las la-check"></i> Water Quality Testing</li>
+            <li class="mb-3"><i class="las la-check"></i> Food Safety Analysis</li>
+            <li><i class="las la-check"></i> Soil Quality Assessment</li>
+          </ul>
+          <ul class="list-unstyled list-icon mb-5">
+            <li class="mb-3"><i class="las la-check"></i> Arsenic Research</li>
+            <li class="mb-3"><i class="las la-check"></i> Risk Assessment</li>
+            <li><i class="las la-check"></i> Expert Consultation</li>
           </ul>
         </div>
-        
-        <!-- Tags Widget -->
-        <div class="p-4 border widget-tags">
-          <h4 class="mb-3">Tags</h4>
-          <div> 
-            <a class="d-inline-block m-1" href="#">Water Quality</a>
-            <a class="d-inline-block m-1" href="#">Purification</a>
-            <a class="d-inline-block m-1" href="#">Conservation</a>
-            <a class="d-inline-block m-1" href="#">Sustainability</a>
-            <a class="d-inline-block m-1" href="#">Urban Water</a>
-            <a class="d-inline-block m-1" href="#">Technology</a>
-            <a class="d-inline-block m-1" href="#">Innovation</a>
-            <a class="d-inline-block m-1" href="#">Research</a>
+        <a class="btn btn-theme" href="#"> <span>More About</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--about end-->
+
+
+<!--multi-sec start-->
+
+<section class="p-0">
+  <div class="container-fluid ps-0">
+    <div class="row">
+      <div class="col-lg-7 col-md-10 col-11">
+        <div class="dark-bg p-lg-7 p-4 pb-10" data-bg-img="images/pattern/02.png">
+          <div class="section-title ms-md-5">
+            <h2 class="title">We’re Setting the New Standards in Laboratory & Research Professional.</h2> 
+            <p class="lead text-light">We Provide All Aspects Of Medical Practice For Your Whole Family!</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6 col-md-8 pe-md-0">
+        <div class="light-bg p-5 z-index-1 mt-n7">
+          <div class="ht-progress-bar mb-4">
+            <h4>Water Quality Testing</h4>
+            <div class="progress" data-value="85">
+              <div class="progress-bar">
+                <div class="progress-parcent"><span>85</span>%</div>
+              </div>
+            </div>
+          </div>
+          <div class="ht-progress-bar mb-4">
+            <h4>Food Safety Analysis</h4>
+            <div class="progress" data-value="75">
+              <div class="progress-bar">
+                <div class="progress-parcent"><span>75</span>%</div>
+              </div>
+            </div>
+          </div>
+          <div class="ht-progress-bar mb-4">
+            <h4>Soil Quality Assessment</h4>
+            <div class="progress" data-value="95">
+              <div class="progress-bar">
+                <div class="progress-parcent"><span>95</span>%</div>
+              </div>
+            </div>
+          </div>
+          <div class="ht-progress-bar">
+            <h4>Arsenic Research</h4>
+            <div class="progress" data-value="80">
+              <div class="progress-bar">
+                <div class="progress-parcent"><span>80</span>%</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-6 col-md-10 col-12 ms-auto ps-0">
+        <div class="position-relative overflow-hidden img-border mt-n15 custom-mt-0">
+          <img class="img-fluid w-100" src="https://media.istockphoto.com/id/1224202593/photo/multi-ethnic-scientists-discussing-brainwave-scanning-model-rear-view.jpg?s=1024x1024&w=is&k=20&c=jgsKbWZBKLBiLRkFteqbFcnZD4e_WpuO_ASDl5NwVdE=" alt="">
+          <div class="video-btn video-btn-pos"> <a class="play-btn popup-youtube mr-3" href="https://www.youtube.com/watch?v=P_wKDMcr1Tg"><i class="las la-play"></i></a>
           </div>
         </div>
       </div>
@@ -492,11 +431,284 @@ a:3:{s:4:"time";i:1719736982;s:3:"ttl";i:1;s:4:"data";s:29761:"<!DOCTYPE html>
   </div>
 </section>
 
-<!--journal articles end-->
+<!--multi-sec end-->
+
+
+<!--feature start-->
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-3 col-sm-6">
+        <div class="featured-item style-1">
+          <div class="featured-icon"> <i class="flaticon-laboratory-1"></i>
+          </div>
+          <div class="featured-title">
+            <h5>High-End Latest Technology</h5>
+          </div>
+          <div class="featured-desc">
+            <p>Our firm is expert to create an efficient user interface that.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6 mt-5 mt-sm-0">
+        <div class="featured-item style-1 active">
+          <div class="featured-icon"> <i class="flaticon-laboratory"></i>
+          </div>
+          <div class="featured-title">
+            <h5>Medical laboratory Technician</h5>
+          </div>
+          <div class="featured-desc">
+            <p>Our firm is expert to create an efficient user interface that.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6 mt-5 mt-lg-0">
+        <div class="featured-item style-1">
+          <div class="featured-icon"> <i class="flaticon-biology-1"></i>
+          </div>
+          <div class="featured-title">
+            <h5>Highest Quality Pathologycam Testing</h5>
+          </div>
+          <div class="featured-desc">
+            <p>Our firm is expert to create an efficient user interface that.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6 mt-5 mt-lg-0">
+        <div class="featured-item style-1">
+          <div class="featured-icon"> <i class="flaticon-help-call"></i>
+          </div>
+          <div class="featured-title">
+            <h5>Emergency Help Available 24/7</h5>
+          </div>
+          <div class="featured-desc">
+            <p>Our firm is expert to create an efficient user interface that.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--feature end-->
+
+
+<!--call us start-->
+
+<section class="theme-bg py-5">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-md-6 col-12">
+        <h3 class="text-light">Need a Help for Check-up? Call for an Emergency Laboratory Services</h3>
+      </div>
+      <div class="col-md-5 col-12 ms-auto mt-3 mt-lg-0">
+        <div class="d-flex align-items-start justify-content-end">
+          <div class="text-white text-end"> <span>Help Desk 24/7</span>
+            <h3 class="font-w-4"><a class="text-decoration-underline text-white" href="tel:+(01)24665813917">(01)-246-6581-3917</a></h3>
+          </div> <span class="white-bg d-inline-block p-2 ms-4"><i class="las la-phone ic-3x text-theme"></i></span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--call us end-->
+
+
+<!--team start-->
+
+<section>
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-5">
+        <div class="accordion" id="accordion">
+          <div class="accordion-item mb-4">
+            <h2 class="accordion-header" id="headingOne">
+      <button class="accordion-button rounded-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+        Can we take a second opinion ?
+      </button>
+    </h2>
+            <div id="collapseOne" class="accordion-collapse border-0 collapse show" aria-labelledby="headingOne" data-bs-parent="#accordion">
+              <div class="accordion-body">Discovered Many desktop publishing packages and web page editors now use Nor again is there anyone who loves or pursues or desires to obtain pain of itself.</div>
+            </div>
+          </div>
+          <div class="accordion-item mb-4">
+            <h2 class="accordion-header" id="headingTwo">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        Is the treatment at Hospital is affordable ?
+      </button>
+    </h2>
+            <div id="collapseTwo" class="accordion-collapse border-0 collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion">
+              <div class="accordion-body">Discovered Many desktop publishing packages and web page editors now use Nor again is there anyone who loves or pursues or desires to obtain pain of itself.</div>
+            </div>
+          </div>
+          <div class="accordion-item mb-4">
+            <h2 class="accordion-header" id="headingThree">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+        which is the same as saying through ?
+      </button>
+    </h2>
+            <div id="collapseThree" class="accordion-collapse border-0 collapse" aria-labelledby="headingThree" data-bs-parent="#accordion">
+              <div class="accordion-body">Discovered Many desktop publishing packages and web page editors now use Nor again is there anyone who loves or pursues or desires to obtain pain of itself.</div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingFour">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+        When our power of choice Labortech ?
+      </button>
+    </h2>
+            <div id="collapseFour" class="accordion-collapse border-0 collapse" aria-labelledby="headingFour" data-bs-parent="#accordion">
+              <div class="accordion-body">Discovered Many desktop publishing packages and web page editors now use Nor again is there anyone who loves or pursues or desires to obtain pain of itself.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-6 ms-auto mt-5 mt-lg-0">
+        <div class="row">
+          <div class="col-sm-6">
+            <div class="team-member">
+              <div class="team-images">
+                <img class="img-fluid" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScgLRQSYc4yr3YdbZZkKT67izUK8O0Uy4oqg&s" alt="">
+              </div>
+              <div class="team-description">
+                <h5><a href="team-single.html">Dr.Shiran Reni</a></h5>
+                <span>Pathology Special</span> 
+              </div>
+              <ul class="team-social-icon list-inline">
+                <li><a href="#"><i class="lab la-facebook-f"></i></a>
+                </li>
+                <li><a href="#"><i class="lab la-twitter"></i></a>
+                </li>
+                <li><a href="#"><i class="lab la-pinterest-p"></i></a>
+                </li>
+                <li><a href="#"><i class="lab la-linkedin-in"></i></a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-sm-6 mt-5 mt-sm-0">
+            <div class="team-member">
+              <div class="team-images">
+                <img class="img-fluid" src="https://hips.hearstapps.com/hmg-prod/images/portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg?crop=0.66698xw:1xh;center,top&resize=1200:*" alt="">
+              </div>
+              <div class="team-description">
+                <h5><a href="team-single.html">Dr.Kamal Leno</a></h5>
+                <span>Chemist Expert</span> 
+              </div>
+              <ul class="team-social-icon list-inline">
+                <li><a href="#"><i class="lab la-facebook-f"></i></a>
+                </li>
+                <li><a href="#"><i class="lab la-twitter"></i></a>
+                </li>
+                <li><a href="#"><i class="lab la-pinterest-p"></i></a>
+                </li>
+                <li><a href="#"><i class="lab la-linkedin-in"></i></a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-sm-6 mt-5">
+            <div class="team-member">
+              <div class="team-images">
+                <img class="img-fluid" src="https://static.vecteezy.com/system/resources/thumbnails/028/287/555/small_2x/an-indian-young-female-doctor-isolated-on-green-ai-generated-photo.jpg" alt="">
+              </div>
+              <div class="team-description">
+                <h5><a href="team-single.html">Dr.Melena Jos</a></h5>
+                <span>Lab Head</span> 
+              </div>
+              <ul class="team-social-icon list-inline">
+                <li><a href="#"><i class="lab la-facebook-f"></i></a>
+                </li>
+                <li><a href="#"><i class="lab la-twitter"></i></a>
+                </li>
+                <li><a href="#"><i class="lab la-pinterest-p"></i></a>
+                </li>
+                <li><a href="#"><i class="lab la-linkedin-in"></i></a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-sm-6 mt-5">
+            <div class="team-member">
+              <div class="team-images">
+                <img class="img-fluid" src="https://media.istockphoto.com/id/1387249869/photo/portrait-of-female-doctor-on-white-background-stock-photo.jpg?s=612x612&w=0&k=20&c=sxP8CynTAUXHjqwG2c_J8sQ9hnsP5o1i4S2w9cR38TI=" alt="">
+              </div>
+              <div class="team-description">
+                <h5><a href="team-single.html">Dr.Leena Ivy</a></h5>
+                <span>Research Expert</span> 
+              </div>
+              <ul class="team-social-icon list-inline">
+                <li><a href="#"><i class="lab la-facebook-f"></i></a>
+                </li>
+                <li><a href="#"><i class="lab la-twitter"></i></a>
+                </li>
+                <li><a href="#"><i class="lab la-pinterest-p"></i></a>
+                </li>
+                <li><a href="#"><i class="lab la-linkedin-in"></i></a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--team end-->
+
+
+<!--testimonial start-->
+
+<section class="p-0">
+  <div class="container-fluid p-0">
+    <div class="row g-0">
+      <div class="col-md-4" data-bg-img="https://media.istockphoto.com/id/1211334144/photo/scientist-is-looking-through-a-microscope.jpg?s=1024x1024&w=is&k=20&c=GrW2gTaXH4Hdn6KQtnZv0-54Zq27AQ10Hv8bZfaWYU8="></div>
+      <div class="col-md-8 theme-bg py-5 px-lg-8 px-5">
+        <div class="owl-carousel no-pb" data-dots="false" data-items="1" data-autoplay="true" data-autoplay-timeout="8000">
+          <div class="item">
+            <div class="testimonial text-center">
+              <div class="testimonial-img mb-2">
+                <img class="img-fluid rounded-circle shadow-sm d-inline-block" src="images/testimonial/01.jpg" alt="">
+              </div>
+              <div class="testimonial-content">
+                <div class="testimonial-caption mb-3">
+                  <h5 class="text-white">Andrew Rooney</h5>
+                  <label class="fst-italic d-block text-light">-Supervisor</label>
+                </div>
+                <p class="fst-italic text-light">Labortech great place to work because of the opportunities for moving between centres and trying something new within your area of expertise. The laboratory is also an open and flexible workplace & great place to work with.</p>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="testimonial text-center">
+              <div class="testimonial-img mb-2">
+                <img class="img-fluid rounded-circle shadow-sm d-inline-block" src="images/testimonial/01.jpg" alt="">
+              </div>
+              <div class="testimonial-content">
+                <div class="testimonial-caption mb-3">
+                  <h5 class="text-white">Andrew Rooney</h5>
+                  <label class="fst-italic d-block text-light">-Supervisor</label>
+                </div>
+                <p class="fst-italic text-light">Labortech great place to work because of the opportunities for moving between centres and trying something new within your area of expertise. The laboratory is also an open and flexible workplace & great place to work with.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--testimonial end-->
 
 </div>
 
-<!--body content end-->
+<!--body content end--> 
+
+
 <!--footer start-->
 
 <footer class="footer light-bg">

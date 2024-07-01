@@ -1,4 +1,4 @@
-a:3:{s:4:"time";i:1719736349;s:3:"ttl";i:1;s:4:"data";s:55080:"<!DOCTYPE html>
+a:3:{s:4:"time";i:1719815952;s:3:"ttl";i:1;s:4:"data";s:55066:"<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -248,11 +248,11 @@ a:3:{s:4:"time";i:1719736349;s:3:"ttl";i:1;s:4:"data";s:55080:"<!DOCTYPE html>
                 </li>
                 <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Publications</a>
                   <ul class="dropdown-menu">
-                    <li><a href="blog-left-sidebar.html">Blog left sidebar</a>
+                    <li><a href="journal_article">Journal Article</a>
                     </li>
-                    <li><a href="blog-right-sidebar.html">Blog right sidebar</a>
+                    <li><a href="blog-right-sidebar.html">Conference</a>
                     </li>
-                    <li><a href="blog-single.html">Blog Single</a>
+                    <li><a href="blog-single.html">WIL Newsletter</a>
                     </li>
                   </ul>
                 </li>

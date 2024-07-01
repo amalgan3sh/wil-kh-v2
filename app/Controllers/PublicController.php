@@ -134,6 +134,15 @@ class PublicController extends BaseController
         ]);
     }
 
+    public function OurVision(): string
+    {
+        return $this->renderView('our_vision_view', [
+            'public/public_header',
+            'public/our_vision',
+            'public/public_footer',
+        ]);
+    }
+
 
 
     /**

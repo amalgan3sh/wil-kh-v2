@@ -162,53 +162,7 @@
                 <li class="nav-item dropdown"> <a class="nav-link active" href="<?php echo base_url('/') ?>">Home</a>
 
                 </li>
-                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Pages</a>
-                  <ul class="dropdown-menu">
-                    <li class="dropdown-submenu"><a class="dropdown-item" href="<?php echo base_url('/about_us') ?>">About Us</a>
-
-                    </li>
-                    <li class="dropdown-submenu"><a class="dropdown-item" href="<?php echo base_url('/our_team') ?>">Team</a>
-
-                    </li>
-                    <li class="dropdown-submenu"><a class="dropdown-item" href="<?php echo base_url('/contact_us') ?>">Contact Us</a>
-                      
-                    </li>
-                    <!-- <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">Element</a>
-                      <ul class="dropdown-menu">
-                        <li><a href="shortcode-about.html">About</a>
-                        </li>
-                        <li> <a href="shortcode-counter.html">Counter</a>
-                        </li>
-                        <li> <a href="shortcode-feature.html">Feature Box</a>
-                        </li>
-                        <li><a href="shortcode-pricing.html">Pricing Table</a>
-                        </li>
-                        <li> <a href="shortcode-progress-bar.html">Progress Bar</a>
-                        </li>
-                        <li> <a href="shortcode-services.html">Services</a>
-                        </li>
-                        <li> <a href="shortcode-team.html">Team</a>
-                        </li>
-                        <li> <a href="shortcode-testimonial.html">Testimonial</a>
-                        </li>
-                      </ul>
-                    </li> -->
-                    <!-- <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">Utilities</a>
-                      <ul class="dropdown-menu">
-                        <li><a href="faq.html">Faq</a>
-                        </li>
-                        <li><a href="pricing.html">Pricing</a>
-                        </li>
-                        <li> <a href="login.html">Login</a>
-                        </li>
-                        <li><a href="coming-soon.html">Coming Soon</a>
-                        </li>
-                        <li><a href="error-404.html">404 Error</a>
-                        </li>
-                      </ul>
-                    </li> -->
-                  </ul>
-                </li>
+                
                 <!-- <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Shop</a>
                   <ul class="dropdown-menu">
                     <li><a href="product-grid.html">Product Grid</a>
@@ -256,8 +210,28 @@
                     </li>
                   </ul>
                 </li>
+                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Pages</a>
+                  <ul class="dropdown-menu">
+                    <li class="dropdown-submenu"><a class="dropdown-item" href="<?php echo base_url('/about_us') ?>">About Us</a>
+
+                    </li>
+                    <li class="dropdown-submenu"><a class="dropdown-item" href="<?php echo base_url('/our_team') ?>">Team</a>
+
+                    </li>
+                    <li class="dropdown-submenu"><a class="dropdown-item" href="<?php echo base_url('/contact_us') ?>">Contact Us</a>
+                      
+                    </li>
+                    <li class="dropdown-submenu"><a class="dropdown-item" href="<?php echo base_url('/our_vision') ?>">Our Vision</a>
+                      
+                    </li>
+
+
+                  </ul>
+                </li>
               </ul>
+              
             </div>
+            
             <div class="right-nav align-items-center d-flex justify-content-end">
               
               <div class="ms-sm-3 me-md-5">
