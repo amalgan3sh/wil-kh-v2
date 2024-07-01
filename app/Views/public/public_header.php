@@ -90,27 +90,27 @@
       <div class="row">
         <div class="col d-flex align-items-center justify-content-between">
           <div class="topbar-link d-flex align-items-center text-black">
-            <div class="d-none d-sm-flex align-items-center me-3">
-              <div> <i class="las la-phone"></i>
-              </div>
-              <div>Emergency Line: <a class="text-black" href="tel:+912345678900"> +91-234-567-8900</a>
-              </div>
+          <div class="d-none d-sm-flex align-items-center me-3">
+            <div> <i class="las la-envelope"></i>
             </div>
-            <div class="d-none d-md-flex align-items-center me-3">
-              <div> <i class="las la-map-marker"></i>
-              </div>
-              <div>
-                <div>Location: Country Cambodia</div>
-              </div>
-            </div>
-            <div class="d-none d-lg-flex align-items-center">
-              <div> <i class="las la-business-time"></i>
-              </div>
-              <div>
-                <div>Mon-Sat: 9.30am To 7.00pm</div>
-              </div>
+            <div>Email: <a class="text-black" href="mailto:lab@wil-kh.com"> lab@wil-kh.com</a>
             </div>
           </div>
+          <div class="d-none d-md-flex align-items-center me-3">
+            <div> <i class="las la-map-marker"></i>
+            </div>
+            <div>
+              <div>Location: Phnom Penh, Cambodia</div>
+            </div>
+          </div>
+          <div class="d-none d-lg-flex align-items-center">
+            <div> <i class="las la-business-time"></i>
+            </div>
+            <div>
+              <div>Mon-Sat: 8.00am To 6.00pm</div>
+            </div>
+          </div>
+
           <div class="d-flex align-items-center"> <a class="btn btn-white btn-sm py-3" href="#"><span>Login</span></a>
             <div class="social-icons d-none d-lg-inline-block ms-3">
               <ul class="list-inline">
