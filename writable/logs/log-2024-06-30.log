@@ -1,0 +1,15 @@
+CRITICAL - 2024-06-30 08:09:53 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "public/food_quality_test.php"
+[Method: GET, Route: food_quality_test]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('public/food_quality_test.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('public/food_quality_test', [], true)
+ 3 APPPATH\Controllers\PublicController.php(150): view('public/food_quality_test')
+ 4 APPPATH\Controllers\PublicController.php(126): App\Controllers\PublicController->App\Controllers\{closure}()
+ 5 APPPATH\Controllers\PublicController.php(147): App\Controllers\PublicController->renderCache('about_us_view', Object(Closure))
+ 6 APPPATH\Controllers\PublicController.php(103): App\Controllers\PublicController->renderView('about_us_view', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PublicController->FoodQualityTest()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PublicController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
