@@ -34,7 +34,7 @@
   <div class="container">
     <div class="row align-items-center mb-6">
       <div class="col-lg-5 col-12">
-        <img class="img-fluid w-100" src="https://images.pexels.com/photos/2280571/pexels-photo-2280571.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+        <img class="img-fluid w-100" src="images/client/img_23.jpg" alt="">
       </div>
       <div class="col-lg-7 col-12 mt-5 mt-lg-0 ps-lg-5">
         <div>

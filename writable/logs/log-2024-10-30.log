@@ -1,0 +1,30 @@
+CRITICAL - 2024-10-30 11:02:54 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "public/conference.php"
+[Method: GET, Route: conference]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('public/conference.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('public/conference', [], true)
+ 3 APPPATH\Controllers\PublicController.php(231): view('public/conference')
+ 4 APPPATH\Controllers\PublicController.php(207): App\Controllers\PublicController->App\Controllers\{closure}()
+ 5 APPPATH\Controllers\PublicController.php(228): App\Controllers\PublicController->renderCache('about_us_view', Object(Closure))
+ 6 APPPATH\Controllers\PublicController.php(166): App\Controllers\PublicController->renderView('about_us_view', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PublicController->Conference()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PublicController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-30 13:10:00 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "public/conference.php"
+[Method: GET, Route: conference]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('public/conference.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('public/conference', [], true)
+ 3 APPPATH\Controllers\PublicController.php(231): view('public/conference')
+ 4 APPPATH\Controllers\PublicController.php(207): App\Controllers\PublicController->App\Controllers\{closure}()
+ 5 APPPATH\Controllers\PublicController.php(228): App\Controllers\PublicController->renderCache('about_us_view', Object(Closure))
+ 6 APPPATH\Controllers\PublicController.php(166): App\Controllers\PublicController->renderView('about_us_view', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PublicController->Conference()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PublicController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

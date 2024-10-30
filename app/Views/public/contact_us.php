@@ -44,7 +44,7 @@
       </div>
     </div>
     <div class="row g-0">
-      <div class="col-lg-8">
+      <div class="col-lg-6">
         <div class="contact-main white-bg shadow-sm p-5">
           <form id="contact-form" class="row" method="post" action="php/contact.php">
             <div id="formmessage"></div>
@@ -59,10 +59,10 @@
             </div>
             <div class="form-group col-md-6">
               <select name="select" class="form-select form-control">
-                <option>- Choose Service</option>
-                <option>Pathology</option>
-                <option>Diabetes</option>
-                <option>Chemical</option>
+                <option> Choose Service</option>
+                <option>Water Testing</option>
+                <option>Food Testing</option>
+                <option>Soil Testing</option>
               </select>
             </div>
             <div class="form-group col-md-12">
@@ -75,24 +75,30 @@
           </form>
         </div>
       </div>
-      <div class="col-lg-4 dark-bg">
+      <div class="col-lg-5 dark-bg">
         <div class="px-3 py-5 p-md-5 text-white">
           <div class="contact-media mb-4">
             <h5 class="text-white">Find Office:</h5>
-            <span>423B, Road Wordwide Country, USA</span>
+            <span>National Road 7, Ampil Krom Village, Kampong Cham, Cambodia </span>
           </div>
           <div class="contact-media mb-4">
             <h5 class="text-white">Contact Us:</h5>
             <ul class="list-unstyled">
-              <li class="mb-2">Phone: <a href="tel:+912345678900">+91-234-567-8900</a>
+              <li class="mb-2">Phone: <a href="tel:+912345678900"><strong>+855 (0) 16 668 900 </strong></a>
               </li>
-              <li>Email: <a href="mailto:themeht23@gmail.com"> themeht23@gmail.com</a>
+              <li class="mb-2">Email:<br>
+              </li>
+              <li>&nbsp&nbsp&nbsp&nbsp General Inquiries: <a href="info@wil-kh.com"><strong>info@wil-kh.com </strong></a>
+              </li>
+              <li>&nbsp&nbsp&nbsp&nbsp Laboratory Services: <a href="mailto:lab@wil-kh.com"><strong>lab@wil-kh.com </strong></a>
+              </li>
+              <li>&nbsp&nbsp&nbsp&nbsp Research Collaborations: <a href="mailto:research@wil-kh.com"><strong>research@wil-kh.com </strong></a>
               </li>
             </ul>
           </div>
           <div class="contact-media mb-4">
             <h5 class="text-white">Working Hours:</h5>
-            <span>Monday - Saturday: 9.30am To 7.00pm</span>
+            <span>Monday - Saturday: <strong>8:00 AM - 12:00 PM, 1:00 PM - 5:00 PM </strong></span>
           </div>
           <div class="social-icons">
             <ul class="list-inline">

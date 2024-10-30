@@ -6,7 +6,7 @@
       <div class="row">
         <div class="col-lg-4 col-12 white-bg p-4 p-md-6">
           <a class="footer-logo" href="<?php echo base_url('/') ?>">
-            <img id="footer-logo" class="img-fluid" src="images/logo-wil.png" alt="" style="width : 60%; height:50%;">
+            <img id="footer-logo" class="img-fluid" src="images/logo-wil.png" alt="" style="width : 60%; height:40%;">
           </a>
           <p class="my-4">Water Innovation Lab is dedicated to provide an excellent service in research, development and innovation in water, environment and foods
 </p>
@@ -53,8 +53,8 @@
                   <li><i class="flaticon-hospital"></i>
                     <p class="mb-0">National Road 7, Ampil Krom Village, Ampil Commune, Kampong Siem District, Kampong Cham, Cambodia</p>
                   </li>
-                  <li><i class="flaticon-medical-report"></i>  <a href="mailto:lab@wil-kh.com">lab@wil-kh.com</a></li>
-                  <li><i class="flaticon-medical-assistance"></i>  <a href="tel:+85512345678">+855-12-345-678</a></li>
+                  <li><i class="flaticon-medical-report"></i>  <a href="mailto:lab@wil-kh.com">lab@wil-kh.com </a></li>
+                  <li><i class="flaticon-medical-assistance"></i>  <a href="tel:+85512345678">+855-16-668 900</a></li>
                   <li><i class="flaticon-working-hours"></i>
                     <p class="mb-0">Mon-Sat: 8:00am to 12:00pm; 1:00pm to 5:00pm<br>Note: Saturday does not accept E. coli & Total Coliforms testing</p>
                   </li>

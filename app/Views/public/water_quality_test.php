@@ -34,12 +34,12 @@
   <div class="container">
     <div class="row align-items-center mb-6">
       <div class="col-lg-5 col-12">
-        <img class="img-fluid w-100" src="https://images.pexels.com/photos/2280571/pexels-photo-2280571.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+      <img class="img-fluid img-border box-shadow w-100" src="images/client/img_21.jpg" alt="water_testing">
       </div>
       <div class="col-lg-7 col-12 mt-5 mt-lg-0 ps-lg-5">
         <div>
           <h3 class="mb-3">Water Quality Testing Overview</h3>
-          <p class="lead mb-4">WIL-KH specializes in comprehensive water quality testing services. We employ cutting-edge techniques and innovative solutions to ensure the highest standards of water safety and purity for our clients.</p>
+          <p class="lead mb-4">Water quality testing is an important part of development because microbial and chemical contaminants can cause water-boned diseases and harm people and the environment.</p>
           <div class="light-bg p-3">
             <ul class="list-unstyled">
               <li class="mb-3"><span class="text-black font-w-5">Service:</span> Water Quality Testing</li>
@@ -55,7 +55,9 @@
     </div>
     <div>
       <h3 class="mb-3">Our Process</h3>
-      <p class="mb-5">At WIL-KH, we prioritize accuracy, reliability, and efficiency in our water quality testing services. Our team of experts utilizes state-of-the-art equipment and follows rigorous protocols to deliver comprehensive and actionable results.</p>
+      <p class="mb-5">Ensuring safe drinking water is crucial for public health. Our water quality testing services offer 
+        reliable results for microbial and chemical contaminants to safeguard water for both consumption 
+        and production purposes. </p>
       <div class="border-top border-start border-light">
         <div class="row g-0">
           <div class="col-lg-4">
@@ -118,51 +120,61 @@
         <div class="owl-carousel no-pb popup-gallery" data-dots="false" data-items="5" data-md-items="3" data-sm-items="2" data-xs-items="1" data-margin="10">
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+            <img class="img-fluid img-border box-shadow w-100" src="images/client/img_13_new.jpg" alt="">
               <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Water Testing</span>
-                <h4><a href="#">Drinking Water Analysis</a></h4>
+                <h4><a href="#">Drinking Water Quality Testing</a></h4>
               </div>
             </div>
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+              <img class="img-fluid img-border box-shadow w-100" src="images/client/img_13_new.jpg" alt="">
               <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Water Testing</span>
-                <h4><a href="#">Industrial Wastewater Testing</a></h4>
+                <h4><a href="#">Wastewater Analysis</a></h4>
               </div>
             </div>
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+              <img class="img-fluid img-border box-shadow w-100" src="images/client/img_13_new.jpg" alt="">
               <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Water Testing</span>
-                <h4><a href="#">Groundwater Monitoring</a></h4>
+                <h4><a href="#">Recreational Water Quality Testing</a></h4>
               </div>
             </div>
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+              <img class="img-fluid img-border box-shadow w-100" src="images/client/img_13_new.jpg" alt="">
               <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Water Testing</span>
-                <h4><a href="#">Surface Water Analysis</a></h4>
+                <h4><a href="#">Water Pollution Control</a></h4>
               </div>
             </div>
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+              <img class="img-fluid img-border box-shadow w-100" src="images/client/img_13_new.jpg" alt="">
               <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Water Testing</span>
-                <h4><a href="#">Microbiological Water Testing</a></h4>
+                <h4><a href="#">Water for Production Testing</a></h4>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="cases-item position-relative overflow-hidden">
+              <img class="img-fluid img-border box-shadow w-100" src="images/client/img_13_new.jpg" alt="">
+              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
+              </a>
+              <div class="cases-title"> <span>Water Testing</span>
+                <h4><a href="#">Irrigation Water Quality Testing</a></h4>
               </div>
             </div>
           </div>

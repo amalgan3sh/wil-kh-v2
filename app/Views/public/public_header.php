@@ -185,6 +185,10 @@
                     </li>
                     <li><a href="<?php echo base_url('/environmental_product') ?>">Environmental Product</a>
                     </li>
+                    <li><a href="<?php echo base_url('/consultation') ?>">Consultation</a>
+                    </li>
+                    <li><a href="<?php echo base_url('/short_course_training') ?>">Short-course training</a>
+                    </li>
                      
                   </ul>
                 </li>
@@ -198,15 +202,16 @@
                     <li><a href="<?php echo base_url('/food_quality_test') ?>">Food Quality Test</a></li>
                     <li><a href="<?php echo base_url('/soil_quality_test') ?>">Soil Quality Test</a></li>
                     <li><a href="<?php echo base_url('/arsenic_research') ?>">Arsenic Research</a></li>
+                    <li><a href="<?php echo base_url('/risk_assessment') ?>">Risk Assessment</a></li>
                   </ul>
                 </li>
                 <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Publications</a>
                   <ul class="dropdown-menu">
                     <li><a href="journal_article">Journal Article</a>
                     </li>
-                    <li><a href="blog-right-sidebar.html">Conference</a>
+                    <li><a href="conference">Conference</a>
                     </li>
-                    <li><a href="blog-single.html">WIL Newsletter</a>
+                    <li><a href="wil_newsletter">WIL Newsletter</a>
                     </li>
                   </ul>
                 </li>

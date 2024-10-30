@@ -113,10 +113,10 @@
       <div class="col-lg-6 col-12 pe-md-6">
         <div class=" position-relative">
           <div class="me-sm-8 mb-10">
-            <img class="img-fluid img-border box-shadow w-100" src="images/about/about-1.jpg" alt="">
+            <img class="img-fluid img-border box-shadow w-100" src="images/client/img_1.jpg" alt="">
           </div>
           <div class="position-absolute bottom-0 ms-8 mb-n10">
-            <img class="img-fluid img-border box-shadow z-index-1" src="https://img.freepik.com/free-photo/realistic-water-drop-with-ecosystem_23-2151196441.jpg" alt="">
+            <img class="img-fluid img-border box-shadow z-index-1" src="images/client/img_2.jpg" alt="">
           </div>
         </div>
       </div>
@@ -172,7 +172,7 @@
           <div class="item">
             <div class="service-item style-2">
               <div class="service-img position-relative overflow-hidden">
-                <img class="img-fluid" src="https://media.istockphoto.com/id/505176828/photo/water-treatment-plant-at-sunset.jpg?s=612x612&w=0&k=20&c=TqbiqmeZcjlZeB2TLoWPrRIyVsYx2m8mZC4rMbNmsXc=" alt=""> <a class="link-btn" href="water-quality-testing.html"><i class="las la-long-arrow-alt-right"></i></a> 
+                <img class="img-fluid" src="images/client/img_14.jpg" alt="">
               </div>
               <div class="service-desc white-bg shadow-none">
                 <div class="service-title">
@@ -187,7 +187,7 @@
           <div class="item">
             <div class="service-item style-2 active">
               <div class="service-img position-relative overflow-hidden">
-                <img class="img-fluid" src="https://st2.depositphotos.com/1758336/6293/i/450/depositphotos_62934977-stock-photo-modern-urban-wastewater-treatment-plant.jpg" alt=""> <a class="link-btn" href="food-safety-analysis.html"><i class="las la-long-arrow-alt-right"></i></a>
+                <img class="img-fluid" src="images/client/img_8.jpg" alt="">
               </div>
               <div class="service-desc white-bg shadow-none">
                 <div class="service-title">
@@ -202,7 +202,7 @@
           <div class="item">
             <div class="service-item style-2">
               <div class="service-img position-relative overflow-hidden">
-                <img class="img-fluid" src="https://st3.depositphotos.com/1104991/14159/i/450/depositphotos_141599966-stock-photo-modern-urban-wastewater-treatment-plant.jpg" alt=""> <a class="link-btn" href="soil-quality-assessment.html"><i class="las la-long-arrow-alt-right"></i></a>
+                <img class="img-fluid" src="images/client/img_25.jpg" alt="">
               </div>
               <div class="service-desc white-bg shadow-none">
                 <div class="service-title">
@@ -298,7 +298,7 @@
         <div class="owl-carousel no-pb popup-gallery" data-dots="false" data-items="4" data-md-items="2" data-sm-items="1" data-xs-items="1" data-margin="10">
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="https://img.freepik.com/free-photo/realistic-water-drop-with-ecosystem_23-2151196380.jpg?t=st=1719650356~exp=1719653956~hmac=1a234d1c3bf5c8613040d7e729bd883b7de322bbff246d4841684721b6c23c7d&w=740" alt="">
+              <img class="img-fluid w-100" src="images/client/img_23_new.jpg" alt="">
               <a class="popup-img" href="https://img.freepik.com/free-photo/realistic-water-drop-with-ecosystem_23-2151196380.jpg?t=st=1719650356~exp=1719653956~hmac=1a234d1c3bf5c8613040d7e729bd883b7de322bbff246d4841684721b6c23c7d&w=740"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Water Quality</span>
@@ -308,7 +308,7 @@
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="https://img.freepik.com/free-photo/realistic-water-drop-with-ecosystem_23-2151196380.jpg?t=st=1719650356~exp=1719653956~hmac=1a234d1c3bf5c8613040d7e729bd883b7de322bbff246d4841684721b6c23c7d&w=740" alt="">
+              <img class="img-fluid w-100" src="images/client/img_23_new.jpg" alt="">
               <a class="popup-img" href="https://img.freepik.com/free-photo/realistic-water-drop-with-ecosystem_23-2151196380.jpg?t=st=1719650356~exp=1719653956~hmac=1a234d1c3bf5c8613040d7e729bd883b7de322bbff246d4841684721b6c23c7d&w=740"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Food Safety</span>
@@ -318,7 +318,7 @@
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="https://img.freepik.com/free-photo/realistic-water-drop-with-ecosystem_23-2151196380.jpg?t=st=1719650356~exp=1719653956~hmac=1a234d1c3bf5c8613040d7e729bd883b7de322bbff246d4841684721b6c23c7d&w=740" alt="">
+              <img class="img-fluid w-100" src="images/client/img_23_new.jpg" alt="">
               <a class="popup-img" href="https://img.freepik.com/free-photo/realistic-water-drop-with-ecosystem_23-2151196380.jpg?t=st=1719650356~exp=1719653956~hmac=1a234d1c3bf5c8613040d7e729bd883b7de322bbff246d4841684721b6c23c7d&w=740"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Soil Quality</span>
@@ -328,7 +328,7 @@
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="https://img.freepik.com/free-photo/realistic-water-drop-with-ecosystem_23-2151196380.jpg?t=st=1719650356~exp=1719653956~hmac=1a234d1c3bf5c8613040d7e729bd883b7de322bbff246d4841684721b6c23c7d&w=740" alt="">
+              <img class="img-fluid w-100" src="images/client/img_23_new.jpg" alt="">
               <a class="popup-img" href="https://img.freepik.com/free-photo/realistic-water-drop-with-ecosystem_23-2151196380.jpg?t=st=1719650356~exp=1719653956~hmac=1a234d1c3bf5c8613040d7e729bd883b7de322bbff246d4841684721b6c23c7d&w=740"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Arsenic Research</span>
@@ -338,7 +338,7 @@
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="https://img.freepik.com/free-photo/realistic-water-drop-with-ecosystem_23-2151196380.jpg?t=st=1719650356~exp=1719653956~hmac=1a234d1c3bf5c8613040d7e729bd883b7de322bbff246d4841684721b6c23c7d&w=740" alt="">
+              <img class="img-fluid w-100" src="images/client/img_23_new.jpg" alt="">
               <a class="popup-img" href="https://img.freepik.com/free-photo/realistic-water-drop-with-ecosystem_23-2151196380.jpg?t=st=1719650356~exp=1719653956~hmac=1a234d1c3bf5c8613040d7e729bd883b7de322bbff246d4841684721b6c23c7d&w=740"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Environmental Safety</span>
@@ -399,50 +399,43 @@
         </div>
       </div>
       <div class="col-lg-4 ms-auto mt-5 mt-lg-0">
-        <div class="accordion" id="accordion">
-          <div class="accordion-item mb-4">
-            <h2 class="accordion-header" id="headingOne">
+      <div class="accordion" id="accordion">
+            <div class="accordion-item mb-4">
+              <h2 class="accordion-header" id="headingOne">
       <button class="accordion-button rounded-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-        What types of water quality tests do you offer?
+         What types of water can be tested? 
       </button>
     </h2>
-            <div id="collapseOne" class="accordion-collapse border-0 collapse show" aria-labelledby="headingOne" data-bs-parent="#accordion">
-              <div class="accordion-body">We offer a comprehensive range of water quality tests, including chemical analysis, microbiological testing, and physical property assessments. Our tests cover parameters such as pH, turbidity, dissolved oxygen, and contaminants like heavy metals and organic compounds.</div>
+              <div id="collapseOne" class="accordion-collapse border-0 collapse show" aria-labelledby="headingOne" data-bs-parent="#accordion">
+                <div class="accordion-body">We test drinking water, wastewater, and industrial water to meet local and international safety 
+                  standards.</div>
+              </div>
             </div>
-          </div>
-          <div class="accordion-item mb-4">
-            <h2 class="accordion-header" id="headingTwo">
+            <div class="accordion-item mb-4">
+              <h2 class="accordion-header" id="headingTwo">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-        How does your food safety analysis work?
+        Can I collaborate on research projects with WIL? 
       </button>
     </h2>
-            <div id="collapseTwo" class="accordion-collapse border-0 collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion">
-              <div class="accordion-body">Our food safety analysis involves a multi-step process including sample collection, laboratory testing, and data interpretation. We test for various contaminants, pathogens, and quality indicators to ensure food products meet safety standards and regulations.</div>
+              <div id="collapseTwo" class="accordion-collapse border-0 collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion">
+                <div class="accordion-body">Yes! We welcome collaborations with academic institutions, government agencies, and private 
+                  companies. Please email us at research@wil-kh.com to discuss your project.</div>
+              </div>
             </div>
-          </div>
-          <div class="accordion-item mb-4">
-            <h2 class="accordion-header" id="headingThree">
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingThree">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-        What is the importance of soil quality assessment?
+        How do I submit a sample for testing? 
       </button>
     </h2>
-            <div id="collapseThree" class="accordion-collapse border-0 collapse" aria-labelledby="headingThree" data-bs-parent="#accordion">
-              <div class="accordion-body">Soil quality assessment is crucial for sustainable agriculture and environmental management. It helps determine soil health, fertility, and potential contaminants, allowing for better crop management, land use planning, and environmental protection strategies.</div>
-            </div>
-          </div>
-          <div class="accordion-item">
-            <h2 class="accordion-header" id="headingFour">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-        What is the focus of your arsenic research?
-      </button>
-    </h2>
-            <div id="collapseFour" class="accordion-collapse border-0 collapse" aria-labelledby="headingFour" data-bs-parent="#accordion">
-              <div class="accordion-body">Our arsenic research focuses on understanding arsenic contamination in water and soil, its impact on human health and the environment, and developing effective mitigation strategies. We work on innovative technologies for arsenic removal and conduct risk assessments in affected areas.</div>
+              <div id="collapseThree" class="accordion-collapse border-0 collapse" aria-labelledby="headingThree" data-bs-parent="#accordion">
+                <div class="accordion-body">Samples must be collected following specific guidelines depending on the parameters to be tested. 
+                  Contact lab@wil-kh.com for details on sampling methods, parameters, and prices. </div>
+              </div>
             </div>
           </div>
         </div>
       </div>
-    </div>
   </div>
 </section>
 

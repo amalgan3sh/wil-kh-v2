@@ -34,7 +34,7 @@
   <div class="container">
     <div class="row align-items-center mb-6">
       <div class="col-lg-5 col-12">
-        <img class="img-fluid w-100" src="https://images.pexels.com/photos/2280571/pexels-photo-2280571.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+        <img class="img-fluid w-100" src="images/client/img_12.1.jpg" alt="soil_testing">
       </div>
       <div class="col-lg-7 col-12 mt-5 mt-lg-0 ps-lg-5">
         <div>
@@ -118,7 +118,7 @@
         <div class="owl-carousel no-pb popup-gallery" data-dots="false" data-items="5" data-md-items="3" data-sm-items="2" data-xs-items="1" data-margin="10">
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+              <img class="img-fluid w-100" src="images/client/img_18.jpg" alt="soil_testing">
               <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Soil Testing</span>
@@ -128,41 +128,41 @@
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+              <img class="img-fluid w-100" src="images/client/img_18.jpg" alt="soil_testing">
               <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Soil Testing</span>
-                <h4><a href="#">pH and Salinity Testing</a></h4>
+                <h4><a href="#">Soil Contaminant</a></h4>
               </div>
             </div>
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+              <img class="img-fluid w-100" src="images/client/img_18.jpg" alt="soil_testing">
               <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Soil Testing</span>
-                <h4><a href="#">Heavy Metal Analysis</a></h4>
+                <h4><a href="#">Quality Testing</a></h4>
               </div>
             </div>
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+              <img class="img-fluid w-100" src="images/client/img_18.jpg" alt="soil_testing">
               <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Soil Testing</span>
-                <h4><a href="#">Texture and Structure Analysis</a></h4>
+                <h4><a href="#">Agricultural Optimization</a></h4>
               </div>
             </div>
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+              <img class="img-fluid w-100" src="images/client/img_18.jpg" alt="soil_testing">
               <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Soil Testing</span>
-                <h4><a href="#">Organic Matter Content</a></h4>
+                <h4><a href="#">Soil pollution and remediation</a></h4>
               </div>
             </div>
           </div>

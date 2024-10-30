@@ -82,6 +82,24 @@ class PublicController extends BaseController
         ]);
     }
 
+    public function Consultation(): string
+    {
+        return $this->renderView('about_us_view', [
+            'public/public_header',
+            'public/consultation',
+            'public/public_footer',
+        ]);
+    }
+
+    public function ShortCourseTraining(): string
+    {
+        return $this->renderView('about_us_view', [
+            'public/public_header',
+            'public/short_course_training',
+            'public/public_footer',
+        ]);
+    }
+
     public function Laboratory(): string
     {
         return $this->renderView('about_us_view', [
@@ -125,6 +143,15 @@ class PublicController extends BaseController
         ]);
     }
 
+    public function RiskAssessment(): string
+    {
+        return $this->renderView('about_us_view', [
+            'public/public_header',
+            'public/risk_assessment',
+            'public/public_footer',
+        ]);
+    }
+    
     public function JournalArticle(): string
     {
         return $this->renderView('about_us_view', [
@@ -134,6 +161,24 @@ class PublicController extends BaseController
         ]);
     }
 
+    public function Conference(): string
+    {
+        return $this->renderView('about_us_view', [
+            'public/public_header',
+            'public/conference',
+            'public/public_footer',
+        ]);
+    }
+
+    public function WILNewsletter(): string
+    {
+        return $this->renderView('about_us_view', [
+            'public/public_header',
+            'public/wil_newsletter',
+            'public/public_footer',
+        ]);
+    }
+    
     public function OurVision(): string
     {
         return $this->renderView('our_vision_view', [

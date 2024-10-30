@@ -34,12 +34,14 @@
   <div class="container">
     <div class="row align-items-center mb-6">
       <div class="col-lg-5 col-12">
-        <img class="img-fluid w-100" src="https://images.pexels.com/photos/2280571/pexels-photo-2280571.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+        
+        <img class="img-fluid img-border box-shadow w-100" src="images/client/img_8.jpg" alt="water_testing">
       </div>
       <div class="col-lg-7 col-12 mt-5 mt-lg-0 ps-lg-5">
         <div>
           <h3 class="mb-3">Food Quality Testing Overview</h3>
-          <p class="lead mb-4">WIL-KH specializes in comprehensive food quality testing services. We employ cutting-edge techniques and innovative solutions to ensure the highest standards of food safety and quality for our clients.</p>
+          <p class="lead mb-4">Our food safety testing services protect communities from foodborne illnesses by analyzing 
+            microbial pathogens, chemical residues, and other contaminants. </p>
           <div class="light-bg p-3">
             <ul class="list-unstyled">
               <li class="mb-3"><span class="text-black font-w-5">Service:</span> Food Quality Testing</li>
@@ -55,7 +57,7 @@
     </div>
     <div>
       <h3 class="mb-3">Our Process</h3>
-      <p class="mb-5">At WIL-KH, we prioritize accuracy, reliability, and efficiency in our food quality testing services. Our team of experts utilizes state-of-the-art equipment and follows rigorous protocols to deliver comprehensive and actionable results.</p>
+      <p class="mb-5"> WIL Laboratory can conduct food quality testing for organizations, companies, and individuals throughout Cambodia.</p>
       <div class="border-top border-start border-light">
         <div class="row g-0">
           <div class="col-lg-4">
@@ -118,51 +120,51 @@
         <div class="owl-carousel no-pb popup-gallery" data-dots="false" data-items="5" data-md-items="3" data-sm-items="2" data-xs-items="1" data-margin="10">
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+              <img class="img-fluid w-100" src="images/client/img_9_new.jpg" alt="food_test">
               <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Food Testing</span>
-                <h4><a href="#">Microbiological Analysis</a></h4>
+                <h4><a href="#">Food Microbial Testing</a></h4>
               </div>
             </div>
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+              <img class="img-fluid w-100" src="images/client/img_9_new.jpg" alt="food_test">
               <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Food Testing</span>
-                <h4><a href="#">Nutritional Labeling</a></h4>
+                <h4><a href="#">Food Chemical Analysis</a></h4>
               </div>
             </div>
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+              <img class="img-fluid w-100" src="images/client/img_9_new.jpg" alt="food_test">
               <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Food Testing</span>
-                <h4><a href="#">Allergen Testing</a></h4>
+                <h4><a href="#">Food Product Development</a></h4>
               </div>
             </div>
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+              <img class="img-fluid w-100" src="images/client/img_9_new.jpg" alt="food_test">
               <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Food Testing</span>
-                <h4><a href="#">Contaminant Analysis</a></h4>
+                <h4><a href="#">Nutrition Analysis</a></h4>
               </div>
             </div>
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+              <img class="img-fluid w-100" src="images/client/img_9_new.jpg" alt="food_test">
               <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Food Testing</span>
-                <h4><a href="#">Shelf-life Studies</a></h4>
+                <h4><a href="#">Food Selflife Analysis</a></h4>
               </div>
             </div>
           </div>

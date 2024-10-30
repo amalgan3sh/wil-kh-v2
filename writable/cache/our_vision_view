@@ -1,4 +1,4 @@
-a:3:{s:4:"time";i:1719822662;s:3:"ttl";i:1;s:4:"data";s:22688:"<!DOCTYPE html>
+a:3:{s:4:"time";i:1730292755;s:3:"ttl";i:1;s:4:"data";s:22954:"<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -147,7 +147,7 @@ a:3:{s:4:"time";i:1719822662;s:3:"ttl";i:1;s:4:"data";s:22688:"<!DOCTYPE html>
       <div class="row">
         <div class="col">
           <nav class="navbar navbar-expand-lg">
-            <a class="navbar-brand logo" href="https://localhost/wil-kh-v2/">
+            <a class="navbar-brand logo" href="http://localhost/wil-kh-v2/">
               <img id="logo-img" class="img-fluid" src="images/logo-wil.png" alt="WIL-KH Logo">
               <span class="logo-text">WATER INNOVATION LAB</span>
 
@@ -159,7 +159,7 @@ a:3:{s:4:"time";i:1719822662;s:3:"ttl";i:1;s:4:"data";s:22688:"<!DOCTYPE html>
             <div class="collapse navbar-collapse" id="navbarNav">
               <ul class="navbar-nav ms-auto me-auto position-relative">
                 <!-- Home -->
-                <li class="nav-item dropdown"> <a class="nav-link active" href="https://localhost/wil-kh-v2/">Home</a>
+                <li class="nav-item dropdown"> <a class="nav-link active" href="http://localhost/wil-kh-v2/">Home</a>
 
                 </li>
                 
@@ -179,11 +179,15 @@ a:3:{s:4:"time";i:1719822662;s:3:"ttl";i:1;s:4:"data";s:22688:"<!DOCTYPE html>
                 </li> -->
                 <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Development</a>
                   <ul class="dropdown-menu">
-                    <li><a href="https://localhost/wil-kh-v2/water_product">Water Product</a>
+                    <li><a href="http://localhost/wil-kh-v2/water_product">Water Product</a>
                     </li>
-                    <li><a href="https://localhost/wil-kh-v2/food_product">Food Product</a>
+                    <li><a href="http://localhost/wil-kh-v2/food_product">Food Product</a>
                     </li>
-                    <li><a href="https://localhost/wil-kh-v2/environmental_product">Environmental Product</a>
+                    <li><a href="http://localhost/wil-kh-v2/environmental_product">Environmental Product</a>
+                    </li>
+                    <li><a href="http://localhost/wil-kh-v2/consultation">Consultation</a>
+                    </li>
+                    <li><a href="http://localhost/wil-kh-v2/short_course_training">Short-course training</a>
                     </li>
                      
                   </ul>
@@ -192,36 +196,37 @@ a:3:{s:4:"time";i:1719822662;s:3:"ttl";i:1;s:4:"data";s:22688:"<!DOCTYPE html>
                       Research
                     </a>
                   <ul class="dropdown-menu">
-                    <li><a href="https://localhost/wil-kh-v2/laboratory">Laboratory</a>
+                    <li><a href="http://localhost/wil-kh-v2/laboratory">Laboratory</a>
                     </li>
-                    <li><a href="https://localhost/wil-kh-v2/water_quality_test">Water Quality Test</a></li>
-                    <li><a href="https://localhost/wil-kh-v2/food_quality_test">Food Quality Test</a></li>
-                    <li><a href="https://localhost/wil-kh-v2/soil_quality_test">Soil Quality Test</a></li>
-                    <li><a href="https://localhost/wil-kh-v2/arsenic_research">Arsenic Research</a></li>
+                    <li><a href="http://localhost/wil-kh-v2/water_quality_test">Water Quality Test</a></li>
+                    <li><a href="http://localhost/wil-kh-v2/food_quality_test">Food Quality Test</a></li>
+                    <li><a href="http://localhost/wil-kh-v2/soil_quality_test">Soil Quality Test</a></li>
+                    <li><a href="http://localhost/wil-kh-v2/arsenic_research">Arsenic Research</a></li>
+                    <li><a href="http://localhost/wil-kh-v2/risk_assessment">Risk Assessment</a></li>
                   </ul>
                 </li>
                 <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Publications</a>
                   <ul class="dropdown-menu">
                     <li><a href="journal_article">Journal Article</a>
                     </li>
-                    <li><a href="blog-right-sidebar.html">Conference</a>
+                    <li><a href="conference">Conference</a>
                     </li>
-                    <li><a href="blog-single.html">WIL Newsletter</a>
+                    <li><a href="wil_newsletter">WIL Newsletter</a>
                     </li>
                   </ul>
                 </li>
                 <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Pages</a>
                   <ul class="dropdown-menu">
-                    <li class="dropdown-submenu"><a class="dropdown-item" href="https://localhost/wil-kh-v2/about_us">About Us</a>
+                    <li class="dropdown-submenu"><a class="dropdown-item" href="http://localhost/wil-kh-v2/about_us">About Us</a>
 
                     </li>
-                    <li class="dropdown-submenu"><a class="dropdown-item" href="https://localhost/wil-kh-v2/our_team">Team</a>
+                    <li class="dropdown-submenu"><a class="dropdown-item" href="http://localhost/wil-kh-v2/our_team">Team</a>
 
                     </li>
-                    <li class="dropdown-submenu"><a class="dropdown-item" href="https://localhost/wil-kh-v2/contact_us">Contact Us</a>
+                    <li class="dropdown-submenu"><a class="dropdown-item" href="http://localhost/wil-kh-v2/contact_us">Contact Us</a>
                       
                     </li>
-                    <li class="dropdown-submenu"><a class="dropdown-item" href="https://localhost/wil-kh-v2/our_vision">Our Vision</a>
+                    <li class="dropdown-submenu"><a class="dropdown-item" href="http://localhost/wil-kh-v2/our_vision">Our Vision</a>
                       
                     </li>
 
@@ -286,7 +291,7 @@ a:3:{s:4:"time";i:1719822662;s:3:"ttl";i:1;s:4:"data";s:22688:"<!DOCTYPE html>
   <div class="container">
     <div class="row align-items-center justify-content-between">
       <div class="col-lg-5 col-12 order-lg-1">
-        <img class="img-fluid" src="https://img.freepik.com/free-photo/realistic-water-drop-with-ecosystem_23-2151196390.jpg" alt="">
+        <img class="img-fluid" src="images/client/img_24.jpg" alt="">
       </div>
       <div class="col-lg-7 col-12 mt-6 mt-lg-0">
         <div class="section-title">
@@ -368,8 +373,8 @@ a:3:{s:4:"time";i:1719822662;s:3:"ttl";i:1;s:4:"data";s:22688:"<!DOCTYPE html>
     <div class="container-fluid">
       <div class="row">
         <div class="col-lg-4 col-12 white-bg p-4 p-md-6">
-          <a class="footer-logo" href="https://localhost/wil-kh-v2/">
-            <img id="footer-logo" class="img-fluid" src="images/logo-wil.png" alt="" style="width : 60%; height:50%;">
+          <a class="footer-logo" href="http://localhost/wil-kh-v2/">
+            <img id="footer-logo" class="img-fluid" src="images/logo-wil.png" alt="" style="width : 60%; height:40%;">
           </a>
           <p class="my-4">Water Innovation Lab is dedicated to provide an excellent service in research, development and innovation in water, environment and foods
 </p>
@@ -416,8 +421,8 @@ a:3:{s:4:"time";i:1719822662;s:3:"ttl";i:1;s:4:"data";s:22688:"<!DOCTYPE html>
                   <li><i class="flaticon-hospital"></i>
                     <p class="mb-0">National Road 7, Ampil Krom Village, Ampil Commune, Kampong Siem District, Kampong Cham, Cambodia</p>
                   </li>
-                  <li><i class="flaticon-medical-report"></i>  <a href="mailto:lab@wil-kh.com">lab@wil-kh.com</a></li>
-                  <li><i class="flaticon-medical-assistance"></i>  <a href="tel:+85512345678">+855-12-345-678</a></li>
+                  <li><i class="flaticon-medical-report"></i>  <a href="mailto:lab@wil-kh.com">lab@wil-kh.com </a></li>
+                  <li><i class="flaticon-medical-assistance"></i>  <a href="tel:+85512345678">+855-16-668 900</a></li>
                   <li><i class="flaticon-working-hours"></i>
                     <p class="mb-0">Mon-Sat: 8:00am to 12:00pm; 1:00pm to 5:00pm<br>Note: Saturday does not accept E. coli & Total Coliforms testing</p>
                   </li>

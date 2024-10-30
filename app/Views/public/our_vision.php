@@ -27,7 +27,7 @@
   <div class="container">
     <div class="row align-items-center justify-content-between">
       <div class="col-lg-5 col-12 order-lg-1">
-        <img class="img-fluid" src="https://img.freepik.com/free-photo/realistic-water-drop-with-ecosystem_23-2151196390.jpg" alt="">
+        <img class="img-fluid" src="images/client/img_24.jpg" alt="">
       </div>
       <div class="col-lg-7 col-12 mt-6 mt-lg-0">
         <div class="section-title">
