@@ -1,6 +1,6 @@
 <!--page title start-->
 
-<section class="page-title parallaxie" data-bg-img="https://images.pexels.com/photos/26728901/pexels-photo-26728901/free-photo-of-portrait-of-girl-eating-apple.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+<section class="page-title parallaxie" data-bg-img="images/client/img_28.1.jpg">
   <div class="container">
     <div class="row">
       <div class="col-lg-6">

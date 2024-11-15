@@ -3,7 +3,7 @@
 
 <!--page title start-->
 
-<section class="page-title parallaxie" data-bg-img="https://media.istockphoto.com/id/1346675527/photo/medical-science-laboratory-portrait-of-beautiful-black-scientist-looking-under-microscope.jpg?s=1024x1024&w=is&k=20&c=Q6PN-EmvU-xCP6Ky5mPoppAaoOheCdFOLmrwklaO5SI=">
+<section class="page-title parallaxie" data-bg-img="images/client/img_15.jpg">
   <div class="container">
     <div class="row">
       <div class="col-lg-6">
@@ -39,46 +39,6 @@
       <div class="col-lg-6 col-12">
         <div class="me-5">
           <img class="img-fluid w-100" src="images/client/img_22.jpg" alt="about us">
-        </div>
-        <div class="white-bg mt-n6 p-5 shadow-sm ms-5 z-index-1">
-          <div class="owl-carousel no-pb" data-dots="false" data-items="2" data-autoplay="true" data-autoplay-timeout="8000">
-            <div class="item">
-              <div class="counter d-flex">
-                <div class="counter-icon me-3"> <i class="flaticon-medical-laboratory-1"></i>
-                </div>
-                <div class="counter-desc"> <span class="count-number text-black" data-to="24" data-speed="2000">24</span>
-                  <h6>Our Equipments</h6>
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="counter d-flex">
-                <div class="counter-icon me-3"> <i class="flaticon-heathcare-and-medical"></i>
-                </div>
-                <div class="counter-desc"> <span class="count-number text-black" data-to="272" data-speed="2000">272</span>
-                  <h6>Field Expertise</h6>
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="counter d-flex">
-                <div class="counter-icon me-3"> <i class="flaticon-pharmacy"></i>
-                </div>
-                <div class="counter-desc"> <span class="count-number text-black" data-to="423" data-speed="2000">423</span>
-                  <h6>Complete Cases</h6>
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="counter d-flex">
-                <div class="counter-icon me-3"> <i class="flaticon-award"></i>
-                </div>
-                <div class="counter-desc"> <span class="count-number text-black" data-to="576" data-speed="2000">576</span>
-                  <h6>Awards Winning</h6>
-                </div>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
       <div class="col-lg-6 col-12 mt-6 mt-lg-0 ps-lg-6">
@@ -117,7 +77,7 @@
         <div class="dark-bg p-lg-7 p-4 pb-10" data-bg-img="images/pattern/02.png">
           <div class="section-title ms-md-5">
             <h2 class="title">We’re Setting the New Standards in Laboratory & Research Professional.</h2> 
-            <p class="lead text-light">We Provide All Aspects Of Medical Practice For Your Whole Family!</p>
+            <p class="lead text-light">We Deliver Comprehensive, Guaranteed Analysis To Help Secure A Brighter Tomorrow For You !</p>
           </div>
         </div>
       </div>
@@ -125,42 +85,6 @@
   </div>
   <div class="container">
     <div class="row">
-      <div class="col-lg-6 col-md-8 pe-md-0">
-        <div class="light-bg p-5 z-index-1 mt-n7">
-          <div class="ht-progress-bar mb-4">
-            <h4>Water Quality Testing</h4>
-            <div class="progress" data-value="85">
-              <div class="progress-bar">
-                <div class="progress-parcent"><span>85</span>%</div>
-              </div>
-            </div>
-          </div>
-          <div class="ht-progress-bar mb-4">
-            <h4>Food Safety Analysis</h4>
-            <div class="progress" data-value="75">
-              <div class="progress-bar">
-                <div class="progress-parcent"><span>75</span>%</div>
-              </div>
-            </div>
-          </div>
-          <div class="ht-progress-bar mb-4">
-            <h4>Soil Quality Assessment</h4>
-            <div class="progress" data-value="95">
-              <div class="progress-bar">
-                <div class="progress-parcent"><span>95</span>%</div>
-              </div>
-            </div>
-          </div>
-          <div class="ht-progress-bar">
-            <h4>Arsenic Research</h4>
-            <div class="progress" data-value="80">
-              <div class="progress-bar">
-                <div class="progress-parcent"><span>80</span>%</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
       <div class="col-lg-6 col-md-10 col-12 ms-auto ps-0">
         <div class="position-relative overflow-hidden img-border mt-n15 custom-mt-0">
           <img class="img-fluid w-100" src="images/client/img_2.jpg" alt="about us">
@@ -187,7 +111,7 @@
             <h5>High-End Latest Technology</h5><br>
           </div>
           <div class="featured-desc">
-            <p>Our firm is expert to create an efficient user interface that.</p>
+            <p>Leveraging cutting-edge technology to deliver innovative and efficient solutions for a sustainable future</p>
           </div>
         </div>
       </div>
@@ -196,10 +120,10 @@
           <div class="featured-icon"> <i class="flaticon-laboratory"></i>
           </div>
           <div class="featured-title">
-            <h5>Medical laboratory Technician</h5>
+              <h5>Water Quality Testing</h5><br>
           </div>
           <div class="featured-desc">
-            <p>Our firm is expert to create an efficient user interface that.</p>
+              <p>Our team offers advanced water quality testing to ensure clean, safe, and sustainable water for all uses.</p>
           </div>
         </div>
       </div>
@@ -208,10 +132,10 @@
           <div class="featured-icon"> <i class="flaticon-biology-1"></i>
           </div>
           <div class="featured-title">
-            <h5>Highest Quality Pathologycam Testing</h5>
+              <h5>Soil Health Testing</h5><br>
           </div>
           <div class="featured-desc">
-            <p>Our firm is expert to create an efficient user interface that.</p>
+              <p>Thorough soil quality testing to assess nutrient levels, pH, and other manjor factors to improve agricultural productivity.</p>
           </div>
         </div>
       </div>
@@ -220,10 +144,10 @@
           <div class="featured-icon"> <i class="flaticon-help-call"></i>
           </div>
           <div class="featured-title">
-            <h5>Emergency Help Available 24/7</h5>
+            <h5>Food Safety Testing</h5><br>
           </div>
           <div class="featured-desc">
-            <p>Our firm is expert to create an efficient user interface that.</p>
+              <p>We ensure the safety and quality of food products through rigorous testing for contaminants and quality standards.</p>
           </div>
         </div>
       </div>

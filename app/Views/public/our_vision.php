@@ -1,5 +1,5 @@
 <!--page title start-->
-<section class="page-title parallaxie" data-bg-img="https://st3.depositphotos.com/1026266/32572/i/1600/depositphotos_325726986-stock-photo-hand-touching-business-concept-button.jpg">
+<section class="page-title parallaxie" data-bg-img="images/client/img_33.jpg">
   <div class="container">
     <div class="row">
       <div class="col-lg-6">

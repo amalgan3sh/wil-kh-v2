@@ -93,14 +93,14 @@
           <div class="d-none d-sm-flex align-items-center me-3">
             <div> <i class="las la-envelope"></i>
             </div>
-            <div>Email: <a class="text-black" href="mailto:lab@wil-kh.com"> lab@wil-kh.com</a>
+            <div>Email: <a class="text-black" href="mailto:lab@wil-kh.com"> info@wil-kh.com </a>
             </div>
           </div>
           <div class="d-none d-md-flex align-items-center me-3">
             <div> <i class="las la-map-marker"></i>
             </div>
             <div>
-              <div>Location: Phnom Penh, Cambodia</div>
+              <div>Location: Kampong Cham, Cambodia</div>
             </div>
           </div>
           <div class="d-none d-lg-flex align-items-center">
@@ -148,8 +148,7 @@
         <div class="col">
           <nav class="navbar navbar-expand-lg">
             <a class="navbar-brand logo" href="<?php echo base_url('/') ?>">
-              <img id="logo-img" class="img-fluid" src="images/logo-wil.png" alt="WIL-KH Logo">
-              <span class="logo-text">WATER INNOVATION LAB</span>
+              <img id="logo-img" class="img-fluid" src="images/logo_newest.png" alt="WIL-KH Logo">
 
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span></span>
@@ -215,7 +214,7 @@
                     </li>
                   </ul>
                 </li>
-                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Pages</a>
+                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">About Us</a>
                   <ul class="dropdown-menu">
                     <li class="dropdown-submenu"><a class="dropdown-item" href="<?php echo base_url('/about_us') ?>">About Us</a>
 

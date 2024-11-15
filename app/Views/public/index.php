@@ -1,11 +1,10 @@
-
-
-
 <!--hero section start-->
-
 <section class="banner p-0 pos-r">
   <div class="banner-slider owl-carousel no-pb" data-dots="false" data-nav="true">
-    <div class="item overlay-50 theme-overlay" data-bg-img="https://img.freepik.com/free-photo/still-life-laboratory-samples_23-2151108784.jpg?w=740&t=st=1719651039~exp=1719651639~hmac=f133630f57baf23f04de4f4a5b68798a47a57a0a4bfbdf5c98862dd017296cf8" data-overlay="9">
+  <div class="item overlay-50 theme-overlay" 
+     style="background-image: url('images/client/banner_1.png'); 
+            background-size: cover; "
+            data-overlay="9">
       <div class="container">
         <div class="row pt-8 custom-pb-2">
           <div class="col-lg-6 col-md-8 col-12">
@@ -21,7 +20,11 @@
         </div>
       </div>
     </div>
-    <div class="item overlay-50 theme-overlay" data-bg-img="https://img.freepik.com/free-photo/still-life-laboratory-samples_23-2151108799.jpg?w=740&t=st=1719651066~exp=1719651666~hmac=f71abd6d9cf78658bbeaeabbc74a0a103b5bca3f8c193612a3652a4484a735bd" data-overlay="9">
+    <div class="item overlay-50 theme-overlay" 
+     style="background-image: url('images/client/img_28.jpg'); 
+            background-size: cover; 
+            filter: grayscale(100%) sepia(100%) hue-rotate(-50deg) saturate(200%) brightness(0.7);"
+            data-overlay="9">
       <div class="container">
         <div class="row pt-8 custom-pb-2">
           <div class="col-lg-6 col-md-8 col-12">
@@ -352,269 +355,6 @@
   </div>
 </section>
 <!--project end-->
-
-
-<!--multi-sec start-->
-
-<section class="bg-effect position-relative">
-  <div class="container">
-    <div class="row align-items-center">
-      <div class="col-lg-6 ms-auto">
-        <div class="white-bg p-5 z-index-1">
-          <div class="section-title mb-4">
-            <h2 class="title">Setting New Standards in Water, Food, and Environmental Safety Research</h2> 
-          </div>
-          <div class="ht-progress-bar mb-4">
-            <h4>Water Quality Testing</h4>
-            <div class="progress" data-value="90">
-              <div class="progress-bar">
-                <div class="progress-parcent"><span>90</span>%</div>
-              </div>
-            </div>
-          </div>
-          <div class="ht-progress-bar mb-4">
-            <h4>Food Safety Analysis</h4>
-            <div class="progress" data-value="85">
-              <div class="progress-bar">
-                <div class="progress-parcent"><span>85</span>%</div>
-              </div>
-            </div>
-          </div>
-          <div class="ht-progress-bar mb-4">
-            <h4>Soil Quality Assessment</h4>
-            <div class="progress" data-value="88">
-              <div class="progress-bar">
-                <div class="progress-parcent"><span>88</span>%</div>
-              </div>
-            </div>
-          </div>
-          <div class="ht-progress-bar">
-            <h4>Arsenic Research</h4>
-            <div class="progress" data-value="92">
-              <div class="progress-bar">
-                <div class="progress-parcent"><span>92</span>%</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4 ms-auto mt-5 mt-lg-0">
-      <div class="accordion" id="accordion">
-            <div class="accordion-item mb-4">
-              <h2 class="accordion-header" id="headingOne">
-      <button class="accordion-button rounded-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-         What types of water can be tested? 
-      </button>
-    </h2>
-              <div id="collapseOne" class="accordion-collapse border-0 collapse show" aria-labelledby="headingOne" data-bs-parent="#accordion">
-                <div class="accordion-body">We test drinking water, wastewater, and industrial water to meet local and international safety 
-                  standards.</div>
-              </div>
-            </div>
-            <div class="accordion-item mb-4">
-              <h2 class="accordion-header" id="headingTwo">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-        Can I collaborate on research projects with WIL? 
-      </button>
-    </h2>
-              <div id="collapseTwo" class="accordion-collapse border-0 collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion">
-                <div class="accordion-body">Yes! We welcome collaborations with academic institutions, government agencies, and private 
-                  companies. Please email us at research@wil-kh.com to discuss your project.</div>
-              </div>
-            </div>
-            <div class="accordion-item">
-              <h2 class="accordion-header" id="headingThree">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-        How do I submit a sample for testing? 
-      </button>
-    </h2>
-              <div id="collapseThree" class="accordion-collapse border-0 collapse" aria-labelledby="headingThree" data-bs-parent="#accordion">
-                <div class="accordion-body">Samples must be collected following specific guidelines depending on the parameters to be tested. 
-                  Contact lab@wil-kh.com for details on sampling methods, parameters, and prices. </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-  </div>
-</section>
-
-<!--multi-sec end-->
-
-
-<!--counter start-->
-
-<section class="pb-0">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-3 col-sm-6">
-        <div class="counter d-flex">
-          <div class="counter-icon me-3"> <i class="flaticon-medical-laboratory-1"></i>
-          </div>
-          <div class="counter-desc"> <span class="count-number text-black" data-to="50" data-speed="2000">50</span>
-            <h6>Advanced Equipment</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-3 col-sm-6 mt-5 mt-sm-0">
-        <div class="counter d-flex">
-          <div class="counter-icon me-3"> <i class="flaticon-heathcare-and-medical"></i>
-          </div>
-          <div class="counter-desc"> <span class="count-number text-black" data-to="30" data-speed="2000">30</span>
-            <h6>Expert Scientists</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-3 col-sm-6 mt-5 mt-lg-0">
-        <div class="counter d-flex">
-          <div class="counter-icon me-3"> <i class="flaticon-pharmacy"></i>
-          </div>
-          <div class="counter-desc"> <span class="count-number text-black" data-to="500" data-speed="2000">500</span>
-            <h6>Completed Projects</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-3 col-sm-6 mt-5 mt-lg-0">
-        <div class="counter d-flex">
-          <div class="counter-icon me-3"> <i class="flaticon-award"></i>
-          </div>
-          <div class="counter-desc"> <span class="count-number text-black" data-to="20" data-speed="2000">20</span>
-            <h6>Research Publications</h6>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!--counter end-->
-
-
-<!--price table start-->
-
-<!-- <section>
-  <div class="container">
-    <div class="row justify-content-center text-center">
-      <div class="col-lg-6 col-12">
-        <div class="section-title">
-          <h2 class="title mb-0">No Any Hidden Charge Select Your Perfect Pricing Plan</h2> 
-        </div>
-      </div>
-    </div>
-    <div class="row align-items-center g-0">
-      <div class="col-lg-4 col-md-6">
-        <div class="price-table text-center dark-bg text-white" data-bg-img="images/pattern/02.png">
-          <div class="price-title">
-            <h3 class="text-white">Basic</h3>
-          </div>
-          <div class="price-value my-4">
-            <h2 class="text-white">$33 <span class="text-light">/ month</span></h2> 
-          </div>
-          <div class="price-list">
-            <ul class="list-unstyled">
-              <li><i class="las la-check"></i> Free Equipment Use</li>
-              <li><i class="las la-check"></i> Doctor Treatment</li>
-              <li><i class="las la-check"></i> Medical Specialties</li>
-              <li><i class="las la-check"></i> Care Solutions</li>
-              <li><i class="las la-check"></i> 24/7 Customer Support</li>
-            </ul>
-          </div>
-          <a class="btn btn-theme mt-5" href="#"> <span>Select Plan</span>
-          </a>
-        </div>
-      </div>
-      <div class="col-lg-4 col-md-6 mt-5 mt-md-0">
-        <div class="price-table text-center py-6 box-shadow">
-          <div class="price-title">
-            <h3 class="text-theme">Standard</h3>
-          </div>
-          <div class="price-value my-4">
-            <h2>$99 <span>/ month</span></h2> 
-          </div>
-          <div class="price-list">
-            <ul class="list-unstyled">
-              <li><i class="las la-check"></i> Free Equipment Use</li>
-              <li><i class="las la-check"></i> Doctor Treatment</li>
-              <li><i class="las la-check"></i> Medical Specialties</li>
-              <li><i class="las la-check"></i> Care Solutions</li>
-              <li><i class="las la-check"></i> 24/7 Customer Support</li>
-            </ul>
-          </div>
-          <a class="btn btn-theme mt-5" href="#"> <span>Select Plan</span>
-          </a>
-        </div>
-      </div>
-      <div class="col-lg-4 col-md-6 mt-5 mt-lg-0">
-        <div class="price-table text-center light-bg">
-          <div class="price-title">
-            <h3 class="text-theme">Premium</h3>
-          </div>
-          <div class="price-value my-4">
-            <h2>$199 <span>/ month</span></h2> 
-          </div>
-          <div class="price-list">
-            <ul class="list-unstyled">
-              <li><i class="las la-check"></i> Free Equipment Use</li>
-              <li><i class="las la-check"></i> Doctor Treatment</li>
-              <li><i class="las la-check"></i> Medical Specialties</li>
-              <li><i class="las la-check"></i> Care Solutions</li>
-              <li><i class="las la-check"></i> 24/7 Customer Support</li>
-            </ul>
-          </div>
-          <a class="btn btn-dark mt-5" href="#"> <span>Select Plan</span>
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
-</section> -->
-
-<!--price table end-->
-
-
-<!--testimonial start-->
-<!-- 
-<section class="p-0">
-  <div class="container-fluid p-0">
-    <div class="row g-0">
-      <div class="col-md-4" data-bg-img="images/about/05.jpg"></div>
-      <div class="col-md-8 theme-bg py-5 px-lg-8 px-5">
-        <div class="owl-carousel no-pb" data-dots="false" data-items="1" data-autoplay="true" data-autoplay-timeout="8000">
-          <div class="item">
-            <div class="testimonial text-center">
-              <div class="testimonial-img mb-2">
-                <img class="img-fluid rounded-circle shadow-sm d-inline-block" src="images/testimonial/01.jpg" alt="">
-              </div>
-              <div class="testimonial-content">
-                <div class="testimonial-caption mb-3">
-                  <h5 class="text-white">Andrew Rooney</h5>
-                  <label class="fst-italic d-block text-light">-Supervisor</label>
-                </div>
-                <p class="fst-italic text-light">Labortech great place to work because of the opportunities for moving between centres and trying something new within your area of expertise. The laboratory is also an open and flexible workplace & great place to work with.</p>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="testimonial text-center">
-              <div class="testimonial-img mb-2">
-                <img class="img-fluid rounded-circle shadow-sm d-inline-block" src="images/testimonial/01.jpg" alt="">
-              </div>
-              <div class="testimonial-content">
-                <div class="testimonial-caption mb-3">
-                  <h5 class="text-white">Andrew Rooney</h5>
-                  <label class="fst-italic d-block text-light">-Supervisor</label>
-                </div>
-                <p class="fst-italic text-light">Labortech great place to work because of the opportunities for moving between centres and trying something new within your area of expertise. The laboratory is also an open and flexible workplace & great place to work with.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section> -->
-
-<!--testimonial end-->
 
 
 <!--blog start-->

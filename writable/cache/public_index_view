@@ -1,4 +1,4 @@
-a:3:{s:4:"time";i:1730300446;s:3:"ttl";i:1;s:4:"data";s:51608:"<!DOCTYPE html>
+a:3:{s:4:"time";i:1731623925;s:3:"ttl";i:1;s:4:"data";s:37072:"<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -93,7 +93,7 @@ a:3:{s:4:"time";i:1730300446;s:3:"ttl";i:1;s:4:"data";s:51608:"<!DOCTYPE html>
           <div class="d-none d-sm-flex align-items-center me-3">
             <div> <i class="las la-envelope"></i>
             </div>
-            <div>Email: <a class="text-black" href="mailto:lab@wil-kh.com"> lab@wil-kh.com</a>
+            <div>Email: <a class="text-black" href="mailto:lab@wil-kh.com"> info@wil-kh.com </a>
             </div>
           </div>
           <div class="d-none d-md-flex align-items-center me-3">
@@ -148,8 +148,7 @@ a:3:{s:4:"time";i:1730300446;s:3:"ttl";i:1;s:4:"data";s:51608:"<!DOCTYPE html>
         <div class="col">
           <nav class="navbar navbar-expand-lg">
             <a class="navbar-brand logo" href="http://localhost/wil-kh-v2/">
-              <img id="logo-img" class="img-fluid" src="images/logo-wil.png" alt="WIL-KH Logo">
-              <span class="logo-text">WATER INNOVATION LAB</span>
+              <img id="logo-img" class="img-fluid" src="images/logo_newest.png" alt="WIL-KH Logo">
 
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span></span>
@@ -215,7 +214,7 @@ a:3:{s:4:"time";i:1730300446;s:3:"ttl";i:1;s:4:"data";s:51608:"<!DOCTYPE html>
                     </li>
                   </ul>
                 </li>
-                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Pages</a>
+                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">About Us</a>
                   <ul class="dropdown-menu">
                     <li class="dropdown-submenu"><a class="dropdown-item" href="http://localhost/wil-kh-v2/about_us">About Us</a>
 
@@ -262,14 +261,13 @@ a:3:{s:4:"time";i:1730300446;s:3:"ttl";i:1;s:4:"data";s:51608:"<!DOCTYPE html>
   </div>
 </div>
 
-<!--header end-->
-
-
-<!--hero section start-->
-
+<!--header end--><!--hero section start-->
 <section class="banner p-0 pos-r">
   <div class="banner-slider owl-carousel no-pb" data-dots="false" data-nav="true">
-    <div class="item overlay-50 theme-overlay" data-bg-img="https://img.freepik.com/free-photo/still-life-laboratory-samples_23-2151108784.jpg?w=740&t=st=1719651039~exp=1719651639~hmac=f133630f57baf23f04de4f4a5b68798a47a57a0a4bfbdf5c98862dd017296cf8" data-overlay="9">
+  <div class="item overlay-50 theme-overlay" 
+     style="background-image: url('images/client/banner_1.png'); 
+            background-size: cover; "
+            data-overlay="9">
       <div class="container">
         <div class="row pt-8 custom-pb-2">
           <div class="col-lg-6 col-md-8 col-12">
@@ -285,7 +283,11 @@ a:3:{s:4:"time";i:1730300446;s:3:"ttl";i:1;s:4:"data";s:51608:"<!DOCTYPE html>
         </div>
       </div>
     </div>
-    <div class="item overlay-50 theme-overlay" data-bg-img="https://img.freepik.com/free-photo/still-life-laboratory-samples_23-2151108799.jpg?w=740&t=st=1719651066~exp=1719651666~hmac=f71abd6d9cf78658bbeaeabbc74a0a103b5bca3f8c193612a3652a4484a735bd" data-overlay="9">
+    <div class="item overlay-50 theme-overlay" 
+     style="background-image: url('images/client/img_28.jpg'); 
+            background-size: cover; 
+            filter: grayscale(100%) sepia(100%) hue-rotate(-50deg) saturate(200%) brightness(0.7);"
+            data-overlay="9">
       <div class="container">
         <div class="row pt-8 custom-pb-2">
           <div class="col-lg-6 col-md-8 col-12">
@@ -618,269 +620,6 @@ a:3:{s:4:"time";i:1730300446;s:3:"ttl";i:1;s:4:"data";s:51608:"<!DOCTYPE html>
 <!--project end-->
 
 
-<!--multi-sec start-->
-
-<section class="bg-effect position-relative">
-  <div class="container">
-    <div class="row align-items-center">
-      <div class="col-lg-6 ms-auto">
-        <div class="white-bg p-5 z-index-1">
-          <div class="section-title mb-4">
-            <h2 class="title">Setting New Standards in Water, Food, and Environmental Safety Research</h2> 
-          </div>
-          <div class="ht-progress-bar mb-4">
-            <h4>Water Quality Testing</h4>
-            <div class="progress" data-value="90">
-              <div class="progress-bar">
-                <div class="progress-parcent"><span>90</span>%</div>
-              </div>
-            </div>
-          </div>
-          <div class="ht-progress-bar mb-4">
-            <h4>Food Safety Analysis</h4>
-            <div class="progress" data-value="85">
-              <div class="progress-bar">
-                <div class="progress-parcent"><span>85</span>%</div>
-              </div>
-            </div>
-          </div>
-          <div class="ht-progress-bar mb-4">
-            <h4>Soil Quality Assessment</h4>
-            <div class="progress" data-value="88">
-              <div class="progress-bar">
-                <div class="progress-parcent"><span>88</span>%</div>
-              </div>
-            </div>
-          </div>
-          <div class="ht-progress-bar">
-            <h4>Arsenic Research</h4>
-            <div class="progress" data-value="92">
-              <div class="progress-bar">
-                <div class="progress-parcent"><span>92</span>%</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4 ms-auto mt-5 mt-lg-0">
-      <div class="accordion" id="accordion">
-            <div class="accordion-item mb-4">
-              <h2 class="accordion-header" id="headingOne">
-      <button class="accordion-button rounded-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-         What types of water can be tested? 
-      </button>
-    </h2>
-              <div id="collapseOne" class="accordion-collapse border-0 collapse show" aria-labelledby="headingOne" data-bs-parent="#accordion">
-                <div class="accordion-body">We test drinking water, wastewater, and industrial water to meet local and international safety 
-                  standards.</div>
-              </div>
-            </div>
-            <div class="accordion-item mb-4">
-              <h2 class="accordion-header" id="headingTwo">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-        Can I collaborate on research projects with WIL? 
-      </button>
-    </h2>
-              <div id="collapseTwo" class="accordion-collapse border-0 collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion">
-                <div class="accordion-body">Yes! We welcome collaborations with academic institutions, government agencies, and private 
-                  companies. Please email us at research@wil-kh.com to discuss your project.</div>
-              </div>
-            </div>
-            <div class="accordion-item">
-              <h2 class="accordion-header" id="headingThree">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
-        How do I submit a sample for testing? 
-      </button>
-    </h2>
-              <div id="collapseThree" class="accordion-collapse border-0 collapse" aria-labelledby="headingThree" data-bs-parent="#accordion">
-                <div class="accordion-body">Samples must be collected following specific guidelines depending on the parameters to be tested. 
-                  Contact lab@wil-kh.com for details on sampling methods, parameters, and prices. </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-  </div>
-</section>
-
-<!--multi-sec end-->
-
-
-<!--counter start-->
-
-<section class="pb-0">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-3 col-sm-6">
-        <div class="counter d-flex">
-          <div class="counter-icon me-3"> <i class="flaticon-medical-laboratory-1"></i>
-          </div>
-          <div class="counter-desc"> <span class="count-number text-black" data-to="50" data-speed="2000">50</span>
-            <h6>Advanced Equipment</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-3 col-sm-6 mt-5 mt-sm-0">
-        <div class="counter d-flex">
-          <div class="counter-icon me-3"> <i class="flaticon-heathcare-and-medical"></i>
-          </div>
-          <div class="counter-desc"> <span class="count-number text-black" data-to="30" data-speed="2000">30</span>
-            <h6>Expert Scientists</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-3 col-sm-6 mt-5 mt-lg-0">
-        <div class="counter d-flex">
-          <div class="counter-icon me-3"> <i class="flaticon-pharmacy"></i>
-          </div>
-          <div class="counter-desc"> <span class="count-number text-black" data-to="500" data-speed="2000">500</span>
-            <h6>Completed Projects</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-3 col-sm-6 mt-5 mt-lg-0">
-        <div class="counter d-flex">
-          <div class="counter-icon me-3"> <i class="flaticon-award"></i>
-          </div>
-          <div class="counter-desc"> <span class="count-number text-black" data-to="20" data-speed="2000">20</span>
-            <h6>Research Publications</h6>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!--counter end-->
-
-
-<!--price table start-->
-
-<!-- <section>
-  <div class="container">
-    <div class="row justify-content-center text-center">
-      <div class="col-lg-6 col-12">
-        <div class="section-title">
-          <h2 class="title mb-0">No Any Hidden Charge Select Your Perfect Pricing Plan</h2> 
-        </div>
-      </div>
-    </div>
-    <div class="row align-items-center g-0">
-      <div class="col-lg-4 col-md-6">
-        <div class="price-table text-center dark-bg text-white" data-bg-img="images/pattern/02.png">
-          <div class="price-title">
-            <h3 class="text-white">Basic</h3>
-          </div>
-          <div class="price-value my-4">
-            <h2 class="text-white">$33 <span class="text-light">/ month</span></h2> 
-          </div>
-          <div class="price-list">
-            <ul class="list-unstyled">
-              <li><i class="las la-check"></i> Free Equipment Use</li>
-              <li><i class="las la-check"></i> Doctor Treatment</li>
-              <li><i class="las la-check"></i> Medical Specialties</li>
-              <li><i class="las la-check"></i> Care Solutions</li>
-              <li><i class="las la-check"></i> 24/7 Customer Support</li>
-            </ul>
-          </div>
-          <a class="btn btn-theme mt-5" href="#"> <span>Select Plan</span>
-          </a>
-        </div>
-      </div>
-      <div class="col-lg-4 col-md-6 mt-5 mt-md-0">
-        <div class="price-table text-center py-6 box-shadow">
-          <div class="price-title">
-            <h3 class="text-theme">Standard</h3>
-          </div>
-          <div class="price-value my-4">
-            <h2>$99 <span>/ month</span></h2> 
-          </div>
-          <div class="price-list">
-            <ul class="list-unstyled">
-              <li><i class="las la-check"></i> Free Equipment Use</li>
-              <li><i class="las la-check"></i> Doctor Treatment</li>
-              <li><i class="las la-check"></i> Medical Specialties</li>
-              <li><i class="las la-check"></i> Care Solutions</li>
-              <li><i class="las la-check"></i> 24/7 Customer Support</li>
-            </ul>
-          </div>
-          <a class="btn btn-theme mt-5" href="#"> <span>Select Plan</span>
-          </a>
-        </div>
-      </div>
-      <div class="col-lg-4 col-md-6 mt-5 mt-lg-0">
-        <div class="price-table text-center light-bg">
-          <div class="price-title">
-            <h3 class="text-theme">Premium</h3>
-          </div>
-          <div class="price-value my-4">
-            <h2>$199 <span>/ month</span></h2> 
-          </div>
-          <div class="price-list">
-            <ul class="list-unstyled">
-              <li><i class="las la-check"></i> Free Equipment Use</li>
-              <li><i class="las la-check"></i> Doctor Treatment</li>
-              <li><i class="las la-check"></i> Medical Specialties</li>
-              <li><i class="las la-check"></i> Care Solutions</li>
-              <li><i class="las la-check"></i> 24/7 Customer Support</li>
-            </ul>
-          </div>
-          <a class="btn btn-dark mt-5" href="#"> <span>Select Plan</span>
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
-</section> -->
-
-<!--price table end-->
-
-
-<!--testimonial start-->
-<!-- 
-<section class="p-0">
-  <div class="container-fluid p-0">
-    <div class="row g-0">
-      <div class="col-md-4" data-bg-img="images/about/05.jpg"></div>
-      <div class="col-md-8 theme-bg py-5 px-lg-8 px-5">
-        <div class="owl-carousel no-pb" data-dots="false" data-items="1" data-autoplay="true" data-autoplay-timeout="8000">
-          <div class="item">
-            <div class="testimonial text-center">
-              <div class="testimonial-img mb-2">
-                <img class="img-fluid rounded-circle shadow-sm d-inline-block" src="images/testimonial/01.jpg" alt="">
-              </div>
-              <div class="testimonial-content">
-                <div class="testimonial-caption mb-3">
-                  <h5 class="text-white">Andrew Rooney</h5>
-                  <label class="fst-italic d-block text-light">-Supervisor</label>
-                </div>
-                <p class="fst-italic text-light">Labortech great place to work because of the opportunities for moving between centres and trying something new within your area of expertise. The laboratory is also an open and flexible workplace & great place to work with.</p>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="testimonial text-center">
-              <div class="testimonial-img mb-2">
-                <img class="img-fluid rounded-circle shadow-sm d-inline-block" src="images/testimonial/01.jpg" alt="">
-              </div>
-              <div class="testimonial-content">
-                <div class="testimonial-caption mb-3">
-                  <h5 class="text-white">Andrew Rooney</h5>
-                  <label class="fst-italic d-block text-light">-Supervisor</label>
-                </div>
-                <p class="fst-italic text-light">Labortech great place to work because of the opportunities for moving between centres and trying something new within your area of expertise. The laboratory is also an open and flexible workplace & great place to work with.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section> -->
-
-<!--testimonial end-->
-
-
 <!--blog start-->
 
 <section>
@@ -986,17 +725,17 @@ a:3:{s:4:"time";i:1730300446;s:3:"ttl";i:1;s:4:"data";s:51608:"<!DOCTYPE html>
       <div class="row">
         <div class="col-lg-4 col-12 white-bg p-4 p-md-6">
           <a class="footer-logo" href="http://localhost/wil-kh-v2/">
-            <img id="footer-logo" class="img-fluid" src="images/logo-wil.png" alt="" style="width : 60%; height:40%;">
-          </a>
+            <img id="footer-logo" class="img-fluid" src="images/logo_new.png" alt="logo" >
+          </a><br><br>
           <p class="my-4">Water Innovation Lab is dedicated to provide an excellent service in research, development and innovation in water, environment and foods
 </p>
           <div class="social-icons social-colored footer-social">
             <ul class="list-inline">
-              <li><a href="#"><i class="lab la-facebook-f"></i></a></li>
-              <li><a href="#"><i class="lab la-twitter"></i></a></li>
-              <li><a href="#"><i class="lab la-instagram"></i></a></li>
-              <li><a href="#"><i class="lab la-dribbble"></i></a></li>
-              <li><a href="#"><i class="lab la-linkedin-in"></i></a></li>
+              <li><a href="http://localhost/wil-kh-v2/contact_us"><i class="lab la-facebook-f"></i></a></li>
+              <li><a href="http://localhost/wil-kh-v2/contact_us"><i class="lab la-twitter"></i></a></li>
+              <li><a href="http://localhost/wil-kh-v2/contact_us"><i class="lab la-instagram"></i></a></li>
+              <li><a href="http://localhost/wil-kh-v2/contact_us"><i class="lab la-dribbble"></i></a></li>
+              <li><a href="http://localhost/wil-kh-v2/contact_us"><i class="lab la-linkedin-in"></i></a></li>
             </ul>
           </div>
         </div>
@@ -1006,26 +745,15 @@ a:3:{s:4:"time";i:1730300446;s:3:"ttl";i:1;s:4:"data";s:51608:"<!DOCTYPE html>
               <h4 class="mb-4">Quick Links</h4>
               <div class="footer-list">
                 <ul class="list-unstyled">
-                  <li><a href="about-us.html">About Us</a></li>
-                  <li><a href="contact.html">Contact Us</a></li>
+                  <li><a href="http://localhost/wil-kh-v2/about_us">About Us</a></li>
+                  <li><a href="http://localhost/wil-kh-v2/contact_us">Contact Us</a></li>
                   <li><a href="privacy-policy.html">Privacy Policy</a></li>
                   <li><a href="terms-and-conditions.html">Terms & Condition</a></li>
-                  <li><a href="team.html">Our Team</a></li>
+                  <li><a href="http://localhost/wil-kh-v2/our_team">Our Team</a></li>
                 </ul>
               </div>
             </div>
-            <div class="col-md-4 col-sm-6 col-12 mt-6 mt-sm-0">
-              <h4 class="mb-4">Services</h4>
-              <div class="footer-list">
-                <ul class="list-unstyled">
-                  <li><a href="pathologycam-testing.html">Pathologycam Testing</a></li>
-                  <li><a href="biochemistry-solution.html">Biochemistry Solution</a></li>
-                  <li><a href="chemical-research.html">Chemical Research</a></li>
-                  <li><a href="pharmaceutical-research.html">Pharmaceutical Research</a></li>
-                  <li><a href="diabetes-testing.html">Diabetes Testing</a></li>
-                </ul>
-              </div>
-            </div>
+            <div class="col-md-4 col-sm-6 col-12 mt-6 mt-sm-0"></div>
             <div class="col-md-5 col-12 mt-6 mt-md-0">
               <h4 class="mb-4">Get In Touch</h4>
               <div class="footer-cntct my-4">
@@ -1058,64 +786,6 @@ a:3:{s:4:"time";i:1730300446;s:3:"ttl";i:1;s:4:"data";s:51608:"<!DOCTYPE html>
 </div>
 
 <!-- page wrapper end -->
-
-<!-- Cart Modal -->
-<div class="modal fade cart-modal" id="cartModal" tabindex="-1" role="dialog" aria-labelledby="ModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="ModalLabel">Your Cart (2)</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body">
-        <div>
-          <div class="row align-items-center">
-            <div class="col-5 d-flex align-items-center">
-              <div class="me-4">
-                <button type="submit" class="btn btn-theme btn-sm"><i class="las la-times"></i></button>
-              </div>
-              <!-- Image -->
-              <a href="product-left-image.html">
-                <img class="img-fluid" src="images/product/01.jpg" alt="...">
-              </a>
-            </div>
-            <div class="col-7">
-              <!-- Title -->
-              <h6><a class="link-title" href="product-single.html">Dealistic Microscope</a></h6>
-              <div class="product-meta"><span class="me-2 text-theme">$120.00</span><span class="text-muted">x 1</span></div>
-            </div>
-          </div>
-        </div>
-        <hr class="my-5">
-        <div>
-          <div class="row align-items-center">
-            <div class="col-5 d-flex align-items-center">
-              <div class="me-4">
-                <button type="submit" class="btn btn-theme btn-sm"><i class="las la-times"></i></button>
-              </div>
-              <!-- Image -->
-              <a href="product-single.html">
-                <img class="img-fluid" src="images/product/02.jpg" alt="...">
-              </a>
-            </div>
-            <div class="col-7">
-              <!-- Title -->
-              <h6><a class="link-title" href="product-left-image.html">Biotechnology Microscope</a></h6>
-              <div class="product-meta"><span class="me-2 text-theme">$160.00</span><span class="text-muted">x 1</span></div>
-            </div>
-          </div>
-        </div>
-        <hr class="my-5">
-        <div class="d-flex justify-content-between align-items-center mb-8">
-          <span class="text-muted">Subtotal:</span>
-          <span class="text-dark">$280.00</span>
-        </div>
-        <a href="product-cart.html" class="btn btn-theme me-2">View Cart</a>
-        <a href="product-checkout.html" class="btn btn-dark">Continue To Checkout</a>
-      </div>
-    </div>
-  </div>
-</div>
 
 <!--back-to-top start-->
 
