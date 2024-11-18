@@ -255,48 +255,6 @@
 
 <!--team end-->
 
-
-<!--testimonial start-->
-
-<section class="p-0">
-  <div class="container-fluid p-0">
-    <div class="row g-0">
-      <div class="col-md-4"><img src="images/client/img_3_new.jpg" alt=""></div>
-      <div class="col-md-8 theme-bg py-5 px-lg-8 px-5">
-        <div class="owl-carousel no-pb" data-dots="false" data-items="1" data-autoplay="true" data-autoplay-timeout="8000">
-          <div class="item">
-            <div class="testimonial text-center">
-              <div class="testimonial-img mb-2">
-              </div>
-              <div class="testimonial-content">
-                <div class="testimonial-caption mb-3">
-                  <h5 class="text-white">Dr. Jagannath Biswakarma</h5>
-                  <label class="fst-italic d-block text-light">Lead author, Senior Research Associate - University's School of Earth Sciences</label>
-                </div>
-                <p class="fst-italic text-light">"There are millions of people living in regions affected by arsenic, like I was growing up. This breakthrough could pave the way for safer drinking water and a healthier future."</p>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="testimonial text-center">
-              <div class="testimonial-img mb-2">
-              </div>
-              <div class="testimonial-content">
-                <div class="testimonial-caption mb-3">
-                  <h5 class="text-white"> R. Buckminster Fuller</h5>
-                </div>
-                <p class="fst-italic text-light"> “You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.”</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!--testimonial end-->
-
 </div>
 
 <!--body content end--> 

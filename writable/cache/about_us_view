@@ -1,4 +1,4 @@
-a:3:{s:4:"time";i:1731630351;s:3:"ttl";i:1;s:4:"data";s:19488:"<!DOCTYPE html>
+a:3:{s:4:"time";i:1731962123;s:3:"ttl";i:1;s:4:"data";s:31190:"<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -191,6 +191,24 @@ a:3:{s:4:"time";i:1731630351;s:3:"ttl";i:1;s:4:"data";s:19488:"<!DOCTYPE html>
                      
                   </ul>
                 </li>
+
+                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Service</a>
+                  <ul class="dropdown-menu">
+                    <li><a href="http://localhost/wil-kh-v2/water_quality_test">Water quality testing </a>
+                    </li>
+                    <li><a href="http://localhost/wil-kh-v2/food_quality_test">Food quality testing</a>
+                    </li>
+                    <li><a href="http://localhost/wil-kh-v2/soil_quality_test">Soil quality testing</a>
+                    </li>
+                    <li><a href="http://localhost/wil-kh-v2/risk_assessment">Environmental Risk Assessment</a>
+                    </li>
+                    <li><a href="http://localhost/wil-kh-v2/arsenic_research">Research & Project consultation</a>
+                    </li>
+                     
+                  </ul>
+                </li>
+
+
                 <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">
                       Research
                     </a>
@@ -268,14 +286,14 @@ a:3:{s:4:"time";i:1731630351;s:3:"ttl";i:1;s:4:"data";s:19488:"<!DOCTYPE html>
     <div class="row">
       <div class="col-lg-6">
         <div class="white-bg p-md-5 p-3 d-inline-block">
-        <h1 class="text-theme">Journal <span class="text-black">Articles</span></h1>
+        <h1 class="text-theme">Conference <span class="text-black">Articles</span></h1>
         <nav aria-label="breadcrumb" class="page-breadcrumb border-top border-light pt-3 mt-3">
           <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="index.html"><i class="las la-home me-1"></i>Home</a>
             </li>
-            <li class="breadcrumb-item">Research
+            <li class="breadcrumb-item">Publication
             </li>
-            <li class="breadcrumb-item active" aria-current="page">Journal Articles</li>
+            <li class="breadcrumb-item active" aria-current="page">Conference Articles</li>
           </ol>
         </nav>
         </div>
@@ -298,6 +316,174 @@ a:3:{s:4:"time";i:1731630351;s:3:"ttl";i:1;s:4:"data";s:19488:"<!DOCTYPE html>
       <div class="col-12 col-lg-8 mb-6 mb-lg-0">
         <!-- Journal Article Card -->
         <div class="card post-card border-0 rounded-0 shadow-sm bg-transparent mb-6">
+          <div class="card-body px-4 pb-4 pt-0">
+            <div class="mt-n3">
+              <div class="d-inline-block white-bg px-2 py-1 text-black box-shadow">15 May 2024</div>
+            </div>
+            <strong>International Journal</strong>
+            <h2 class="h4 my-3">Chemical risks in drinking water of inhabitants in the basin of the Tonle Sap Great lake. J Water Health 21 (12): 1908–1921.</h2>
+            <ul class="list-inline mb-0 border-top border-bottom border-light py-2 mb-4">
+              <li class="list-inline-item"> <a href="#" class="text-black"><i class="lar la-user-circle me-1"></i>Phan, K., Hoeng, S., Phin, S., The, N., Sriv, T., Sao, V., Chey, C.O. 2023.</a>
+              </li>
+            </ul>
+            <div class="d-flex justify-content-between align-items-center">
+              <div><a class="px-3 py-2 light-bg text-black" href="#">Water Quality</a>  <a class="px-3 py-2 light-bg text-black" href="#">Urban Water</a>
+              </div> <a class="link-btn" href="https://doi.org/10.2166/wh.2023.236"><i class="las la-long-arrow-alt-right"></i></a>
+            </div>
+          </div>
+        </div>
+        <!-- End Journal Article Card -->
+
+        <!-- Journal Article Card -->
+        <div class="card post-card border-0 rounded-0 shadow-sm bg-transparent mb-6">
+          <div class="card-body px-4 pb-4 pt-0">
+            <div class="mt-n3">
+              <div class="d-inline-block white-bg px-2 py-1 text-black box-shadow"></div>
+            </div>
+            <strong>Domestic Journal</strong>
+            <h2 class="h4 my-3"> The development and evaluation of Cashew Apple Based Fruit Juice formula. Bull. CCS 15 (Accepted) </h2>
+            <ul class="list-inline mb-0 border-top border-bottom border-light py-2 mb-4">
+              <li class="list-inline-item"> <a href="#" class="text-black"><i class="lar la-user-circle me-1"></i>Aong, L., Huoy, L., Phan, K. 2024. </a>
+              </li>
+            </ul>
+            <div class="d-flex justify-content-between align-items-center">
+              <div>
+                <a class="px-3 py-2 light-bg text-black" href="#">Quality check</a>  <a class="px-3 py-2 light-bg text-black" href="#">Fruit Juice</a>
+              </div> 
+            </div>
+          </div>
+        </div>
+        <!-- End Journal Article Card -->
+      </div>
+      
+      <!-- Journal Article Card -->
+      <div class="card post-card border-0 rounded-0 shadow-sm bg-transparent mb-6">
+          <div class="card-body px-4 pb-4 pt-0">
+            <div class="mt-n3">
+              <div class="d-inline-block white-bg px-2 py-1 text-black box-shadow">15 May 2024</div>
+            </div>
+            <strong>International Journal</strong>
+            <h2 class="h4 my-3">Chemical risks in drinking water of inhabitants in the basin of the Tonle Sap Great lake. J Water Health 21 (12): 1908–1921.</h2>
+            <ul class="list-inline mb-0 border-top border-bottom border-light py-2 mb-4">
+              <li class="list-inline-item"> <a href="#" class="text-black"><i class="lar la-user-circle me-1"></i>Phan, K., Hoeng, S., Phin, S., The, N., Sriv, T., Sao, V., Chey, C.O. 2023.</a>
+              </li>
+            </ul>
+            <div class="d-flex justify-content-between align-items-center">
+              <div><a class="px-3 py-2 light-bg text-black" href="#">Water Quality</a>  <a class="px-3 py-2 light-bg text-black" href="#">Urban Water</a>
+              </div> <a class="link-btn" href="https://doi.org/10.2166/wh.2023.236"><i class="las la-long-arrow-alt-right"></i></a>
+            </div>
+          </div>
+        </div>
+        <!-- End Journal Article Card -->
+
+        <!-- Journal Article Card -->
+        <div class="card post-card border-0 rounded-0 shadow-sm bg-transparent mb-6">
+          <div class="card-body px-4 pb-4 pt-0">
+            <div class="mt-n3">
+              <div class="d-inline-block white-bg px-2 py-1 text-black box-shadow"></div>
+            </div>
+            <strong>Domestic Journal</strong>
+            <h2 class="h4 my-3"> The development and evaluation of Cashew Apple Based Fruit Juice formula. Bull. CCS 15 (Accepted) </h2>
+            <ul class="list-inline mb-0 border-top border-bottom border-light py-2 mb-4">
+              <li class="list-inline-item"> <a href="#" class="text-black"><i class="lar la-user-circle me-1"></i>Aong, L., Huoy, L., Phan, K. 2024. </a>
+              </li>
+            </ul>
+            <div class="d-flex justify-content-between align-items-center">
+              <div>
+                <a class="px-3 py-2 light-bg text-black" href="#">Quality check</a>  <a class="px-3 py-2 light-bg text-black" href="#">Fruit Juice</a>
+              </div> 
+            </div>
+          </div>
+        </div>
+        <!-- End Journal Article Card -->
+      </div>
+      
+      <!-- Journal Article Card -->
+      <div class="card post-card border-0 rounded-0 shadow-sm bg-transparent mb-6">
+          <div class="card-body px-4 pb-4 pt-0">
+            <div class="mt-n3">
+              <div class="d-inline-block white-bg px-2 py-1 text-black box-shadow">15 May 2024</div>
+            </div>
+            <strong>International Journal</strong>
+            <h2 class="h4 my-3">Chemical risks in drinking water of inhabitants in the basin of the Tonle Sap Great lake. J Water Health 21 (12): 1908–1921.</h2>
+            <ul class="list-inline mb-0 border-top border-bottom border-light py-2 mb-4">
+              <li class="list-inline-item"> <a href="#" class="text-black"><i class="lar la-user-circle me-1"></i>Phan, K., Hoeng, S., Phin, S., The, N., Sriv, T., Sao, V., Chey, C.O. 2023.</a>
+              </li>
+            </ul>
+            <div class="d-flex justify-content-between align-items-center">
+              <div><a class="px-3 py-2 light-bg text-black" href="#">Water Quality</a>  <a class="px-3 py-2 light-bg text-black" href="#">Urban Water</a>
+              </div> <a class="link-btn" href="https://doi.org/10.2166/wh.2023.236"><i class="las la-long-arrow-alt-right"></i></a>
+            </div>
+          </div>
+        </div>
+        <!-- End Journal Article Card -->
+
+        <!-- Journal Article Card -->
+        <div class="card post-card border-0 rounded-0 shadow-sm bg-transparent mb-6">
+          <div class="card-body px-4 pb-4 pt-0">
+            <div class="mt-n3">
+              <div class="d-inline-block white-bg px-2 py-1 text-black box-shadow"></div>
+            </div>
+            <strong>Domestic Journal</strong>
+            <h2 class="h4 my-3"> The development and evaluation of Cashew Apple Based Fruit Juice formula. Bull. CCS 15 (Accepted) </h2>
+            <ul class="list-inline mb-0 border-top border-bottom border-light py-2 mb-4">
+              <li class="list-inline-item"> <a href="#" class="text-black"><i class="lar la-user-circle me-1"></i>Aong, L., Huoy, L., Phan, K. 2024. </a>
+              </li>
+            </ul>
+            <div class="d-flex justify-content-between align-items-center">
+              <div>
+                <a class="px-3 py-2 light-bg text-black" href="#">Quality check</a>  <a class="px-3 py-2 light-bg text-black" href="#">Fruit Juice</a>
+              </div> 
+            </div>
+          </div>
+        </div>
+        <!-- End Journal Article Card -->
+      </div>
+      
+      <!-- Journal Article Card -->
+      <div class="card post-card border-0 rounded-0 shadow-sm bg-transparent mb-6">
+          <div class="card-body px-4 pb-4 pt-0">
+            <div class="mt-n3">
+              <div class="d-inline-block white-bg px-2 py-1 text-black box-shadow">15 May 2024</div>
+            </div>
+            <strong>International Journal</strong>
+            <h2 class="h4 my-3">Chemical risks in drinking water of inhabitants in the basin of the Tonle Sap Great lake. J Water Health 21 (12): 1908–1921.</h2>
+            <ul class="list-inline mb-0 border-top border-bottom border-light py-2 mb-4">
+              <li class="list-inline-item"> <a href="#" class="text-black"><i class="lar la-user-circle me-1"></i>Phan, K., Hoeng, S., Phin, S., The, N., Sriv, T., Sao, V., Chey, C.O. 2023.</a>
+              </li>
+            </ul>
+            <div class="d-flex justify-content-between align-items-center">
+              <div><a class="px-3 py-2 light-bg text-black" href="#">Water Quality</a>  <a class="px-3 py-2 light-bg text-black" href="#">Urban Water</a>
+              </div> <a class="link-btn" href="https://doi.org/10.2166/wh.2023.236"><i class="las la-long-arrow-alt-right"></i></a>
+            </div>
+          </div>
+        </div>
+        <!-- End Journal Article Card -->
+
+        <!-- Journal Article Card -->
+        <div class="card post-card border-0 rounded-0 shadow-sm bg-transparent mb-6">
+          <div class="card-body px-4 pb-4 pt-0">
+            <div class="mt-n3">
+              <div class="d-inline-block white-bg px-2 py-1 text-black box-shadow"></div>
+            </div>
+            <strong>Domestic Journal</strong>
+            <h2 class="h4 my-3"> The development and evaluation of Cashew Apple Based Fruit Juice formula. Bull. CCS 15 (Accepted) </h2>
+            <ul class="list-inline mb-0 border-top border-bottom border-light py-2 mb-4">
+              <li class="list-inline-item"> <a href="#" class="text-black"><i class="lar la-user-circle me-1"></i>Aong, L., Huoy, L., Phan, K. 2024. </a>
+              </li>
+            </ul>
+            <div class="d-flex justify-content-between align-items-center">
+              <div>
+                <a class="px-3 py-2 light-bg text-black" href="#">Quality check</a>  <a class="px-3 py-2 light-bg text-black" href="#">Fruit Juice</a>
+              </div> 
+            </div>
+          </div>
+        </div>
+        <!-- End Journal Article Card -->
+      </div>
+      
+      <!-- Journal Article Card -->
+      <div class="card post-card border-0 rounded-0 shadow-sm bg-transparent mb-6">
           <div class="card-body px-4 pb-4 pt-0">
             <div class="mt-n3">
               <div class="d-inline-block white-bg px-2 py-1 text-black box-shadow">15 May 2024</div>
@@ -394,13 +580,25 @@ a:3:{s:4:"time";i:1731630351;s:3:"ttl";i:1;s:4:"data";s:19488:"<!DOCTYPE html>
                 <ul class="list-unstyled">
                   <li><a href="http://localhost/wil-kh-v2/about_us">About Us</a></li>
                   <li><a href="http://localhost/wil-kh-v2/contact_us">Contact Us</a></li>
-                  <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                  <li><a href="terms-and-conditions.html">Terms & Condition</a></li>
                   <li><a href="http://localhost/wil-kh-v2/our_team">Our Team</a></li>
+                  <li><a href="http://localhost/wil-kh-v2/laboratory">Laboratory</a></li>
                 </ul>
               </div>
             </div>
-            <div class="col-md-4 col-sm-6 col-12 mt-6 mt-sm-0"></div>
+
+            <div class="col-md-4 col-sm-6 col-12 mt-6 mt-sm-0">
+              <h4 class="mb-4">Service</h4>
+              <div class="footer-list">
+                <ul class="list-unstyled">
+                    <li><a href="http://localhost/wil-kh-v2/water_quality_test">Water quality testing </a></li>
+                    <li><a href="http://localhost/wil-kh-v2/food_quality_test">Food quality testing</a></li>
+                    <li><a href="http://localhost/wil-kh-v2/soil_quality_test">Soil quality testing</a></li>
+                    <li><a href="http://localhost/wil-kh-v2/risk_assessment">Environmental Risk Assessment</a></li>
+                    <li><a href="http://localhost/wil-kh-v2/arsenic_research">Research & Project consultation</a></li>
+                </ul>
+              </div>
+            </div>
+
             <div class="col-md-5 col-12 mt-6 mt-md-0">
               <h4 class="mb-4">Get In Touch</h4>
               <div class="footer-cntct my-4">

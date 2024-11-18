@@ -5,14 +5,14 @@
     <div class="row">
       <div class="col-lg-6">
         <div class="white-bg p-md-5 p-3 d-inline-block">
-        <h1 class="text-theme">Journal <span class="text-black">Articles</span></h1>
+        <h1 class="text-theme">Conference <span class="text-black">Articles</span></h1>
         <nav aria-label="breadcrumb" class="page-breadcrumb border-top border-light pt-3 mt-3">
           <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="index.html"><i class="las la-home me-1"></i>Home</a>
             </li>
-            <li class="breadcrumb-item">Research
+            <li class="breadcrumb-item">Publication
             </li>
-            <li class="breadcrumb-item active" aria-current="page">Journal Articles</li>
+            <li class="breadcrumb-item active" aria-current="page">Conference Articles</li>
           </ol>
         </nav>
         </div>

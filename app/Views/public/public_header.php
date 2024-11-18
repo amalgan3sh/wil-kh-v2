@@ -191,6 +191,24 @@
                      
                   </ul>
                 </li>
+
+                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Service</a>
+                  <ul class="dropdown-menu">
+                    <li><a href="<?php echo base_url('/water_quality_test') ?>">Water quality testing </a>
+                    </li>
+                    <li><a href="<?php echo base_url('/food_quality_test') ?>">Food quality testing</a>
+                    </li>
+                    <li><a href="<?php echo base_url('/soil_quality_test') ?>">Soil quality testing</a>
+                    </li>
+                    <li><a href="<?php echo base_url('/risk_assessment') ?>">Environmental Risk Assessment</a>
+                    </li>
+                    <li><a href="<?php echo base_url('/arsenic_research') ?>">Research & Project consultation</a>
+                    </li>
+                     
+                  </ul>
+                </li>
+
+
                 <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">
                       Research
                     </a>

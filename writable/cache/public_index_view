@@ -1,4 +1,4 @@
-a:3:{s:4:"time";i:1731623925;s:3:"ttl";i:1;s:4:"data";s:37072:"<!DOCTYPE html>
+a:3:{s:4:"time";i:1731961042;s:3:"ttl";i:1;s:4:"data";s:38008:"<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -100,7 +100,7 @@ a:3:{s:4:"time";i:1731623925;s:3:"ttl";i:1;s:4:"data";s:37072:"<!DOCTYPE html>
             <div> <i class="las la-map-marker"></i>
             </div>
             <div>
-              <div>Location: Phnom Penh, Cambodia</div>
+              <div>Location: Kampong Cham, Cambodia</div>
             </div>
           </div>
           <div class="d-none d-lg-flex align-items-center">
@@ -191,6 +191,24 @@ a:3:{s:4:"time";i:1731623925;s:3:"ttl";i:1;s:4:"data";s:37072:"<!DOCTYPE html>
                      
                   </ul>
                 </li>
+
+                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Service</a>
+                  <ul class="dropdown-menu">
+                    <li><a href="http://localhost/wil-kh-v2/water_quality_test">Water quality testing </a>
+                    </li>
+                    <li><a href="http://localhost/wil-kh-v2/food_quality_test">Food quality testing</a>
+                    </li>
+                    <li><a href="http://localhost/wil-kh-v2/soil_quality_test">Soil quality testing</a>
+                    </li>
+                    <li><a href="http://localhost/wil-kh-v2/risk_assessment">Environmental Risk Assessment</a>
+                    </li>
+                    <li><a href="http://localhost/wil-kh-v2/arsenic_research">Research & Project consultation</a>
+                    </li>
+                     
+                  </ul>
+                </li>
+
+
                 <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">
                       Research
                     </a>

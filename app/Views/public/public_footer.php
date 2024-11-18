@@ -28,13 +28,25 @@
                 <ul class="list-unstyled">
                   <li><a href="<?php echo base_url('/about_us') ?>">About Us</a></li>
                   <li><a href="<?php echo base_url('/contact_us') ?>">Contact Us</a></li>
-                  <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                  <li><a href="terms-and-conditions.html">Terms & Condition</a></li>
                   <li><a href="<?php echo base_url('/our_team') ?>">Our Team</a></li>
+                  <li><a href="<?php echo base_url('/laboratory') ?>">Laboratory</a></li>
                 </ul>
               </div>
             </div>
-            <div class="col-md-4 col-sm-6 col-12 mt-6 mt-sm-0"></div>
+
+            <div class="col-md-4 col-sm-6 col-12 mt-6 mt-sm-0">
+              <h4 class="mb-4">Service</h4>
+              <div class="footer-list">
+                <ul class="list-unstyled">
+                    <li><a href="<?php echo base_url('/water_quality_test') ?>">Water quality testing </a></li>
+                    <li><a href="<?php echo base_url('/food_quality_test') ?>">Food quality testing</a></li>
+                    <li><a href="<?php echo base_url('/soil_quality_test') ?>">Soil quality testing</a></li>
+                    <li><a href="<?php echo base_url('/risk_assessment') ?>">Environmental Risk Assessment</a></li>
+                    <li><a href="<?php echo base_url('/arsenic_research') ?>">Research & Project consultation</a></li>
+                </ul>
+              </div>
+            </div>
+
             <div class="col-md-5 col-12 mt-6 mt-md-0">
               <h4 class="mb-4">Get In Touch</h4>
               <div class="footer-cntct my-4">
