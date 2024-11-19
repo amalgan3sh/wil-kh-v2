@@ -256,7 +256,7 @@
             </div>
             <div class="form-group">
               <select name="select" class="form-select form-control">
-                <option>- Choose Service</option>
+                <option>- Choose Service -</option>
                 <option>Water Quality Testing</option>
                 <option>Food Safety Analysis</option>
                 <option>Soil Quality Assessment</option>
