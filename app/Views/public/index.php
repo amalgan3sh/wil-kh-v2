@@ -1,12 +1,10 @@
 <!--hero section start-->
 <section class="banner p-0 pos-r">
   <div class="banner-slider owl-carousel no-pb" data-dots="false" data-nav="true">
-
     <div class="item overlay-50 theme-overlay" style="background-image: url('images/client/banner_1.png'); background-size: cover; " data-overlay="9">
       <div class="container">
         <div class="row pt-8 custom-pb-2">
-          <!-- Right portion: Text overlay -->
-          <div class="col-lg-6 col-md-8 col-12 ms-auto text-end">
+          <div class="col-lg-6 col-md-8 col-12">
             <h1 class="mb-4 text-white">Excellence in Laboratory Services</h1>
             <p class="lead font-w-5 text-white">Experience state-of-the-art laboratory services with Wil-Kh.<br>We are committed to delivering excellence in every test.</p>
             <div class="btn-box mt-5">
@@ -20,12 +18,9 @@
       </div>
     </div>
 
-
-
     <div class="item overlay-50 theme-overlay" 
      style="background-image: url('images/client/img_28.jpg'); 
-            background-size: cover; 
-            filter: grayscale(100%) sepia(100%) hue-rotate(-50deg) saturate(200%) brightness(0.7);"
+            background-size: cover; "
             data-overlay="9">
       <div class="container">
         <div class="row pt-8 custom-pb-2">
@@ -158,7 +153,7 @@
   <div class="container">
     <div class="row">
       <div class="col">
-        <div class="dark-bg px-md-7 px-4 pt-7 pb-9" data-bg-img="https://filelist.tudelft.nl/_processed_/3/2/csm_water%20treatment%20plant_b26349a003.jpg">
+        <div class="dark-bg px-md-7 px-4 pt-7 pb-9" style="background-image: url('images/client/img_28.jpg'); ">
           <div class="row justify-content-center text-center">
             <div class="col-lg-8">
               <div class="section-title">
@@ -177,7 +172,7 @@
           <div class="item">
             <div class="service-item style-2">
               <div class="service-img position-relative overflow-hidden">
-                <img class="img-fluid" src="images/client/img_14.jpg" alt="">
+                <img class="img-fluid" src="images/client/img_14.2.jpg" alt="">
               </div>
               <div class="service-desc white-bg shadow-none">
                 <div class="service-title">
@@ -192,7 +187,7 @@
           <div class="item">
             <div class="service-item style-2 active">
               <div class="service-img position-relative overflow-hidden">
-                <img class="img-fluid" src="images/client/img_8.jpg" alt="">
+                <img class="img-fluid" src="images/client/img_8.2.jpg" alt="">
               </div>
               <div class="service-desc white-bg shadow-none">
                 <div class="service-title">
@@ -207,7 +202,7 @@
           <div class="item">
             <div class="service-item style-2">
               <div class="service-img position-relative overflow-hidden">
-                <img class="img-fluid" src="images/client/img_25.jpg" alt="">
+                <img class="img-fluid" src="images/client/img_12.2.jpg" alt="">
               </div>
               <div class="service-desc white-bg shadow-none">
                 <div class="service-title">
@@ -303,8 +298,8 @@
         <div class="owl-carousel no-pb popup-gallery" data-dots="false" data-items="4" data-md-items="2" data-sm-items="1" data-xs-items="1" data-margin="10">
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="images/client/img_23_new.jpg" alt="">
-              <a class="popup-img" href="https://img.freepik.com/free-photo/realistic-water-drop-with-ecosystem_23-2151196380.jpg?t=st=1719650356~exp=1719653956~hmac=1a234d1c3bf5c8613040d7e729bd883b7de322bbff246d4841684721b6c23c7d&w=740"> <i class="las la-plus"></i>
+              <img class="img-fluid w-100" src="images/client/img_18.2.jpg" alt="">
+              <a class="popup-img" href="images/client/img_18.2.jpg"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Water Quality</span>
                 <h4><a href="research-single.html">Microplastics in Drinking Water</a></h4>
@@ -313,8 +308,8 @@
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="images/client/img_23_new.jpg" alt="">
-              <a class="popup-img" href="https://img.freepik.com/free-photo/realistic-water-drop-with-ecosystem_23-2151196380.jpg?t=st=1719650356~exp=1719653956~hmac=1a234d1c3bf5c8613040d7e729bd883b7de322bbff246d4841684721b6c23c7d&w=740"> <i class="las la-plus"></i>
+              <img class="img-fluid w-100" src="images/client/img_18.2.jpg" alt="">
+              <a class="popup-img" href="images/client/img_18.2.jpg"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Food Safety</span>
                 <h4><a href="research-single.html">Pesticide Residue Analysis</a></h4>
@@ -323,8 +318,8 @@
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="images/client/img_23_new.jpg" alt="">
-              <a class="popup-img" href="https://img.freepik.com/free-photo/realistic-water-drop-with-ecosystem_23-2151196380.jpg?t=st=1719650356~exp=1719653956~hmac=1a234d1c3bf5c8613040d7e729bd883b7de322bbff246d4841684721b6c23c7d&w=740"> <i class="las la-plus"></i>
+              <img class="img-fluid w-100" src="images/client/img_18.2.jpg" alt="">
+              <a class="popup-img" href="images/client/img_18.2.jpg"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Soil Quality</span>
                 <h4><a href="research-single.html">Heavy Metal Contamination</a></h4>
@@ -333,8 +328,8 @@
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="images/client/img_23_new.jpg" alt="">
-              <a class="popup-img" href="https://img.freepik.com/free-photo/realistic-water-drop-with-ecosystem_23-2151196380.jpg?t=st=1719650356~exp=1719653956~hmac=1a234d1c3bf5c8613040d7e729bd883b7de322bbff246d4841684721b6c23c7d&w=740"> <i class="las la-plus"></i>
+              <img class="img-fluid w-100" src="images/client/img_18.2.jpg" alt="">
+              <a class="popup-img" href="images/client/img_18.2.jpg"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Arsenic Research</span>
                 <h4><a href="research-single.html">Groundwater Arsenic Removal</a></h4>
@@ -343,8 +338,8 @@
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="images/client/img_23_new.jpg" alt="">
-              <a class="popup-img" href="https://img.freepik.com/free-photo/realistic-water-drop-with-ecosystem_23-2151196380.jpg?t=st=1719650356~exp=1719653956~hmac=1a234d1c3bf5c8613040d7e729bd883b7de322bbff246d4841684721b6c23c7d&w=740"> <i class="las la-plus"></i>
+              <img class="img-fluid w-100" src="images/client/img_18.2.jpg" alt="">
+              <a class="popup-img" href="images/client/img_18.2.jpg"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Environmental Safety</span>
                 <h4><a href="research-single.html">Industrial Waste Management</a></h4>

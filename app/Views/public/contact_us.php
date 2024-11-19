@@ -11,7 +11,7 @@
         <h1 class="text-theme">Contact <span class="text-black">Us</span></h1>
         <nav aria-label="breadcrumb" class="page-breadcrumb border-top border-light pt-3 mt-3">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.html"><i class="las la-home me-1"></i>Home</a>
+            <li class="breadcrumb-item"><a href="<?php echo base_url('/') ?>"><i class="las la-home me-1"></i>Home</a>
             </li>
             <li class="breadcrumb-item">Pages
             </li>

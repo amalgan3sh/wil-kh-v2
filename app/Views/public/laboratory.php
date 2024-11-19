@@ -8,7 +8,7 @@
         <h1 class="text-theme">Laboratory <span class="text-black">Research</span></h1>
         <nav aria-label="breadcrumb" class="page-breadcrumb border-top border-light pt-3 mt-3">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.html"><i class="las la-home me-1"></i>Home</a>
+            <li class="breadcrumb-item"><a href="<?php echo base_url('/') ?>"><i class="las la-home me-1"></i>Home</a>
             </li>
             <li class="breadcrumb-item">Research
             </li>
@@ -125,9 +125,7 @@
         <div class="owl-carousel no-pb popup-gallery" data-dots="false" data-items="5" data-md-items="3" data-sm-items="2" data-xs-items="1" data-margin="10">
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-120" src="images/client/img_2_new.jpg" alt="">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
-              </a>
+              <img class="img-fluid w-120" src="images/client/img_2.2.jpg" alt="">
               <div class="cases-title"> <span>Laboratory</span>
                 <h4><a href="#">Advanced Chemical Analysis</a></h4>
               </div>
@@ -135,9 +133,7 @@
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="images/client/img_4_new.jpg" alt="">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
-              </a>
+              <img class="img-fluid w-100" src="images/client/img_4.2.jpg" alt="">
               <div class="cases-title"> <span>Laboratory</span>
                 <h4><a href="#">Water Quality Testing</a></h4>
               </div>
@@ -145,9 +141,7 @@
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="images/client/img_12_new.jpg" alt="">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
-              </a>
+              <img class="img-fluid w-100" src="images/client/img_12.jpg" alt="">
               <div class="cases-title"> <span>Laboratory</span>
                 <h4><a href="#">Soil Quality Analysis</a></h4>
               </div>
@@ -155,9 +149,7 @@
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="images/client/img_8_new.jpg" alt="">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
-              </a>
+              <img class="img-fluid w-100" src="images/client/img_18.2.jpg" alt="">
               <div class="cases-title"> <span>Laboratory</span>
                 <h4><a href="#">Food Safety Research</a></h4>
               </div>
@@ -165,9 +157,7 @@
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="images/client/img_23_new.jpg" alt="">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
-              </a>
+              <img class="img-fluid w-100" src="images/client/img_23.2.jpg" alt="">
               <div class="cases-title"> <span>Laboratory</span>
                 <h4><a href="#">Arsenic Detection Methods</a></h4>
               </div>

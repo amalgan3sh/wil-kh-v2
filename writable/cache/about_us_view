@@ -1,4 +1,4 @@
-a:3:{s:4:"time";i:1731975933;s:3:"ttl";i:1;s:4:"data";s:24376:"<!DOCTYPE html>
+a:3:{s:4:"time";i:1732015584;s:3:"ttl";i:1;s:4:"data";s:23916:"<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -214,8 +214,6 @@ a:3:{s:4:"time";i:1731975933;s:3:"ttl";i:1;s:4:"data";s:24376:"<!DOCTYPE html>
                     </li>
                     <li><a href="conference">Conference</a>
                     </li>
-                    <li><a href="wil_newsletter">WIL Newsletter</a>
-                    </li>
                   </ul>
                 </li>
                 <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">About Us</a>
@@ -267,19 +265,19 @@ a:3:{s:4:"time";i:1731975933;s:3:"ttl";i:1;s:4:"data";s:24376:"<!DOCTYPE html>
 
 <!--header end--><!--page title start-->
 
-<section class="page-title parallaxie" data-bg-img="images/client/img_22.1.jpg">
+<section class="page-title parallaxie" data-bg-img="images/client/img_28.1.jpg">
   <div class="container">
     <div class="row">
       <div class="col-lg-6">
         <div class="white-bg p-md-5 p-3 d-inline-block">
-        <h1 class="text-theme">Laboratory <span class="text-black">Research</span></h1>
+        <h1 class="text-theme">Water Quality <span class="text-black">Testing</span></h1>
         <nav aria-label="breadcrumb" class="page-breadcrumb border-top border-light pt-3 mt-3">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.html"><i class="las la-home me-1"></i>Home</a>
+            <li class="breadcrumb-item"><a href="http://localhost/wil-kh-v2/"><i class="las la-home me-1"></i>Home</a>
             </li>
-            <li class="breadcrumb-item">Research
+            <li class="breadcrumb-item">Services
             </li>
-            <li class="breadcrumb-item active" aria-current="page">Laboratory</li>
+            <li class="breadcrumb-item active" aria-current="page">Water Quality Testing</li>
           </ol>
         </nav>
         </div>
@@ -301,24 +299,19 @@ a:3:{s:4:"time";i:1731975933;s:3:"ttl";i:1;s:4:"data";s:24376:"<!DOCTYPE html>
   <div class="container">
     <div class="row align-items-center mb-6">
       <div class="col-lg-5 col-12">
-        <img class="img-fluid w-100" src="images/client/img_18.jpg" alt="laboratory">
+      <img class="img-fluid img-border box-shadow w-100" src="images/client/img_20.jpg" alt="water_testing">
       </div>
       <div class="col-lg-7 col-12 mt-5 mt-lg-0 ps-lg-5">
         <div>
-          <h3 class="mb-3">Laboratory Research Overview</h3>
-          <p class="lead mb-4">The WIL Laboratory is to serve the core needs in Cambodia:<br>
-                    •   Make water, soil and food quality testing services available to organizations, companies, and individuals to 
-                      ensure drinking water and foods are safe and the environment is protected.<br>
-                    •   Research emerging environmental and public health issues such as water pollution and food safety.<br>
-                    •   Support for training the next generation of Cambodian scientists about science and technology for 
-                      sustainability.</p>
+          <h3 class="mb-3">Water Quality Testing Overview</h3>
+          <p class="lead mb-4">Water quality testing is an important part of development because microbial and chemical contaminants can cause water-boned diseases and harm people and the environment.</p>
           <div class="light-bg p-3">
             <ul class="list-unstyled">
-              <li class="mb-3"><span class="text-black font-w-5">Project name:</span> WIL-KH Lab</li>
-              <li class="mb-3"><span class="text-black font-w-5">Category:</span> Laboratory Research</li>
-              <li class="mb-3"><span class="text-black font-w-5">Research Name:</span> Advanced Chemical Analysis</li>
-              <li class="mb-3"><span class="text-black font-w-5">Research Year:</span> 2024</li>
-              <li><span class="text-black font-w-5">Client:</span> <a href="www.wil-kh.com">WIL-KH</a>
+              <li class="mb-3"><span class="text-black font-w-5">Drinking Water Quality Testing</span></li>
+              <li class="mb-3"><span class="text-black font-w-5">Wastewater Analysis</span></li>
+              <li class="mb-3"><span class="text-black font-w-5">Recreational Water Quality Testing </span></li>
+              <li class="mb-3"><span class="text-black font-w-5">Water for Production Testing</span></li>
+              <li class="mb-3"><span class="text-black font-w-5">Irrigation Water Quality Testing</span></li>
               </li>
             </ul>
           </div>
@@ -327,7 +320,9 @@ a:3:{s:4:"time";i:1731975933;s:3:"ttl";i:1;s:4:"data";s:24376:"<!DOCTYPE html>
     </div>
     <div>
       <h3 class="mb-3">Our Process</h3>
-      <p class="mb-5">We prioritize the recruitment of smart, curious, and capable individuals with skill, passion, and integrity. Our team members are trusted and given the space to act, succeed, and learn from their experiences. We support their growth and development, both individually and as part of a team.</p>
+      <p class="mb-5">Ensuring safe drinking water is crucial for public health. Our water quality testing services offer 
+        reliable results for microbial and chemical contaminants to safeguard water for both consumption 
+        and production purposes. </p>
       <div class="border-top border-start border-light">
         <div class="row g-0">
           <div class="col-lg-4">
@@ -335,10 +330,9 @@ a:3:{s:4:"time";i:1731975933;s:3:"ttl";i:1;s:4:"data";s:24376:"<!DOCTYPE html>
               <div class="h5 text-theme me-3">01</div>
               <div class="featured-desc">
                 <div class="featured-title">
-                  <h5 class="mt-0">Water Testing</h5>
+                  <h5 class="mt-0">Sample Collection</h5>
                 </div>
-                <p>Water quality testing is an important part of development because microbial and chemical contaminants can cause 
-                  water-boned diseases and harm people and the environment.</p>
+                <p>We employ proper sampling techniques to ensure representative and uncontaminated water samples.</p>
               </div>
             </div>
           </div>
@@ -347,9 +341,9 @@ a:3:{s:4:"time";i:1731975933;s:3:"ttl";i:1;s:4:"data";s:24376:"<!DOCTYPE html>
               <div class="h5 text-theme me-3">02</div>
               <div class="featured-desc">
                 <div class="featured-title">
-                  <h5 class="mt-0">Food Testing</h5>
+                  <h5 class="mt-0">Advanced Analysis</h5>
                 </div>
-                <p>Food quality testing is an important part of development as microbial pathogens can cause food boned diseases and harm the people.</p>
+                <p>Our laboratory utilizes cutting-edge equipment to analyze samples for various contaminants and parameters.</p>
               </div>
             </div>
           </div>
@@ -358,10 +352,9 @@ a:3:{s:4:"time";i:1731975933;s:3:"ttl";i:1;s:4:"data";s:24376:"<!DOCTYPE html>
               <div class="h5 text-theme me-3">03</div>
               <div class="featured-desc">
                 <div class="featured-title">
-                  <h5 class="mt-0">Soil Testing</h5>
+                  <h5 class="mt-0">Comprehensive Reporting</h5>
                 </div>
-                <p> Soil quality testing is also an important part of development to ensure efficiency in matching crops with existing soil conditions 
-                  and optimizing fertilizer application on farms.</p>
+                <p>We provide detailed reports with clear interpretations and recommendations based on the test results.</p>
               </div>
             </div>
           </div>
@@ -381,7 +374,7 @@ a:3:{s:4:"time";i:1731975933;s:3:"ttl";i:1;s:4:"data";s:24376:"<!DOCTYPE html>
     <div class="row justify-content-center text-center">
       <div class="col-lg-8">
         <div class="section-title">
-          <h2 class="title">Our Recent Laboratory Research</h2> 
+          <h2 class="title">Our Water Quality Testing Services</h2> 
         </div>
       </div>
     </div>
@@ -392,51 +385,61 @@ a:3:{s:4:"time";i:1731975933;s:3:"ttl";i:1;s:4:"data";s:24376:"<!DOCTYPE html>
         <div class="owl-carousel no-pb popup-gallery" data-dots="false" data-items="5" data-md-items="3" data-sm-items="2" data-xs-items="1" data-margin="10">
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-120" src="images/client/img_2_new.jpg" alt="">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
+            <img class="img-fluid img-border box-shadow w-100" src="images/client/img_13_new.jpg" alt="">
+              <a class="popup-img" href="images/client/img_13.jpg"> <i class="las la-plus"></i>
               </a>
-              <div class="cases-title"> <span>Laboratory</span>
-                <h4><a href="#">Advanced Chemical Analysis</a></h4>
+              <div class="cases-title"> <span>Water Testing</span>
+                <h4><a href="#">Drinking Water Quality Testing</a></h4>
               </div>
             </div>
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="images/client/img_4_new.jpg" alt="">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
+              <img class="img-fluid img-border box-shadow w-100" src="images/client/img_13_new.jpg" alt="">
+              <a class="popup-img" href="images/client/img_13.jpg"> <i class="las la-plus"></i>
               </a>
-              <div class="cases-title"> <span>Laboratory</span>
-                <h4><a href="#">Water Quality Testing</a></h4>
+              <div class="cases-title"> <span>Water Testing</span>
+                <h4><a href="#">Wastewater Analysis</a></h4>
               </div>
             </div>
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="images/client/img_12_new.jpg" alt="">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
+              <img class="img-fluid img-border box-shadow w-100" src="images/client/img_13_new.jpg" alt="">
+              <a class="popup-img" href="images/client/img_13.jpg"> <i class="las la-plus"></i>
               </a>
-              <div class="cases-title"> <span>Laboratory</span>
-                <h4><a href="#">Soil Quality Analysis</a></h4>
+              <div class="cases-title"> <span>Water Testing</span>
+                <h4><a href="#">Recreational Water Quality Testing</a></h4>
               </div>
             </div>
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="images/client/img_8_new.jpg" alt="">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
+              <img class="img-fluid img-border box-shadow w-100" src="images/client/img_13_new.jpg" alt="">
+              <a class="popup-img" href="images/client/img_13.jpg"> <i class="las la-plus"></i>
               </a>
-              <div class="cases-title"> <span>Laboratory</span>
-                <h4><a href="#">Food Safety Research</a></h4>
+              <div class="cases-title"> <span>Water Testing</span>
+                <h4><a href="#">Water Pollution Control</a></h4>
               </div>
             </div>
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="images/client/img_23_new.jpg" alt="">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
+              <img class="img-fluid img-border box-shadow w-100" src="images/client/img_13_new.jpg" alt="">
+              <a class="popup-img" href="images/client/img_13.jpg"> <i class="las la-plus"></i>
               </a>
-              <div class="cases-title"> <span>Laboratory</span>
-                <h4><a href="#">Arsenic Detection Methods</a></h4>
+              <div class="cases-title"> <span>Water Testing</span>
+                <h4><a href="#">Water for Production Testing</a></h4>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="cases-item position-relative overflow-hidden">
+              <img class="img-fluid img-border box-shadow w-100" src="images/client/img_13_new.jpg" alt="">
+              <a class="popup-img" href="images/client/img_13.jpg"> <i class="las la-plus"></i>
+              </a>
+              <div class="cases-title"> <span>Water Testing</span>
+                <h4><a href="#">Irrigation Water Quality Testing</a></h4>
               </div>
             </div>
           </div>
@@ -450,8 +453,7 @@ a:3:{s:4:"time";i:1731975933;s:3:"ttl";i:1;s:4:"data";s:24376:"<!DOCTYPE html>
 
 </div>
 
-<!--body content end-->
-<!--footer start-->
+<!--body content end--><!--footer start-->
 
 <footer class="footer light-bg">
   <div class="primary-footer">

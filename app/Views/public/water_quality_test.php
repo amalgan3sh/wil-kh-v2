@@ -1,6 +1,6 @@
 <!--page title start-->
 
-<section class="page-title parallaxie" data-bg-img="https://images.pexels.com/photos/2280549/pexels-photo-2280549.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+<section class="page-title parallaxie" data-bg-img="images/client/img_28.1.jpg">
   <div class="container">
     <div class="row">
       <div class="col-lg-6">
@@ -8,7 +8,7 @@
         <h1 class="text-theme">Water Quality <span class="text-black">Testing</span></h1>
         <nav aria-label="breadcrumb" class="page-breadcrumb border-top border-light pt-3 mt-3">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.html"><i class="las la-home me-1"></i>Home</a>
+            <li class="breadcrumb-item"><a href="<?php echo base_url('/') ?>"><i class="las la-home me-1"></i>Home</a>
             </li>
             <li class="breadcrumb-item">Services
             </li>
@@ -34,7 +34,7 @@
   <div class="container">
     <div class="row align-items-center mb-6">
       <div class="col-lg-5 col-12">
-      <img class="img-fluid img-border box-shadow w-100" src="images/client/img_21.jpg" alt="water_testing">
+      <img class="img-fluid img-border box-shadow w-100" src="images/client/img_20.jpg" alt="water_testing">
       </div>
       <div class="col-lg-7 col-12 mt-5 mt-lg-0 ps-lg-5">
         <div>
@@ -121,7 +121,7 @@
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
             <img class="img-fluid img-border box-shadow w-100" src="images/client/img_13_new.jpg" alt="">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
+              <a class="popup-img" href="images/client/img_13.jpg"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Water Testing</span>
                 <h4><a href="#">Drinking Water Quality Testing</a></h4>
@@ -131,7 +131,7 @@
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
               <img class="img-fluid img-border box-shadow w-100" src="images/client/img_13_new.jpg" alt="">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
+              <a class="popup-img" href="images/client/img_13.jpg"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Water Testing</span>
                 <h4><a href="#">Wastewater Analysis</a></h4>
@@ -141,7 +141,7 @@
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
               <img class="img-fluid img-border box-shadow w-100" src="images/client/img_13_new.jpg" alt="">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
+              <a class="popup-img" href="images/client/img_13.jpg"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Water Testing</span>
                 <h4><a href="#">Recreational Water Quality Testing</a></h4>
@@ -151,7 +151,7 @@
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
               <img class="img-fluid img-border box-shadow w-100" src="images/client/img_13_new.jpg" alt="">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
+              <a class="popup-img" href="images/client/img_13.jpg"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Water Testing</span>
                 <h4><a href="#">Water Pollution Control</a></h4>
@@ -161,7 +161,7 @@
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
               <img class="img-fluid img-border box-shadow w-100" src="images/client/img_13_new.jpg" alt="">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
+              <a class="popup-img" href="images/client/img_13.jpg"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Water Testing</span>
                 <h4><a href="#">Water for Production Testing</a></h4>
@@ -171,7 +171,7 @@
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
               <img class="img-fluid img-border box-shadow w-100" src="images/client/img_13_new.jpg" alt="">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
+              <a class="popup-img" href="images/client/img_13.jpg"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Water Testing</span>
                 <h4><a href="#">Irrigation Water Quality Testing</a></h4>

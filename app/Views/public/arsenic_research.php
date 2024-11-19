@@ -1,16 +1,16 @@
 <!--page title start-->
 
-<section class="page-title parallaxie" data-bg-img="https://images.pexels.com/photos/2280549/pexels-photo-2280549.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+<section class="page-title parallaxie" data-bg-img="images/client/img_30.1.jpg" alt="">
   <div class="container">
     <div class="row">
       <div class="col-lg-6">
         <div class="white-bg p-md-5 p-3 d-inline-block">
-        <h1 class="text-theme">Arsenic <span class="text-black">Testing</span></h1>
+        <h1 class="text-theme">Climate, Soil & <span class="text-black">Farms</span></h1>
         <nav aria-label="breadcrumb" class="page-breadcrumb border-top border-light pt-3 mt-3">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.html"><i class="las la-home me-1"></i>Home</a>
+            <li class="breadcrumb-item"><a href="<?php echo base_url('/') ?>"><i class="las la-home me-1"></i>Home</a>
             </li>
-            <li class="breadcrumb-item">Services
+            <li class="breadcrumb-item">Development
             </li>
             <li class="breadcrumb-item active" aria-current="page">Arsenic Testing</li>
           </ol>

@@ -1,18 +1,18 @@
 <!--page title start-->
 
-<section class="page-title parallaxie" data-bg-img="https://images.pexels.com/photos/2280549/pexels-photo-2280549.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+<section class="page-title parallaxie" data-bg-img="images/client/img_30.1.jpg" alt="">
   <div class="container">
     <div class="row">
       <div class="col-lg-6">
         <div class="white-bg p-md-5 p-3 d-inline-block">
-        <h1 class="text-theme">Arsenic <span class="text-black">Testing</span></h1>
+        <h1 class="text-theme">Risk <span class="text-black">Assessment</span></h1>
         <nav aria-label="breadcrumb" class="page-breadcrumb border-top border-light pt-3 mt-3">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.html"><i class="las la-home me-1"></i>Home</a>
+            <li class="breadcrumb-item"><a href="<?php echo base_url('/') ?>"><i class="las la-home me-1"></i>Home</a>
             </li>
             <li class="breadcrumb-item">Services
             </li>
-            <li class="breadcrumb-item active" aria-current="page">Arsenic Testing</li>
+            <li class="breadcrumb-item active" aria-current="page">Risk Assessment</li>
           </ol>
         </nav>
         </div>
@@ -118,8 +118,8 @@
         <div class="owl-carousel no-pb popup-gallery" data-dots="false" data-items="5" data-md-items="3" data-sm-items="2" data-xs-items="1" data-margin="10">
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
+              <img class="img-fluid w-100" src="images/client/img_6.jpg" alt="">
+              <a class="popup-img" href="images/client/img_6.jpg"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Arsenic Testing</span>
                 <h4><a href="#">Drinking Water Analysis</a></h4>
@@ -128,8 +128,8 @@
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
+              <img class="img-fluid w-100" src="images/client/img_6.jpg" alt="">
+              <a class="popup-img" href="images/client/img_6.jpg"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Arsenic Testing</span>
                 <h4><a href="#">Soil Contamination Assessment</a></h4>
@@ -138,8 +138,8 @@
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
+              <img class="img-fluid w-100" src="images/client/img_6.jpg" alt="">
+              <a class="popup-img" href="images/client/img_6.jpg"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Arsenic Testing</span>
                 <h4><a href="#">Food Product Screening</a></h4>
@@ -148,8 +148,8 @@
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
+              <img class="img-fluid w-100" src="images/client/img_6.jpg" alt="">
+              <a class="popup-img" href="images/client/img_6.jpg"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Arsenic Testing</span>
                 <h4><a href="#">Biological Sample Analysis</a></h4>
@@ -158,8 +158,8 @@
           </div>
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
+              <img class="img-fluid w-100" src="images/client/img_6.jpg" alt="">
+              <a class="popup-img" href="images/client/img_6.jpg"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Arsenic Testing</span>
                 <h4><a href="#">Industrial Waste Monitoring</a></h4>

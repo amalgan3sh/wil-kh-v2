@@ -1,6 +1,6 @@
 <!--page title start-->
 
-<section class="page-title parallaxie" data-bg-img="https://images.pexels.com/photos/4467632/pexels-photo-4467632.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+<section class="page-title parallaxie" data-bg-img="images/client/img_7.jpg">
   <div class="container">
     <div class="row">
       <div class="col-lg-6">
@@ -8,7 +8,7 @@
         <h1 class="text-theme">Journal <span class="text-black">Articles</span></h1>
         <nav aria-label="breadcrumb" class="page-breadcrumb border-top border-light pt-3 mt-3">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.html"><i class="las la-home me-1"></i>Home</a>
+            <li class="breadcrumb-item"><a href="<?php echo base_url('/') ?>"><i class="las la-home me-1"></i>Home</a>
             </li>
             <li class="breadcrumb-item">Publications
             </li>
