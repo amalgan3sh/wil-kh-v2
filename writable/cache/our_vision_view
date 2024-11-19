@@ -1,4 +1,4 @@
-a:3:{s:4:"time";i:1731973233;s:3:"ttl";i:1;s:4:"data";s:20677:"<!DOCTYPE html>
+a:3:{s:4:"time";i:1732019827;s:3:"ttl";i:1;s:4:"data";s:20792:"<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -214,8 +214,6 @@ a:3:{s:4:"time";i:1731973233;s:3:"ttl";i:1;s:4:"data";s:20677:"<!DOCTYPE html>
                     </li>
                     <li><a href="conference">Conference</a>
                     </li>
-                    <li><a href="wil_newsletter">WIL Newsletter</a>
-                    </li>
                   </ul>
                 </li>
                 <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">About Us</a>
@@ -230,6 +228,9 @@ a:3:{s:4:"time";i:1731973233;s:3:"ttl";i:1;s:4:"data";s:20677:"<!DOCTYPE html>
                       
                     </li>
                     <li class="dropdown-submenu"><a class="dropdown-item" href="http://localhost/wil-kh-v2/our_vision">Our Vision</a>
+                      
+                    </li>
+                    <li class="dropdown-submenu"><a class="dropdown-item" href="http://localhost/wil-kh-v2/ongoing_projects">Ongoing Projects</a>
                       
                     </li>
 
@@ -274,7 +275,7 @@ a:3:{s:4:"time";i:1731973233;s:3:"ttl";i:1;s:4:"data";s:20677:"<!DOCTYPE html>
           <h1 class="text-theme">Our <span class="text-black">Vision</span></h1>
           <nav aria-label="breadcrumb" class="page-breadcrumb border-top border-light pt-3 mt-3">
             <ol class="breadcrumb">
-              <li class="breadcrumb-item"><a href="index.html"><i class="las la-home me-1"></i>Home</a></li>
+              <li class="breadcrumb-item"><a href="http://localhost/wil-kh-v2/"><i class="las la-home me-1"></i>Home</a></li>
               <li class="breadcrumb-item">Pages</li>
               <li class="breadcrumb-item active" aria-current="page">About Us</li>
             </ol>
@@ -413,7 +414,7 @@ a:3:{s:4:"time";i:1731973233;s:3:"ttl";i:1;s:4:"data";s:20677:"<!DOCTYPE html>
                     <li><a href="http://localhost/wil-kh-v2/food_quality_test">Food quality testing</a></li>
                     <li><a href="http://localhost/wil-kh-v2/soil_quality_test">Soil quality testing</a></li>
                     <li><a href="http://localhost/wil-kh-v2/risk_assessment">Environmental Risk Assessment</a></li>
-                    <li><a href="http://localhost/wil-kh-v2/arsenic_research">Research & Project consultation</a></li>
+                    <li><a href="http://localhost/wil-kh-v2/consultation">Research & Project consultation</a></li>
                 </ul>
               </div>
             </div>

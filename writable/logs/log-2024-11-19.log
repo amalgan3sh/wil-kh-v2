@@ -1,0 +1,90 @@
+CRITICAL - 2024-11-19 12:08:32 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "public/water_packages.php"
+[Method: GET, Route: water_packages]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('public/water_packages.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('public/water_packages', [], true)
+ 3 APPPATH\Controllers\PublicController.php(240): view('public/water_packages')
+ 4 APPPATH\Controllers\PublicController.php(216): App\Controllers\PublicController->App\Controllers\{closure}()
+ 5 APPPATH\Controllers\PublicController.php(237): App\Controllers\PublicController->renderCache('water_packages_view', Object(Closure))
+ 6 APPPATH\Controllers\PublicController.php(193): App\Controllers\PublicController->renderView('water_packages_view', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PublicController->WaterPackages()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PublicController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-19 12:12:25 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "public/water_packages.php"
+[Method: GET, Route: water_packages]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('public/water_packages.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('public/water_packages', [], true)
+ 3 APPPATH\Controllers\PublicController.php(240): view('public/water_packages')
+ 4 APPPATH\Controllers\PublicController.php(216): App\Controllers\PublicController->App\Controllers\{closure}()
+ 5 APPPATH\Controllers\PublicController.php(237): App\Controllers\PublicController->renderCache('water_packages_view', Object(Closure))
+ 6 APPPATH\Controllers\PublicController.php(193): App\Controllers\PublicController->renderView('water_packages_view', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PublicController->WaterPackages()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PublicController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-19 12:14:59 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "public/water_testing_packages.php"
+[Method: GET, Route: water_testing_packages]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('public/water_testing_packages.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('public/water_testing_packages', [], true)
+ 3 APPPATH\Controllers\PublicController.php(240): view('public/water_testing_packages')
+ 4 APPPATH\Controllers\PublicController.php(216): App\Controllers\PublicController->App\Controllers\{closure}()
+ 5 APPPATH\Controllers\PublicController.php(237): App\Controllers\PublicController->renderCache('water_testing_packages_view', Object(Closure))
+ 6 APPPATH\Controllers\PublicController.php(193): App\Controllers\PublicController->renderView('water_testing_packages_view', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PublicController->WaterTestingPackages()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PublicController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-19 12:15:25 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "public/water_testing_packages.php"
+[Method: GET, Route: water_testing_packages]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('public/water_testing_packages.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('public/water_testing_packages', [], true)
+ 3 APPPATH\Controllers\PublicController.php(240): view('public/water_testing_packages')
+ 4 APPPATH\Controllers\PublicController.php(216): App\Controllers\PublicController->App\Controllers\{closure}()
+ 5 APPPATH\Controllers\PublicController.php(237): App\Controllers\PublicController->renderCache('water_testing_packages_view', Object(Closure))
+ 6 APPPATH\Controllers\PublicController.php(193): App\Controllers\PublicController->renderView('water_testing_packages_view', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PublicController->WaterTestingPackages()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PublicController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-19 12:15:26 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "public/water_testing_packages.php"
+[Method: GET, Route: water_testing_packages]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('public/water_testing_packages.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('public/water_testing_packages', [], true)
+ 3 APPPATH\Controllers\PublicController.php(240): view('public/water_testing_packages')
+ 4 APPPATH\Controllers\PublicController.php(216): App\Controllers\PublicController->App\Controllers\{closure}()
+ 5 APPPATH\Controllers\PublicController.php(237): App\Controllers\PublicController->renderCache('water_testing_packages_view', Object(Closure))
+ 6 APPPATH\Controllers\PublicController.php(193): App\Controllers\PublicController->renderView('water_testing_packages_view', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PublicController->WaterTestingPackages()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PublicController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-19 12:15:32 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "public/water_testing_packages.php"
+[Method: GET, Route: water_testing_packages]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('public/water_testing_packages.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('public/water_testing_packages', [], true)
+ 3 APPPATH\Controllers\PublicController.php(240): view('public/water_testing_packages')
+ 4 APPPATH\Controllers\PublicController.php(216): App\Controllers\PublicController->App\Controllers\{closure}()
+ 5 APPPATH\Controllers\PublicController.php(237): App\Controllers\PublicController->renderCache('water_testing_packages_view', Object(Closure))
+ 6 APPPATH\Controllers\PublicController.php(193): App\Controllers\PublicController->renderView('water_testing_packages_view', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PublicController->WaterTestingPackages()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PublicController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

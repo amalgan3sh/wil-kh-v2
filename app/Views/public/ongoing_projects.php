@@ -4,12 +4,12 @@
     <div class="row">
       <div class="col-lg-6">
         <div class="white-bg p-md-5 p-3 d-inline-block">
-          <h1 class="text-theme">Our <span class="text-black">Vision</span></h1>
+          <h1 class="text-theme">Ongoing <span class="text-black">Projects</span></h1>
           <nav aria-label="breadcrumb" class="page-breadcrumb border-top border-light pt-3 mt-3">
             <ol class="breadcrumb">
               <li class="breadcrumb-item"><a href="<?php echo base_url('/') ?>"><i class="las la-home me-1"></i>Home</a></li>
               <li class="breadcrumb-item">About</li>
-              <li class="breadcrumb-item active" aria-current="page">About Us</li>
+              <li class="breadcrumb-item active" aria-current="page">Ongoing Projects</li>
             </ol>
           </nav>
         </div>
@@ -31,20 +31,14 @@
       </div>
       <div class="col-lg-7 col-12 mt-6 mt-lg-0">
         <div class="section-title">
-          <h2 class="title">Vision</h2>
-          <li>Water Innovation Lab is dedicated to provide an excellent service in research, development and <br> &nbsp&nbsp&nbsp&nbsp innovation in water, environment and foods</li>
+          <h2 class="title">Ongoing Projects</h2><br>
+          <p>WIL is actively engaged in groundbreaking research projects that tackle real-world environmental and public health issues, including :</p>
         </div>
         <div class="section-title">
-          <h2 class="title">Mission</h2>
-          <li>Provide a laboratory service for analyzing water, environment and food components.</li>
-          <li>Provide a research and development service for water, environment and foods and the related <br> &nbsp&nbsp&nbsp&nbsp products.</li>
-          <li>Provide innovative solutions for water, environment and foods by following green chemistry <br> &nbsp&nbsp&nbsp&nbsp principles and environmental sustainability.</li>
-        </div>
-        <div class="section-title">
-          <h2 class="title">Goals</h2>
-          <li>Research and develop products related with water, environment and foods.</li>
-          <li>Promote research and development to local science community by engaging laboratory <br> &nbsp&nbsp&nbsp&nbsp research and training among young local researchers and students.</li>
-          <li>Help train the next generation of Cambodian scientists about science and technology for <br> &nbsp&nbsp&nbsp&nbsp sustainability.</li>
+          <li>Gravity-Driven Membrane (GDM) Filtration for Rural Water Systems. </li><br>
+          <li>Arsenic Removal from Water Sources.</li><br>
+          <li>Zero-Waste Initiatives: Essential Oils from Food Waste.</li><br>
+          <li>•	Risk Assessments for Water Sources in Cambodia.</li><br>
         </div>
       </div>
     </div>

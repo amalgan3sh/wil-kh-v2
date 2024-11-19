@@ -58,6 +58,7 @@
       <p class="mb-5">At WIL-KH, we prioritize accuracy, reliability, and efficiency in our soil quality testing services. Our team of experts utilizes state-of-the-art equipment and follows rigorous protocols to deliver comprehensive and actionable results.</p>
       <div class="border-top border-start border-light">
         <div class="row g-0">
+        <center><h5 class="mt-0"><a href="<?php echo base_url('/water_testing_package') ?>">👉🏻 Click here to know more about the Soil Quality Testing Packages 👈🏻</a></h5></center>
           <div class="col-lg-4">
             <div class="featured-item shadow-none d-flex align-items-start style-2 border-end border-light border-bottom">
               <div class="h5 text-theme me-3">01</div>

@@ -1,4 +1,4 @@
-a:3:{s:4:"time";i:1732015468;s:3:"ttl";i:1;s:4:"data";s:31126:"<!DOCTYPE html>
+a:3:{s:4:"time";i:1732020598;s:3:"ttl";i:1;s:4:"data";s:31302:"<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -230,6 +230,9 @@ a:3:{s:4:"time";i:1732015468;s:3:"ttl";i:1;s:4:"data";s:31126:"<!DOCTYPE html>
                     <li class="dropdown-submenu"><a class="dropdown-item" href="http://localhost/wil-kh-v2/our_vision">Our Vision</a>
                       
                     </li>
+                    <li class="dropdown-submenu"><a class="dropdown-item" href="http://localhost/wil-kh-v2/ongoing_projects">Ongoing Projects</a>
+                      
+                    </li>
 
 
                   </ul>
@@ -266,7 +269,7 @@ a:3:{s:4:"time";i:1732015468;s:3:"ttl";i:1;s:4:"data";s:31126:"<!DOCTYPE html>
 <!--header end--><!--hero section start-->
 <section class="banner p-0 pos-r">
   <div class="banner-slider owl-carousel no-pb" data-dots="false" data-nav="true">
-    <div class="item overlay-50 theme-overlay" style="background-image: url('images/client/banner_1.png'); background-size: cover; " data-overlay="9">
+    <div class="item overlay-50 theme-overlay" style="background-image: url('images/client/banner_2.jpg'); background-size: cover; " data-overlay="9">
       <div class="container">
         <div class="row pt-8 custom-pb-2">
           <div class="col-lg-6 col-md-8 col-12">
@@ -525,9 +528,8 @@ a:3:{s:4:"time";i:1732015468;s:3:"ttl";i:1;s:4:"data";s:31126:"<!DOCTYPE html>
                 <option>Water Quality Testing</option>
                 <option>Food Safety Analysis</option>
                 <option>Soil Quality Assessment</option>
-                <option>Arsenic Research</option>
-                <option>Risk Assessment</option>
-                <option>Consultation</option>
+                <option>Environmental Risk Assessment</option>
+                <option>Research & Project consultation</option>
               </select>
             </div>
             <div class="form-group">
@@ -667,7 +669,7 @@ a:3:{s:4:"time";i:1732015468;s:3:"ttl";i:1;s:4:"data";s:31126:"<!DOCTYPE html>
                     <li><a href="http://localhost/wil-kh-v2/food_quality_test">Food quality testing</a></li>
                     <li><a href="http://localhost/wil-kh-v2/soil_quality_test">Soil quality testing</a></li>
                     <li><a href="http://localhost/wil-kh-v2/risk_assessment">Environmental Risk Assessment</a></li>
-                    <li><a href="http://localhost/wil-kh-v2/arsenic_research">Research & Project consultation</a></li>
+                    <li><a href="http://localhost/wil-kh-v2/consultation">Research & Project consultation</a></li>
                 </ul>
               </div>
             </div>

@@ -1,7 +1,7 @@
 <!--hero section start-->
 <section class="banner p-0 pos-r">
   <div class="banner-slider owl-carousel no-pb" data-dots="false" data-nav="true">
-    <div class="item overlay-50 theme-overlay" style="background-image: url('images/client/banner_1.png'); background-size: cover; " data-overlay="9">
+    <div class="item overlay-50 theme-overlay" style="background-image: url('images/client/banner_2.jpg'); background-size: cover; " data-overlay="9">
       <div class="container">
         <div class="row pt-8 custom-pb-2">
           <div class="col-lg-6 col-md-8 col-12">
@@ -260,9 +260,8 @@
                 <option>Water Quality Testing</option>
                 <option>Food Safety Analysis</option>
                 <option>Soil Quality Assessment</option>
-                <option>Arsenic Research</option>
-                <option>Risk Assessment</option>
-                <option>Consultation</option>
+                <option>Environmental Risk Assessment</option>
+                <option>Research & Project consultation</option>
               </select>
             </div>
             <div class="form-group">

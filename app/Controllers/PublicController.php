@@ -55,6 +55,15 @@ class PublicController extends BaseController
         ]);
     }
 
+    public function OngoingProjects(): string
+    {
+        return $this->renderView('ongoing_projects_view', [
+            'public/public_header',
+            'public/ongoing_projects',
+            'public/public_footer',
+        ]);
+    }
+
     public function WaterProduct(): string
     {
         return $this->renderView('about_us_view', [
@@ -184,6 +193,24 @@ class PublicController extends BaseController
         return $this->renderView('our_vision_view', [
             'public/public_header',
             'public/our_vision',
+            'public/public_footer',
+        ]);
+    }
+
+    public function WaterTestingPackage(): string
+    {
+        return $this->renderView('water_testing_package_view', [
+            'public/public_header',
+            'public/water_testing_package',
+            'public/public_footer',
+        ]);
+    }
+
+    public function SoilTestingPackage(): string
+    {
+        return $this->renderView('soil_testing_package_view', [
+            'public/public_header',
+            'public/soil_testing_package',
             'public/public_footer',
         ]);
     }

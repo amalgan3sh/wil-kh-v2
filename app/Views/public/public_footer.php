@@ -42,7 +42,7 @@
                     <li><a href="<?php echo base_url('/food_quality_test') ?>">Food quality testing</a></li>
                     <li><a href="<?php echo base_url('/soil_quality_test') ?>">Soil quality testing</a></li>
                     <li><a href="<?php echo base_url('/risk_assessment') ?>">Environmental Risk Assessment</a></li>
-                    <li><a href="<?php echo base_url('/arsenic_research') ?>">Research & Project consultation</a></li>
+                    <li><a href="<?php echo base_url('/consultation') ?>">Research & Project consultation</a></li>
                 </ul>
               </div>
             </div>
