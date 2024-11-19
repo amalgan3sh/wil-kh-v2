@@ -178,20 +178,19 @@
                 </li> -->
                 <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Development</a>
                   <ul class="dropdown-menu">
-                    <li><a href="<?php echo base_url('/water_product') ?>">Water Product</a>
+                    <li><a href="<?php echo base_url('/water_product') ?>">Water Treatment Technology</a>
                     </li>
-                    <li><a href="<?php echo base_url('/food_product') ?>">Food Product</a>
+                    <li><a href="<?php echo base_url('/food_product') ?>">Food Technology</a>
                     </li>
-                    <li><a href="<?php echo base_url('/environmental_product') ?>">Environmental Product</a>
+                    <li><a href="<?php echo base_url('/environmental_product') ?>">Environmental Technology</a>
                     </li>
-                    <li><a href="<?php echo base_url('/consultation') ?>">Consultation</a>
+                    <li><a href="<?php echo base_url('/arsenic_research') ?>">Climate, Soils & Farms</a>
                     </li>
                     <li><a href="<?php echo base_url('/short_course_training') ?>">Short-course training</a>
                     </li>
                      
                   </ul>
                 </li>
-
                 <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Service</a>
                   <ul class="dropdown-menu">
                     <li><a href="<?php echo base_url('/water_quality_test') ?>">Water quality testing </a>
@@ -202,33 +201,18 @@
                     </li>
                     <li><a href="<?php echo base_url('/risk_assessment') ?>">Environmental Risk Assessment</a>
                     </li>
-                    <li><a href="<?php echo base_url('/arsenic_research') ?>">Research & Project consultation</a>
+                    <li><a href="<?php echo base_url('/consultation') ?>">Research & Project consultation</a>
                     </li>
                      
                   </ul>
                 </li>
 
 
-                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">
-                      Research
-                    </a>
-                  <ul class="dropdown-menu">
-                    <li><a href="<?php echo base_url('/laboratory') ?>">Laboratory</a>
-                    </li>
-                    <li><a href="<?php echo base_url('/water_quality_test') ?>">Water Quality Test</a></li>
-                    <li><a href="<?php echo base_url('/food_quality_test') ?>">Food Quality Test</a></li>
-                    <li><a href="<?php echo base_url('/soil_quality_test') ?>">Soil Quality Test</a></li>
-                    <li><a href="<?php echo base_url('/arsenic_research') ?>">Arsenic Research</a></li>
-                    <li><a href="<?php echo base_url('/risk_assessment') ?>">Risk Assessment</a></li>
-                  </ul>
-                </li>
                 <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Publications</a>
                   <ul class="dropdown-menu">
                     <li><a href="journal_article">Journal Article</a>
                     </li>
                     <li><a href="conference">Conference</a>
-                    </li>
-                    <li><a href="wil_newsletter">WIL Newsletter</a>
                     </li>
                   </ul>
                 </li>

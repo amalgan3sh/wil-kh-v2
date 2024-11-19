@@ -42,11 +42,11 @@
           <p class="lead mb-4">Water quality testing is an important part of development because microbial and chemical contaminants can cause water-boned diseases and harm people and the environment.</p>
           <div class="light-bg p-3">
             <ul class="list-unstyled">
-              <li class="mb-3"><span class="text-black font-w-5">Service:</span> Water Quality Testing</li>
-              <li class="mb-3"><span class="text-black font-w-5">Category:</span> Environmental Analysis</li>
-              <li class="mb-3"><span class="text-black font-w-5">Testing Parameters:</span> Chemical, Physical, Biological</li>
-              <li class="mb-3"><span class="text-black font-w-5">Established:</span> 2024</li>
-              <li><span class="text-black font-w-5">Company:</span> <a href="www.wil-kh.com">WIL-KH</a>
+              <li class="mb-3"><span class="text-black font-w-5">Drinking Water Quality Testing</span></li>
+              <li class="mb-3"><span class="text-black font-w-5">Wastewater Analysis</span></li>
+              <li class="mb-3"><span class="text-black font-w-5">Recreational Water Quality Testing </span></li>
+              <li class="mb-3"><span class="text-black font-w-5">Water for Production Testing</span></li>
+              <li class="mb-3"><span class="text-black font-w-5">Irrigation Water Quality Testing</span></li>
               </li>
             </ul>
           </div>

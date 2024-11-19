@@ -1,13 +1,12 @@
 <!--hero section start-->
 <section class="banner p-0 pos-r">
   <div class="banner-slider owl-carousel no-pb" data-dots="false" data-nav="true">
-  <div class="item overlay-50 theme-overlay" 
-     style="background-image: url('images/client/banner_1.png'); 
-            background-size: cover; "
-            data-overlay="9">
+
+    <div class="item overlay-50 theme-overlay" style="background-image: url('images/client/banner_1.png'); background-size: cover; " data-overlay="9">
       <div class="container">
         <div class="row pt-8 custom-pb-2">
-          <div class="col-lg-6 col-md-8 col-12">
+          <!-- Right portion: Text overlay -->
+          <div class="col-lg-6 col-md-8 col-12 ms-auto text-end">
             <h1 class="mb-4 text-white">Excellence in Laboratory Services</h1>
             <p class="lead font-w-5 text-white">Experience state-of-the-art laboratory services with Wil-Kh.<br>We are committed to delivering excellence in every test.</p>
             <div class="btn-box mt-5">
@@ -20,6 +19,9 @@
         </div>
       </div>
     </div>
+
+
+
     <div class="item overlay-50 theme-overlay" 
      style="background-image: url('images/client/img_28.jpg'); 
             background-size: cover; 
@@ -357,99 +359,6 @@
 <!--project end-->
 
 
-<!--blog start-->
-
-<section>
-  <div class="container">
-    <div class="row justify-content-center text-center">
-      <div class="col-lg-8 col-12">
-        <div class="section-title">
-          <h2 class="title">From our blog list Latest News</h2>
-          <p class="lead">Our healthcare professionals bring diverse backgrounds and skills to provide comprehensive care.</p>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-6 col-lg-4 mb-5 mb-lg-0">
-        <!-- Blog Card -->
-        <div class="card post-card border-0 rounded-0 shadow-sm bg-transparent">
-          <img class="card-img-top" src="https://img.freepik.com/free-photo/realistic-water-drop-with-ecosystem-world-water-day_23-2151196315.jpg?t=st=1719650494~exp=1719654094~hmac=3e4b9529e234dc0d859a43fde78e64edde39aed70341824dfa05442ca6403282&w=826" alt="Image">
-          <div class="card-body px-4 pb-4 pt-0">
-            <div class="mt-n3">
-              <div class="d-inline-block white-bg px-2 py-1 text-black box-shadow">20 February</div>
-            </div>
-            <h2 class="h4 my-3">Advancing Medical Research in Developing Countries</h2>
-            <ul class="list-inline mb-0 border-top border-bottom border-light py-2 mb-4">
-              <li class="list-inline-item"> <a href="#" class="text-black"><i class="lar la-user-circle me-1"></i> Admin</a>
-              </li>
-              <li class="list-inline-item"> <a href="#" class="text-black"><i class="las la-eye me-1"></i> 275</a>
-              </li>
-              <li class="list-inline-item"> <a href="#" class="text-black"><i class="lar la-comments me-1"></i> 300</a>
-              </li>
-            </ul>
-            <div class="d-flex justify-content-between align-items-center">
-              <div><a class="px-3 py-2 light-bg text-black" href="#">Research</a> <a class="px-3 py-2 light-bg text-black" href="#">Development</a></div> 
-              <a class="link-btn" href="blog-single.html"><i class="las la-long-arrow-alt-right"></i></a>
-            </div>
-          </div>
-        </div>
-        <!-- End Blog Card -->
-      </div>
-      <div class="col-md-6 col-lg-4 mb-5 mb-lg-0">
-        <!-- Blog Card -->
-        <div class="card post-card border-0 rounded-0 shadow-sm bg-transparent">
-          <img class="card-img-top" src="https://img.freepik.com/free-photo/realistic-drop-with-ecosystem_23-2151196328.jpg?t=st=1719650543~exp=1719654143~hmac=c1e6c99689196c38aa8a4fc2a17ed41fcfdbbdf4e8b023d4eab381b039190ca2&w=826" alt="Image">
-          <div class="card-body px-4 pb-4 pt-0">
-            <div class="mt-n3">
-              <div class="d-inline-block white-bg px-2 py-1 text-black box-shadow">20 February</div>
-            </div>
-            <h2 class="h4 my-3">Enhancing Patient Experience and Health Outcomes</h2>
-            <ul class="list-inline mb-0 border-top border-bottom border-light py-2 mb-4">
-              <li class="list-inline-item"> <a href="#" class="text-black"><i class="lar la-user-circle me-1"></i> Admin</a>
-              </li>
-              <li class="list-inline-item"> <a href="#" class="text-black"><i class="las la-eye me-1"></i> 275</a>
-              </li>
-              <li class="list-inline-item"> <a href="#" class="text-black"><i class="lar la-comments me-1"></i> 300</a>
-              </li>
-            </ul>
-            <div class="d-flex justify-content-between align-items-center">
-              <div><a class="px-3 py-2 light-bg text-black" href="#">Patient Care</a> <a class="px-3 py-2 light-bg text-black" href="#">Health</a></div> 
-              <a class="link-btn" href="blog-single.html"><i class="las la-long-arrow-alt-right"></i></a>
-            </div>
-          </div>
-        </div>
-        <!-- End Blog Card -->
-      </div>
-      <div class="col-md-6 col-lg-4">
-        <!-- Blog Card -->
-        <div class="card post-card border-0 rounded-0 shadow-sm bg-transparent">
-          <img class="card-img-top" src="https://img.freepik.com/free-photo/realistic-water-drop-with-ecosystem-world-water-day_23-2151196322.jpg?t=st=1719650577~exp=1719654177~hmac=2012b11dc4698442a40f32ee37988494db9aada9348b27aa32e093d3ed15ecc1&w=826" alt="Image">
-          <div class="card-body px-4 pb-4 pt-0">
-            <div class="mt-n3">
-              <div class="d-inline-block white-bg px-2 py-1 text-black box-shadow">20 February</div>
-            </div>
-            <h2 class="h4 my-3">Improving Disease Detection and Treatment Standards</h2>
-            <ul class="list-inline mb-0 border-top border-bottom border-light py-2 mb-4">
-              <li class="list-inline-item"> <a href="#" class="text-black"><i class="lar la-user-circle me-1"></i> Admin</a>
-              </li>
-              <li class="list-inline-item"> <a href="#" class="text-black"><i class="las la-eye me-1"></i> 275</a>
-              </li>
-              <li class="list-inline-item"> <a href="#" class="text-black"><i class="lar la-comments me-1"></i> 300</a>
-              </li>
-            </ul>
-            <div class="d-flex justify-content-between align-items-center">
-              <div><a class="px-3 py-2 light-bg text-black" href="#">Detection</a> <a class="px-3 py-2 light-bg text-black" href="#">Standards</a></div> 
-              <a class="link-btn" href="blog-single.html"><i class="las la-long-arrow-alt-right"></i></a>
-            </div>
-          </div>
-        </div>
-        <!-- End Blog Card -->
-      </div>
-    </div>
-  </div>
-</section>
-
-<!--blog end-->
 
 </div>
 

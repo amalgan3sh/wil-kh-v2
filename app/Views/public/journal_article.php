@@ -10,7 +10,7 @@
           <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="index.html"><i class="las la-home me-1"></i>Home</a>
             </li>
-            <li class="breadcrumb-item">Research
+            <li class="breadcrumb-item">Publications
             </li>
             <li class="breadcrumb-item active" aria-current="page">Journal Articles</li>
           </ol>

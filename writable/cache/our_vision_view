@@ -1,4 +1,4 @@
-a:3:{s:4:"time";i:1731627711;s:3:"ttl";i:1;s:4:"data";s:19803:"<!DOCTYPE html>
+a:3:{s:4:"time";i:1731973233;s:3:"ttl";i:1;s:4:"data";s:20677:"<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -178,32 +178,36 @@ a:3:{s:4:"time";i:1731627711;s:3:"ttl";i:1;s:4:"data";s:19803:"<!DOCTYPE html>
                 </li> -->
                 <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Development</a>
                   <ul class="dropdown-menu">
-                    <li><a href="http://localhost/wil-kh-v2/water_product">Water Product</a>
+                    <li><a href="http://localhost/wil-kh-v2/water_product">Water Treatment Technology</a>
                     </li>
-                    <li><a href="http://localhost/wil-kh-v2/food_product">Food Product</a>
+                    <li><a href="http://localhost/wil-kh-v2/food_product">Food Technology</a>
                     </li>
-                    <li><a href="http://localhost/wil-kh-v2/environmental_product">Environmental Product</a>
+                    <li><a href="http://localhost/wil-kh-v2/environmental_product">Environmental Technology</a>
                     </li>
-                    <li><a href="http://localhost/wil-kh-v2/consultation">Consultation</a>
+                    <li><a href="http://localhost/wil-kh-v2/arsenic_research">Climate, Soils & Farms</a>
                     </li>
                     <li><a href="http://localhost/wil-kh-v2/short_course_training">Short-course training</a>
                     </li>
                      
                   </ul>
                 </li>
-                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">
-                      Research
-                    </a>
+                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Service</a>
                   <ul class="dropdown-menu">
-                    <li><a href="http://localhost/wil-kh-v2/laboratory">Laboratory</a>
+                    <li><a href="http://localhost/wil-kh-v2/water_quality_test">Water quality testing </a>
                     </li>
-                    <li><a href="http://localhost/wil-kh-v2/water_quality_test">Water Quality Test</a></li>
-                    <li><a href="http://localhost/wil-kh-v2/food_quality_test">Food Quality Test</a></li>
-                    <li><a href="http://localhost/wil-kh-v2/soil_quality_test">Soil Quality Test</a></li>
-                    <li><a href="http://localhost/wil-kh-v2/arsenic_research">Arsenic Research</a></li>
-                    <li><a href="http://localhost/wil-kh-v2/risk_assessment">Risk Assessment</a></li>
+                    <li><a href="http://localhost/wil-kh-v2/food_quality_test">Food quality testing</a>
+                    </li>
+                    <li><a href="http://localhost/wil-kh-v2/soil_quality_test">Soil quality testing</a>
+                    </li>
+                    <li><a href="http://localhost/wil-kh-v2/risk_assessment">Environmental Risk Assessment</a>
+                    </li>
+                    <li><a href="http://localhost/wil-kh-v2/consultation">Research & Project consultation</a>
+                    </li>
+                     
                   </ul>
                 </li>
+
+
                 <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Publications</a>
                   <ul class="dropdown-menu">
                     <li><a href="journal_article">Journal Article</a>
@@ -290,24 +294,24 @@ a:3:{s:4:"time";i:1731627711;s:3:"ttl";i:1;s:4:"data";s:19803:"<!DOCTYPE html>
   <div class="container">
     <div class="row align-items-center justify-content-between">
       <div class="col-lg-5 col-12 order-lg-1">
-        <img class="img-fluid" src="images/client/img_24.jpg" alt="">
+        <img class="img-fluid" src="images/blog/logo.png" alt="">
       </div>
       <div class="col-lg-7 col-12 mt-6 mt-lg-0">
         <div class="section-title">
           <h2 class="title">Vision</h2>
-          <p>Water Innovation Lab is dedicated to provide an excellent service in research, development and innovation in water, environment and foods</p>
+          <li>Water Innovation Lab is dedicated to provide an excellent service in research, development and <br> &nbsp&nbsp&nbsp&nbsp innovation in water, environment and foods</li>
         </div>
         <div class="section-title">
           <h2 class="title">Mission</h2>
-          <p>Provide a laboratory service for analyzing water, environment and food components.</p>
-          <p>Provide a research and development service for water, environment and foods and the related products.</p>
-          <p>Provide innovative solutions for water, environment and foods by following green chemistry principles and environmental sustainability.</p>
+          <li>Provide a laboratory service for analyzing water, environment and food components.</li>
+          <li>Provide a research and development service for water, environment and foods and the related <br> &nbsp&nbsp&nbsp&nbsp products.</li>
+          <li>Provide innovative solutions for water, environment and foods by following green chemistry <br> &nbsp&nbsp&nbsp&nbsp principles and environmental sustainability.</li>
         </div>
         <div class="section-title">
           <h2 class="title">Goals</h2>
-          <p>Research and develop products related with water, environment and foods.</p>
-          <p>Promote research and development to local science community by engaging laboratory research and training among young local researchers and students.</p>
-          <p>Help train the next generation of Cambodian scientists about science and technology for sustainability.</p>
+          <li>Research and develop products related with water, environment and foods.</li>
+          <li>Promote research and development to local science community by engaging laboratory <br> &nbsp&nbsp&nbsp&nbsp research and training among young local researchers and students.</li>
+          <li>Help train the next generation of Cambodian scientists about science and technology for <br> &nbsp&nbsp&nbsp&nbsp sustainability.</li>
         </div>
       </div>
     </div>
@@ -395,13 +399,25 @@ a:3:{s:4:"time";i:1731627711;s:3:"ttl";i:1;s:4:"data";s:19803:"<!DOCTYPE html>
                 <ul class="list-unstyled">
                   <li><a href="http://localhost/wil-kh-v2/about_us">About Us</a></li>
                   <li><a href="http://localhost/wil-kh-v2/contact_us">Contact Us</a></li>
-                  <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                  <li><a href="terms-and-conditions.html">Terms & Condition</a></li>
                   <li><a href="http://localhost/wil-kh-v2/our_team">Our Team</a></li>
+                  <li><a href="http://localhost/wil-kh-v2/laboratory">Laboratory</a></li>
                 </ul>
               </div>
             </div>
-            <div class="col-md-4 col-sm-6 col-12 mt-6 mt-sm-0"></div>
+
+            <div class="col-md-4 col-sm-6 col-12 mt-6 mt-sm-0">
+              <h4 class="mb-4">Service</h4>
+              <div class="footer-list">
+                <ul class="list-unstyled">
+                    <li><a href="http://localhost/wil-kh-v2/water_quality_test">Water quality testing </a></li>
+                    <li><a href="http://localhost/wil-kh-v2/food_quality_test">Food quality testing</a></li>
+                    <li><a href="http://localhost/wil-kh-v2/soil_quality_test">Soil quality testing</a></li>
+                    <li><a href="http://localhost/wil-kh-v2/risk_assessment">Environmental Risk Assessment</a></li>
+                    <li><a href="http://localhost/wil-kh-v2/arsenic_research">Research & Project consultation</a></li>
+                </ul>
+              </div>
+            </div>
+
             <div class="col-md-5 col-12 mt-6 mt-md-0">
               <h4 class="mb-4">Get In Touch</h4>
               <div class="footer-cntct my-4">

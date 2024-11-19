@@ -125,7 +125,7 @@
         <div class="owl-carousel no-pb popup-gallery" data-dots="false" data-items="5" data-md-items="3" data-sm-items="2" data-xs-items="1" data-margin="10">
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="images/client/img_2_new.jpg" alt="">
+              <img class="img-fluid w-120" src="images/client/img_2_new.jpg" alt="">
               <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Laboratory</span>

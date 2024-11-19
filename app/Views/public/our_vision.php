@@ -27,24 +27,24 @@
   <div class="container">
     <div class="row align-items-center justify-content-between">
       <div class="col-lg-5 col-12 order-lg-1">
-        <img class="img-fluid" src="images/client/img_24.jpg" alt="">
+        <img class="img-fluid" src="images/blog/logo.png" alt="">
       </div>
       <div class="col-lg-7 col-12 mt-6 mt-lg-0">
         <div class="section-title">
           <h2 class="title">Vision</h2>
-          <p>Water Innovation Lab is dedicated to provide an excellent service in research, development and innovation in water, environment and foods</p>
+          <li>Water Innovation Lab is dedicated to provide an excellent service in research, development and <br> &nbsp&nbsp&nbsp&nbsp innovation in water, environment and foods</li>
         </div>
         <div class="section-title">
           <h2 class="title">Mission</h2>
-          <p>Provide a laboratory service for analyzing water, environment and food components.</p>
-          <p>Provide a research and development service for water, environment and foods and the related products.</p>
-          <p>Provide innovative solutions for water, environment and foods by following green chemistry principles and environmental sustainability.</p>
+          <li>Provide a laboratory service for analyzing water, environment and food components.</li>
+          <li>Provide a research and development service for water, environment and foods and the related <br> &nbsp&nbsp&nbsp&nbsp products.</li>
+          <li>Provide innovative solutions for water, environment and foods by following green chemistry <br> &nbsp&nbsp&nbsp&nbsp principles and environmental sustainability.</li>
         </div>
         <div class="section-title">
           <h2 class="title">Goals</h2>
-          <p>Research and develop products related with water, environment and foods.</p>
-          <p>Promote research and development to local science community by engaging laboratory research and training among young local researchers and students.</p>
-          <p>Help train the next generation of Cambodian scientists about science and technology for sustainability.</p>
+          <li>Research and develop products related with water, environment and foods.</li>
+          <li>Promote research and development to local science community by engaging laboratory <br> &nbsp&nbsp&nbsp&nbsp research and training among young local researchers and students.</li>
+          <li>Help train the next generation of Cambodian scientists about science and technology for <br> &nbsp&nbsp&nbsp&nbsp sustainability.</li>
         </div>
       </div>
     </div>
