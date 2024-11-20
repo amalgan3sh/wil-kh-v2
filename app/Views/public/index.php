@@ -8,7 +8,7 @@
             <h1 class="mb-4 text-white">Excellence in Laboratory Services</h1>
             <p class="lead font-w-5 text-white">Experience state-of-the-art laboratory services with Wil-Kh.<br>We are committed to delivering excellence in every test.</p>
             <div class="btn-box mt-5">
-              <a class="btn btn-white" href="about-us.html"> <span>Learn More</span>
+              <a class="btn btn-white" href="about-us.html"> <span>Learn More.</span>
               </a>
               <a class="btn btn-dark" href="#"> <span>Schedule Appointment</span>
               </a>

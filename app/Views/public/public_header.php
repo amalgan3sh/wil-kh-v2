@@ -159,23 +159,8 @@
               <ul class="navbar-nav ms-auto me-auto position-relative">
                 <!-- Home -->
                 <li class="nav-item dropdown"> <a class="nav-link active" href="<?php echo base_url('/') ?>">Home</a>
-
                 </li>
                 
-                <!-- <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Shop</a>
-                  <ul class="dropdown-menu">
-                    <li><a href="product-grid.html">Product Grid</a>
-                    </li>
-                    <li><a href="product-list.html">Product List</a>
-                    </li>
-                    <li><a href="product-single.html">Product Single</a>
-                    </li>
-                    <li><a href="product-cart.html">Product Cart</a>
-                    </li>
-                    <li><a href="product-checkout.html">Product Checkout</a>
-                    </li>
-                  </ul>
-                </li> -->
                 <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Development</a>
                   <ul class="dropdown-menu">
                     <li><a href="<?php echo base_url('/water_product') ?>">Water Treatment Technology</a>
@@ -188,9 +173,9 @@
                     </li>
                     <li><a href="<?php echo base_url('/short_course_training') ?>">Short-course training</a>
                     </li>
-                     
                   </ul>
                 </li>
+
                 <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Service</a>
                   <ul class="dropdown-menu">
                     <li><a href="<?php echo base_url('/water_quality_test') ?>">Water quality testing </a>
@@ -202,11 +187,9 @@
                     <li><a href="<?php echo base_url('/risk_assessment') ?>">Environmental Risk Assessment</a>
                     </li>
                     <li><a href="<?php echo base_url('/consultation') ?>">Research & Project consultation</a>
-                    </li>
-                     
+                    </li> 
                   </ul>
                 </li>
-
 
                 <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Publications</a>
                   <ul class="dropdown-menu">

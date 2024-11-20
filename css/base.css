@@ -217,6 +217,7 @@ a, i, .btn, button, img, span, .dropdown-item, .nav-link.dropdown-toggle::after,
 
 [data-overlay].theme-overlay:before {
   background-color: #2363d5;
+   opacity: 0.2;
 }
 
 [data-overlay].hero-overlay:before {
