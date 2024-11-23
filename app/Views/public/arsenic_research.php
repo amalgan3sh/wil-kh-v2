@@ -12,7 +12,7 @@
             </li>
             <li class="breadcrumb-item">Development
             </li>
-            <li class="breadcrumb-item active" aria-current="page">Arsenic Testing</li>
+            <li class="breadcrumb-item active" aria-current="page">Climate, Soil & Farms</li>
           </ol>
         </nav>
         </div>
@@ -38,7 +38,7 @@
       </div>
       <div class="col-lg-7 col-12 mt-5 mt-lg-0 ps-lg-5">
         <div>
-          <h3 class="mb-3">Arsenic Testing Overview</h3>
+          <h3 class="mb-3">Climate, Soil & Farms Overview</h3>
           <p class="lead mb-4">WIL-KH specializes in comprehensive arsenic testing services. We employ cutting-edge techniques and innovative solutions to ensure accurate detection and quantification of arsenic in various matrices, including water, soil, and food products.</p>
           <div class="light-bg p-3">
             <ul class="list-unstyled">
@@ -46,7 +46,7 @@
               <li class="mb-3"><span class="text-black font-w-5">Category:</span> Environmental and Health Safety Analysis</li>
               <li class="mb-3"><span class="text-black font-w-5">Testing Matrices:</span> Water, Soil, Food, Biological Samples</li>
               <li class="mb-3"><span class="text-black font-w-5">Established:</span> 2024</li>
-              <li><span class="text-black font-w-5">Company:</span> <a href="www.wil-kh.com">WIL-KH</a>
+              <li><span class="text-black font-w-5">Company:</span> <a href="https://www.wil-kh.com/">WIL-KH</a>
               </li>
             </ul>
           </div>
@@ -55,124 +55,15 @@
     </div>
     <div>
       <h3 class="mb-3">Our Process</h3>
-      <p class="mb-5">At WIL-KH, we prioritize accuracy, reliability, and efficiency in our arsenic testing services. Our team of experts utilizes state-of-the-art equipment and follows rigorous protocols to deliver precise and actionable results.</p>
-      <div class="border-top border-start border-light">
-        <div class="row g-0">
-          <div class="col-lg-4">
-            <div class="featured-item shadow-none d-flex align-items-start style-2 border-end border-light border-bottom">
-              <div class="h5 text-theme me-3">01</div>
-              <div class="featured-desc">
-                <div class="featured-title">
-                  <h5 class="mt-0">Sample Collection</h5>
-                </div>
-                <p>We employ proper sampling techniques to ensure representative samples for accurate arsenic analysis.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4">
-            <div class="featured-item shadow-none d-flex align-items-start style-2 border-end border-light border-bottom">
-              <div class="h5 text-theme me-3">02</div>
-              <div class="featured-desc">
-                <div class="featured-title">
-                  <h5 class="mt-0">Advanced Analysis</h5>
-                </div>
-                <p>Our laboratory utilizes cutting-edge equipment like ICP-MS and AAS for precise arsenic detection and quantification.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4">
-            <div class="featured-item shadow-none d-flex align-items-start style-2 border-end border-light border-bottom">
-              <div class="h5 text-theme me-3">03</div>
-              <div class="featured-desc">
-                <div class="featured-title">
-                  <h5 class="mt-0">Comprehensive Reporting</h5>
-                </div>
-                <p>We provide detailed reports with clear interpretations and recommendations based on the arsenic test results.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+      <p class="mb-5">At WIL-KH, we prioritize accuracy, reliability, and efficiency in our arsenic testing services. Our team of experts utilizes state-of-the-art equipment and follows rigorous protocols to deliver precise and actionable results.
+      Here is more about Soil Test Information :</p>
+      <center><h4>WIL Soil Test Information</h4>
+      <img src="images/client/soil_package.png" alt="soil_information"></center>
     </div>
   </div>
 </section>
 
 <!--project single end-->
-
-
-<!--project start-->
-
-<section class="pt-0">
-  <div class="container">
-    <div class="row justify-content-center text-center">
-      <div class="col-lg-8">
-        <div class="section-title">
-          <h2 class="title">Our Arsenic Testing Services</h2> 
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="container-fluid">
-    <div class="row">
-      <div class="col">
-        <div class="owl-carousel no-pb popup-gallery" data-dots="false" data-items="5" data-md-items="3" data-sm-items="2" data-xs-items="1" data-margin="10">
-          <div class="item">
-            <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
-              </a>
-              <div class="cases-title"> <span>Arsenic Testing</span>
-                <h4><a href="#">Drinking Water Analysis</a></h4>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
-              </a>
-              <div class="cases-title"> <span>Arsenic Testing</span>
-                <h4><a href="#">Soil Contamination Assessment</a></h4>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
-              </a>
-              <div class="cases-title"> <span>Arsenic Testing</span>
-                <h4><a href="#">Food Product Screening</a></h4>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
-              </a>
-              <div class="cases-title"> <span>Arsenic Testing</span>
-                <h4><a href="#">Biological Sample Analysis</a></h4>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="cases-item position-relative overflow-hidden">
-              <img class="img-fluid w-100" src="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
-              </a>
-              <div class="cases-title"> <span>Arsenic Testing</span>
-                <h4><a href="#">Industrial Waste Monitoring</a></h4>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!--project end-->
 
 </div>
 

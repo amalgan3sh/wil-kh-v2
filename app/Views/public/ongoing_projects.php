@@ -1,5 +1,5 @@
 <!--page title start-->
-<section class="page-title parallaxie" data-bg-img="images/client/img_33.jpg">
+<section class="page-title parallaxie" data-bg-img="images/client/img_33_1.jpg">
   <div class="container">
     <div class="row">
       <div class="col-lg-6">
@@ -38,7 +38,7 @@
           <li>Gravity-Driven Membrane (GDM) Filtration for Rural Water Systems. </li><br>
           <li>Arsenic Removal from Water Sources.</li><br>
           <li>Zero-Waste Initiatives: Essential Oils from Food Waste.</li><br>
-          <li>•	Risk Assessments for Water Sources in Cambodia.</li><br>
+          <li>Risk Assessments for Water Sources in Cambodia.</li><br>
         </div>
       </div>
     </div>

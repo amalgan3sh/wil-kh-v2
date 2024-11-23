@@ -1,4 +1,4 @@
-a:3:{s:4:"time";i:1732020132;s:3:"ttl";i:1;s:4:"data";s:20093:"<!DOCTYPE html>
+a:3:{s:4:"time";i:1732372380;s:3:"ttl";i:1;s:4:"data";s:19313:"<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -159,23 +159,8 @@ a:3:{s:4:"time";i:1732020132;s:3:"ttl";i:1;s:4:"data";s:20093:"<!DOCTYPE html>
               <ul class="navbar-nav ms-auto me-auto position-relative">
                 <!-- Home -->
                 <li class="nav-item dropdown"> <a class="nav-link active" href="http://localhost/wil-kh-v2/">Home</a>
-
                 </li>
                 
-                <!-- <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Shop</a>
-                  <ul class="dropdown-menu">
-                    <li><a href="product-grid.html">Product Grid</a>
-                    </li>
-                    <li><a href="product-list.html">Product List</a>
-                    </li>
-                    <li><a href="product-single.html">Product Single</a>
-                    </li>
-                    <li><a href="product-cart.html">Product Cart</a>
-                    </li>
-                    <li><a href="product-checkout.html">Product Checkout</a>
-                    </li>
-                  </ul>
-                </li> -->
                 <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Development</a>
                   <ul class="dropdown-menu">
                     <li><a href="http://localhost/wil-kh-v2/water_product">Water Treatment Technology</a>
@@ -188,9 +173,9 @@ a:3:{s:4:"time";i:1732020132;s:3:"ttl";i:1;s:4:"data";s:20093:"<!DOCTYPE html>
                     </li>
                     <li><a href="http://localhost/wil-kh-v2/short_course_training">Short-course training</a>
                     </li>
-                     
                   </ul>
                 </li>
+
                 <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Service</a>
                   <ul class="dropdown-menu">
                     <li><a href="http://localhost/wil-kh-v2/water_quality_test">Water quality testing </a>
@@ -202,11 +187,9 @@ a:3:{s:4:"time";i:1732020132;s:3:"ttl";i:1;s:4:"data";s:20093:"<!DOCTYPE html>
                     <li><a href="http://localhost/wil-kh-v2/risk_assessment">Environmental Risk Assessment</a>
                     </li>
                     <li><a href="http://localhost/wil-kh-v2/consultation">Research & Project consultation</a>
-                    </li>
-                     
+                    </li> 
                   </ul>
                 </li>
-
 
                 <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Publications</a>
                   <ul class="dropdown-menu">
@@ -267,7 +250,7 @@ a:3:{s:4:"time";i:1732020132;s:3:"ttl";i:1;s:4:"data";s:20093:"<!DOCTYPE html>
 </div>
 
 <!--header end--><!--page title start-->
-<section class="page-title parallaxie" data-bg-img="images/client/img_33.jpg">
+<section class="page-title parallaxie" data-bg-img="images/client/img_33_1.jpg">
   <div class="container">
     <div class="row">
       <div class="col-lg-6">
@@ -276,7 +259,7 @@ a:3:{s:4:"time";i:1732020132;s:3:"ttl";i:1;s:4:"data";s:20093:"<!DOCTYPE html>
           <nav aria-label="breadcrumb" class="page-breadcrumb border-top border-light pt-3 mt-3">
             <ol class="breadcrumb">
               <li class="breadcrumb-item"><a href="http://localhost/wil-kh-v2/"><i class="las la-home me-1"></i>Home</a></li>
-              <li class="breadcrumb-item">About Us</li>
+              <li class="breadcrumb-item">About</li>
               <li class="breadcrumb-item active" aria-current="page">Ongoing Projects</li>
             </ol>
           </nav>
@@ -306,7 +289,7 @@ a:3:{s:4:"time";i:1732020132;s:3:"ttl";i:1;s:4:"data";s:20093:"<!DOCTYPE html>
           <li>Gravity-Driven Membrane (GDM) Filtration for Rural Water Systems. </li><br>
           <li>Arsenic Removal from Water Sources.</li><br>
           <li>Zero-Waste Initiatives: Essential Oils from Food Waste.</li><br>
-          <li>•	Risk Assessments for Water Sources in Cambodia.</li><br>
+          <li>Risk Assessments for Water Sources in Cambodia.</li><br>
         </div>
       </div>
     </div>

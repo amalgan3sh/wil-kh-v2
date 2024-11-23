@@ -48,7 +48,7 @@
               <li class="mb-3"><span class="text-black font-w-5">Category:</span> Food Safety Analysis</li>
               <li class="mb-3"><span class="text-black font-w-5">Testing Parameters:</span> Microbiological, Chemical, Nutritional</li>
               <li class="mb-3"><span class="text-black font-w-5">Established:</span> 2024</li>
-              <li><span class="text-black font-w-5">Company:</span> <a href="www.wil-kh.com">WIL-KH</a>
+              <li><span class="text-black font-w-5">Company:</span> <a href="https://www.wil-kh.com/">WIL-KH</a>
               </li>
             </ul>
           </div>

@@ -125,13 +125,13 @@
         <div class="widget p-4 mb-5 light-bg">
           <div class="sidebar-links">
             <ul class="list-unstyled">
-              <li class="active"><><a href="water_product">Water Product Development</a>
+              <li class="active"><a href="water_product">Water Product Development</a>
               </li>
               <li><a href="food_product">Food Product Development</a>
               </li>
               <li><a href="environmental_product">Environmental Product Research</a>
               </li>
-              <lia href="consultation">Consultation</a>
+              <li><a href="consultation">Consultation</a>
               </li>
               <li><a href="short_course_training">Training</a>
               </li>

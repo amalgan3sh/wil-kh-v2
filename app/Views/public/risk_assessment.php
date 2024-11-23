@@ -46,7 +46,7 @@
               <li class="mb-3"><span class="text-black font-w-5">Category:</span> Environmental and Health Safety Analysis</li>
               <li class="mb-3"><span class="text-black font-w-5">Testing Matrices:</span> Water, Soil, Food, Biological Samples</li>
               <li class="mb-3"><span class="text-black font-w-5">Established:</span> 2024</li>
-              <li><span class="text-black font-w-5">Company:</span> <a href="www.wil-kh.com">WIL-KH</a>
+              <li><span class="text-black font-w-5">Company:</span> <a href="https://www.wil-kh.com/">WIL-KH</a>
               </li>
             </ul>
           </div>
