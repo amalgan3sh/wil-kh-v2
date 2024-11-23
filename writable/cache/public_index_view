@@ -1,4 +1,4 @@
-a:3:{s:4:"time";i:1732371677;s:3:"ttl";i:1;s:4:"data";s:30532:"<!DOCTYPE html>
+a:3:{s:4:"time";i:1732375213;s:3:"ttl";i:1;s:4:"data";s:30532:"<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -270,7 +270,7 @@ a:3:{s:4:"time";i:1732371677;s:3:"ttl";i:1;s:4:"data";s:30532:"<!DOCTYPE html>
     </div>
 
     <div class="item overlay-50 theme-overlay" 
-     style="background-image: url('images/client/img_28_1.jpg'); 
+     style="background-image: url('images/client/img_28_1.JPG'); 
             background-size: cover; "
             data-overlay="9">
       <div class="container">
