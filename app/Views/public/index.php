@@ -19,7 +19,7 @@
     </div>
 
     <div class="item overlay-50 theme-overlay" 
-     style="background-image: url('images/client/img_28_1.JPG'); 
+     style="background-image: url('images/client/img_28_1.jpg'); 
             background-size: cover; "
             data-overlay="9">
       <div class="container">
