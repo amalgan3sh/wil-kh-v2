@@ -47,7 +47,6 @@
             <th rowspan="2" style="border: 1px solid black;">Method</th>
             <th rowspan="2" style="border: 1px solid black;">Unit Price (USD)</th>
             <th rowspan="2" colspan="3" style="border: 1px solid black;">Package Price (USD)</th>
-            <th rowspan="2" colspan="3" style="border: 1px solid black;">Remarks</th>
         </tr>
         <tr>
         </tr>
@@ -66,27 +65,18 @@
             <td style="border: 1px solid black;">Coliform (Total)</td>
             <td style="border: 1px solid black;">Membrane Filtration</td>
             <td style="border: 1px solid black;">$9.00</td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td style="border: 1px solid black;">3</td>
             <td style="border: 1px solid black;">Salmonella</td>
             <td style="border: 1px solid black;">Membrane Filtration</td>
             <td style="border: 1px solid black;">$9.00</td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td style="border: 1px solid black;">4</td>
             <td style="border: 1px solid black;">Total Plate Count</td>
             <td style="border: 1px solid black;">Membrane Filtration</td>
             <td style="border: 1px solid black;">$9.00</td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td style="border: 1px solid black;">5</td>
@@ -94,71 +84,48 @@
             <td style="border: 1px solid black;">Electrode</td>
             <td style="border: 1px solid black;">$15.00</td>
             <td rowspan="8" style="border: 1px solid black;  writing-mode: vertical-lr; text-align: center; vertical-align: middle;">Package 2 (Chemical hazards) = 90$</td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td style="border: 1px solid black;">6</td>
             <td style="border: 1px solid black;">Cadmium (Cd)</td>
             <td style="border: 1px solid black;">Spectrophotometry</td>
             <td style="border: 1px solid black;">$20.00</td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td style="border: 1px solid black;">7</td>
             <td style="border: 1px solid black;">Chromium (Cr)</td>
             <td style="border: 1px solid black;">Spectrophotometry</td>
             <td style="border: 1px solid black;">$10.00</td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td style="border: 1px solid black;">8</td>
             <td style="border: 1px solid black;">Fluoride (F-)</td>
             <td style="border: 1px solid black;">Spectrophotometry</td>
             <td style="border: 1px solid black;">$7.00</td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td style="border: 1px solid black;">9</td>
             <td style="border: 1px solid black;">Lead (Pb)</td>
             <td style="border: 1px solid black;">Spectrophotometry</td>
             <td style="border: 1px solid black;">$20.00</td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td style="border: 1px solid black;">10</td>
             <td style="border: 1px solid black;">Nitrate (NO3-)</td>
             <td style="border: 1px solid black;">Spectrophotometry</td>
             <td style="border: 1px solid black;">$7.00</td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td style="border: 1px solid black;">11</td>
             <td style="border: 1px solid black;">Nitrite (NO2-)</td>
             <td style="border: 1px solid black;">Spectrophotometry</td>
             <td style="border: 1px solid black;">$9.00</td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td style="border: 1px solid black;">12</td>
             <td style="border: 1px solid black;">Manganese (Mn)</td>
             <td style="border: 1px solid black;">Spectrophotometry</td>
             <td style="border: 1px solid black;">$5.00</td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td style="border: 1px solid black;">13</td>
@@ -167,142 +134,97 @@
             <td style="border: 1px solid black;">$3.00</td>
             <td rowspan="16" style="border: 1px solid black;  writing-mode: vertical-lr; text-align: center; vertical-align: middle;"></td>
             <td rowspan="16" style="border: 1px solid black;  writing-mode: vertical-lr; text-align: center; vertical-align: middle;">Package 4 (Aesthetic properties) = 90$</td>
-            <td></td>
+            
         </tr>
         <tr>
             <td style="border: 1px solid black;">14</td>
             <td style="border: 1px solid black;">pH</td>
             <td style="border: 1px solid black;">Electrode</td>
             <td style="border: 1px solid black;">$3.00</td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td style="border: 1px solid black;">15</td>
             <td style="border: 1px solid black;">Total Dissolved Solids (TDS)</td>
             <td style="border: 1px solid black;">Electrode</td>
             <td style="border: 1px solid black;">$3.00</td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td style="border: 1px solid black;">16</td>
             <td style="border: 1px solid black;">Electrical Conductivity (EC)</td>
             <td style="border: 1px solid black;">Electrode</td>
             <td style="border: 1px solid black;">$3.00</td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td style="border: 1px solid black;">17</td>
             <td style="border: 1px solid black;">Salinity</td>
             <td style="border: 1px solid black;">Electrode</td>
             <td style="border: 1px solid black;">$3.00</td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td style="border: 1px solid black;">18</td>
             <td style="border: 1px solid black;">Hardness, Total</td>
             <td style="border: 1px solid black;">Colorimetry</td>
             <td style="border: 1px solid black;">$5.00</td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td style="border: 1px solid black;">19</td>
             <td style="border: 1px solid black;">Aluminum (Al)</td>
             <td style="border: 1px solid black;">Spectrophotometry</td>
             <td style="border: 1px solid black;">$7.00</td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td style="border: 1px solid black;">20</td>
             <td style="border: 1px solid black;">Copper (Cu)</td>
             <td style="border: 1px solid black;">Spectrophotometry</td>
             <td style="border: 1px solid black;">$10.00</td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td style="border: 1px solid black;">21</td>
             <td style="border: 1px solid black;">Iron (Fe)</td>
             <td style="border: 1px solid black;">Spectrophotometry</td>
             <td style="border: 1px solid black;">$5.00</td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td style="border: 1px solid black;">22</td>
             <td style="border: 1px solid black;">Sodium (Na)</td>
             <td style="border: 1px solid black;">Electrode</td>
             <td style="border: 1px solid black;">$5.00</td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td style="border: 1px solid black;">23</td>
             <td style="border: 1px solid black;">Sulfate (SO4²-)</td>
             <td style="border: 1px solid black;">Spectrophotometry</td>
             <td style="border: 1px solid black;">$5.00</td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td style="border: 1px solid black;">24</td>
             <td style="border: 1px solid black;">Zinc (Zn)</td>
             <td style="border: 1px solid black;">Spectrophotometry</td>
             <td style="border: 1px solid black;">$15.00</td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td style="border: 1px solid black;">25</td>
             <td style="border: 1px solid black;">Residual Chlorine (Cl2)</td>
             <td style="border: 1px solid black;">Spectrophotometry</td>
             <td style="border: 1px solid black;">$5.00</td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td style="border: 1px solid black;">26</td>
             <td style="border: 1px solid black;">Ammonia (NH3)</td>
             <td style="border: 1px solid black;">Spectrophotometry</td>
             <td style="border: 1px solid black;">$5.00</td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td style="border: 1px solid black;">27</td>
             <td style="border: 1px solid black;">Chloride (Cl-)</td>
             <td style="border: 1px solid black;">Spectrophotometry</td>
             <td style="border: 1px solid black;">$7.00</td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td style="border: 1px solid black;">28</td>
             <td style="border: 1px solid black;">Dissolved Oxygen (DO)</td>
             <td style="border: 1px solid black;">Membrane Electrode</td>
             <td style="border: 1px solid black;">$9.00</td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
     </table>
 
