@@ -232,7 +232,7 @@
                 </span>
                   </a>
                 </div>
-              </div> <a class="btn btn-theme btn-sm d-none d-md-inline-block" href="#"><span>Appointment</span></a>
+              </div> <a class="btn btn-theme btn-sm d-none d-md-inline-block" href="<?php echo base_url('/contact_us') ?>"><span>Appointment</span></a>
             </div>
           </nav>
         </div>
