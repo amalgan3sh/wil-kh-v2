@@ -56,9 +56,9 @@
             <td style="border: 1px solid black;">E. coli</td>
             <td style="border: 1px solid black;">Membrane Filtration</td>
             <td style="border: 1px solid black;">$9.00</td>
-            <td rowspan="4" style="border: 1px solid black; writing-mode: vertical-lr; text-align: center; vertical-align: middle;">Package 1 (Microbiological tests) = 33$</td>
-            <td rowspan="12" style="border: 1px solid black;  writing-mode: vertical-lr; text-align: center; vertical-align: middle;">Package 3 (Basic drinking hazards) = 120$</td>
-            <td rowspan="28" style="border: 1px solid black;  writing-mode: vertical-lr; text-align: center; vertical-align: middle;">Package 5 (Include aesthetic) = 205$</td>
+            <td rowspan="4" style="border: 1px solid black; writing-mode: vertical-lr; text-align: center; vertical-align: middle; background-color: #e7e4e4;">Package 1 (Microbiological tests) = 33$</td>
+            <td rowspan="12" style="border: 1px solid black;  writing-mode: vertical-lr; text-align: center; vertical-align: middle; background-color: #9e9a9a;">Package 3 (Basic drinking hazards) = 120$</td>
+            <td rowspan="28" style="border: 1px solid black;  writing-mode: vertical-lr; text-align: center; vertical-align: middle; background-color: #716f6f;">Package 5 (Include aesthetic) = 205$</td>
         </tr>
         <tr>
             <td style="border: 1px solid black;">2</td>
@@ -83,7 +83,7 @@
             <td style="border: 1px solid black;">Arsenic (As)</td>
             <td style="border: 1px solid black;">Electrode</td>
             <td style="border: 1px solid black;">$15.00</td>
-            <td rowspan="8" style="border: 1px solid black;  writing-mode: vertical-lr; text-align: center; vertical-align: middle;">Package 2 (Chemical hazards) = 90$</td>
+            <td rowspan="8" style="border: 1px solid black;  writing-mode: vertical-lr; text-align: center; vertical-align: middle; background-color: #c2c0c0;">Package 2 (Chemical hazards) = 90$</td>
         </tr>
         <tr>
             <td style="border: 1px solid black;">6</td>
