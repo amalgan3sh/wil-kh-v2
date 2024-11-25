@@ -30,6 +30,8 @@
                   <li><a href="<?php echo base_url('/contact_us') ?>">Contact Us</a></li>
                   <li><a href="<?php echo base_url('/our_team') ?>">Our Team</a></li>
                   <li><a href="<?php echo base_url('/laboratory') ?>">Laboratory</a></li>
+                  <li><a href="<?php echo base_url('/groundwater_survey') ?>">Groundwater Survey</a></li>
+                  <li><a href="<?php echo base_url('/arsenic_research') ?>">Arsenic research</a></li>
                 </ul>
               </div>
             </div>
@@ -41,8 +43,8 @@
                     <li><a href="<?php echo base_url('/water_quality_test') ?>">Water quality testing </a></li>
                     <li><a href="<?php echo base_url('/food_quality_test') ?>">Food quality testing</a></li>
                     <li><a href="<?php echo base_url('/soil_quality_test') ?>">Soil quality testing</a></li>
-                    <li><a href="<?php echo base_url('/risk_assessment') ?>">Environmental Risk Assessment</a></li>
                     <li><a href="<?php echo base_url('/consultation') ?>">Research & Project consultation</a></li>
+                    <li><a href="<?php echo base_url('/short_course_training') ?>">Short-course training</a></li>
                 </ul>
               </div>
             </div>

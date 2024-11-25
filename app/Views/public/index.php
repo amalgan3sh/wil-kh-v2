@@ -1,16 +1,16 @@
 <!--hero section start-->
 <section class="banner p-0 pos-r">
   <div class="banner-slider owl-carousel no-pb" data-dots="false" data-nav="true">
-    <div class="item overlay-50 theme-overlay" style="background-image: url('images/client/banner_2.jpg'); background-size: cover; " data-overlay="9">
+    <div class="item overlay-50 theme-overlay" style="background-image: url('images/client/banner_2.jpg'); background-size: cover; " data-overlay="0">
       <div class="container">
         <div class="row pt-8 custom-pb-2">
           <div class="col-lg-6 col-md-8 col-12">
             <h1 class="mb-4 text-white">Excellence in Laboratory Services</h1>
             <p class="lead font-w-5 text-white">Experience state-of-the-art laboratory services with Wil-Kh.<br>We are committed to delivering excellence in every test.</p>
             <div class="btn-box mt-5">
-              <a class="btn btn-white" href="about-us.html"> <span>Learn More.</span>
+              <a class="btn btn-white" href="<?php echo base_url('/about_us') ?>"> <span>Learn More.</span>
               </a>
-              <a class="btn btn-dark" href="#"> <span>Schedule Appointment</span>
+              <a class="btn btn-dark" href="<?php echo base_url('/contact_us') ?>"> <span>Schedule Appointment</span>
               </a>
             </div>
           </div>
@@ -21,16 +21,16 @@
     <div class="item overlay-50 theme-overlay" 
      style="background-image: url('images/client/img_28_1.jpg'); 
             background-size: cover; "
-            data-overlay="9">
+            data-overlay="0">
       <div class="container">
         <div class="row pt-8 custom-pb-2">
           <div class="col-lg-6 col-md-8 col-12">
             <h1 class="mb-4 text-white">Your Trusted Laboratory Partner</h1>
             <p class="lead font-w-5 text-white">Wil-Kh provides comprehensive laboratory services.<br>Our team is dedicated to ensuring accurate and timely results.</p>
             <div class="btn-box mt-5">
-              <a class="btn btn-white" href="about-us.html"> <span>Learn More</span>
+              <a class="btn btn-white" href="<?php echo base_url('/about_us') ?>"> <span>Learn More.</span>
               </a>
-              <a class="btn btn-dark" href="#"> <span>Schedule Appointment</span>
+              <a class="btn btn-dark" href="<?php echo base_url('/contact_us') ?>"> <span>Schedule Appointment</span>
               </a>
             </div>
           </div>
@@ -65,7 +65,7 @@
                     <h5 class="mt-0">Water Quality Testing</h5>
                   </div>
                   <p class="mb-3">We conduct comprehensive water quality testing to assess and ensure the safety of water sources.</p>
-                  <a class="btn-link text-black" href="#">Read More...</a>
+                  <a class="btn-link text-black" href="<?php echo base_url('/water_quality_test') ?>">Read More...</a>
                 </div>
               </div>
             </div>
@@ -78,7 +78,7 @@
                     <h5 class="mt-0">Food Safety Analysis</h5>
                   </div>
                   <p class="mb-3">Our food quality tests are designed to evaluate and improve the safety and quality of food products.</p>
-                  <a class="btn-link text-black" href="#">Read More...</a>
+                  <a class="btn-link text-black" href="<?php echo base_url('/food_quality_test') ?>">Read More...</a>
                 </div>
               </div>
             </div>
@@ -91,7 +91,7 @@
                     <h5 class="mt-0">Soil Quality Assessment</h5>
                   </div>
                   <p class="mb-3">Our soil testing services help determine soil health and suitability for various applications.</p>
-                  <a class="btn-link text-black" href="#">Read More...</a>
+                  <a class="btn-link text-black" href="<?php echo base_url('/soil_quality_test') ?>">Read More...</a>
                 </div>
               </div>
             </div>
@@ -138,7 +138,7 @@
           </ul>
         </div>
         <!-- <img class="img-fluid me-3" src="images/sign.png" alt=""> -->
-        <a class="btn btn-theme" href="about-us.html"> <span>Learn More About Us</span>
+        <a class="btn btn-theme" href="<?php echo base_url('/about_us') ?>"> <span>Learn More About Us</span>
         </a>
       </div>
     </div>
@@ -301,7 +301,7 @@
               <a class="popup-img" href="images/client/img_18.2.jpg"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Water Quality</span>
-                <h4><a href="research-single.html">Microplastics in Drinking Water</a></h4>
+                <h4><a href="#">Microplastics in Drinking Water</a></h4>
               </div>
             </div>
           </div>
@@ -311,7 +311,7 @@
               <a class="popup-img" href="images/client/img_18.2.jpg"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Food Safety</span>
-                <h4><a href="research-single.html">Pesticide Residue Analysis</a></h4>
+                <h4><a href="#">Pesticide Residue Analysis</a></h4>
               </div>
             </div>
           </div>
@@ -321,7 +321,7 @@
               <a class="popup-img" href="images/client/img_18.2.jpg"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Soil Quality</span>
-                <h4><a href="research-single.html">Heavy Metal Contamination</a></h4>
+                <h4><a href="#">Heavy Metal Contamination</a></h4>
               </div>
             </div>
           </div>
@@ -331,7 +331,7 @@
               <a class="popup-img" href="images/client/img_18.2.jpg"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Arsenic Research</span>
-                <h4><a href="research-single.html">Groundwater Arsenic Removal</a></h4>
+                <h4><a href="#">Groundwater Arsenic Removal</a></h4>
               </div>
             </div>
           </div>
@@ -341,7 +341,7 @@
               <a class="popup-img" href="images/client/img_18.2.jpg"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Environmental Safety</span>
-                <h4><a href="research-single.html">Industrial Waste Management</a></h4>
+                <h4><a href="#">Industrial Waste Management</a></h4>
               </div>
             </div>
           </div>

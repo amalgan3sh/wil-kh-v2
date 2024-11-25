@@ -5,14 +5,14 @@
     <div class="row">
       <div class="col-lg-6">
         <div class="white-bg p-md-5 p-3 d-inline-block">
-        <h1 class="text-theme">Water Quality <span class="text-black">Testing Packages</span></h1>
+        <h1 class="text-theme">Drinking Water Quality <span class="text-black">Testing Packages</span></h1>
         <nav aria-label="breadcrumb" class="page-breadcrumb border-top border-light pt-3 mt-3">
           <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="<?php echo base_url('/') ?>"><i class="las la-home me-1"></i>Home</a>
             </li>
-            <li class="breadcrumb-item">Services
+            <li class="breadcrumb-item">Research
             </li>
-            <li class="breadcrumb-item active" aria-current="page">Water Quality Testing  Packages</li>
+            <li class="breadcrumb-item active" aria-current="page">Drinking Water Quality Testing  Packages</li>
           </ol>
         </nav>
         </div>
@@ -36,7 +36,7 @@
     <div class="row justify-content-center text-center">
       <div class="col-lg-8">
         <div class="section-title"><br><br><br>
-          <h2 class="title">Water Quality Testing Packages 2024</h2><br><br>
+          <h2 class="title">Drinking Water Quality Testing Packages 2024</h2><br><br>
 
     
       <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse;">

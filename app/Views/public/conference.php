@@ -55,24 +55,6 @@
           </div>
         </div>
         <!-- End Conference paper Card -->
-        <!-- Conference paper Card -->
-        <div class="card post-card border-0 rounded-0 shadow-sm bg-transparent mb-6">
-          <div class="card-body px-4 pb-4 pt-0">
-            <div class="mt-n3">
-              <div class="d-inline-block white-bg px-2 py-1 text-black box-shadow">15 May 2024</div>
-            </div>
-            <h2 class="h4 my-3">Chemical risks in drinking water of inhabitants in the basin of the Tonle Sap Great lake. J Water Health 21 (12): 1908–1921.</h2>
-            <ul class="list-inline mb-0 border-top border-bottom border-light py-2 mb-4">
-              <li class="list-inline-item"> <a href="#" class="text-black"><i class="lar la-user-circle me-1"></i>Phan, K., Hoeng, S., Phin, S., The, N., Sriv, T., Sao, V., Chey, C.O. 2023.</a>
-              </li>
-            </ul>
-            <div class="d-flex justify-content-between align-items-center">
-              <div><a class="px-3 py-2 light-bg text-black" href="#">Water Quality</a>  <a class="px-3 py-2 light-bg text-black" href="#">Urban Water</a>
-              </div> <a class="link-btn" href="https://doi.org/10.2166/wh.2023.236"><i class="las la-long-arrow-alt-right"></i></a>
-            </div>
-          </div>
-        </div>
-        <!-- End Conference paper Card -->
 
         <!-- Conference paper Card -->
         <div class="card post-card border-0 rounded-0 shadow-sm bg-transparent mb-6">

@@ -1,0 +1,65 @@
+CRITICAL - 2024-11-25 13:26:42 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "public/waste_water_test_information.php"
+[Method: GET, Route: waste_water_test_information]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('public/waste_water_test_information.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('public/waste_water_test_information', [], true)
+ 3 APPPATH\Controllers\PublicController.php(303): view('public/waste_water_test_information')
+ 4 APPPATH\Controllers\PublicController.php(279): App\Controllers\PublicController->App\Controllers\{closure}()
+ 5 APPPATH\Controllers\PublicController.php(300): App\Controllers\PublicController->renderCache('waste_water_test_information_view', Object(Closure))
+ 6 APPPATH\Controllers\PublicController.php(211): App\Controllers\PublicController->renderView('waste_water_test_information_view', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PublicController->WasteWaterTestInformation()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PublicController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 13:34:13 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "public/all_water_test_information.php"
+[Method: GET, Route: all_water_test_information]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('public/all_water_test_information.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('public/all_water_test_information', [], true)
+ 3 APPPATH\Controllers\PublicController.php(303): view('public/all_water_test_information')
+ 4 APPPATH\Controllers\PublicController.php(279): App\Controllers\PublicController->App\Controllers\{closure}()
+ 5 APPPATH\Controllers\PublicController.php(300): App\Controllers\PublicController->renderCache('all_water_test_information_view', Object(Closure))
+ 6 APPPATH\Controllers\PublicController.php(247): App\Controllers\PublicController->renderView('all_water_test_information_view', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PublicController->AllWaterTestInformation()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PublicController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 19:59:38 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "aresearch@wil-kh.com"
+[Method: GET, Route: aresearch@wil-kh.com]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('aresearch@wil-kh.com')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('aresearch@wil-kh.com')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 19:59:58 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "aresearch@wil-kh.com"
+[Method: GET, Route: aresearch@wil-kh.com]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('aresearch@wil-kh.com')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('aresearch@wil-kh.com')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 22:32:36 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "public/consultation.php"
+[Method: GET, Route: consultation]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('public/consultation.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('public/consultation', [], true)
+ 3 APPPATH\Controllers\PublicController.php(321): view('public/consultation')
+ 4 APPPATH\Controllers\PublicController.php(297): App\Controllers\PublicController->App\Controllers\{closure}()
+ 5 APPPATH\Controllers\PublicController.php(318): App\Controllers\PublicController->renderCache('consultation_view', Object(Closure))
+ 6 APPPATH\Controllers\PublicController.php(96): App\Controllers\PublicController->renderView('consultation_view', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PublicController->Consultation()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PublicController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

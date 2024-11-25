@@ -1,4 +1,4 @@
-a:3:{s:4:"time";i:1732385094;s:3:"ttl";i:1;s:4:"data";s:30532:"<!DOCTYPE html>
+a:3:{s:4:"time";i:1732573389;s:3:"ttl";i:1;s:4:"data";s:31242:"<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -169,15 +169,17 @@ a:3:{s:4:"time";i:1732385094;s:3:"ttl";i:1;s:4:"data";s:30532:"<!DOCTYPE html>
                     </li>
                     <li><a href="http://localhost/wil-kh-v2/environmental_product">Environmental Technology</a>
                     </li>
-                    <li><a href="http://localhost/wil-kh-v2/arsenic_research">Climate, Soils & Farms</a>
+                    <li><a href="http://localhost/wil-kh-v2/climate_soil_and_farms">Climate, Soils & Farms</a>
                     </li>
                     <li><a href="http://localhost/wil-kh-v2/short_course_training">Short-course training</a>
                     </li>
                   </ul>
                 </li>
 
-                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Service</a>
+                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Research</a>
                   <ul class="dropdown-menu">
+                    <li><a href="http://localhost/wil-kh-v2/laboratory">Laboratory</a>
+                    </li>
                     <li><a href="http://localhost/wil-kh-v2/water_quality_test">Water quality testing </a>
                     </li>
                     <li><a href="http://localhost/wil-kh-v2/food_quality_test">Food quality testing</a>
@@ -188,6 +190,10 @@ a:3:{s:4:"time";i:1732385094;s:3:"ttl";i:1;s:4:"data";s:30532:"<!DOCTYPE html>
                     </li>
                     <li><a href="http://localhost/wil-kh-v2/consultation">Research & Project consultation</a>
                     </li> 
+                    <li><a href="http://localhost/wil-kh-v2/groundwater_survey">Groundwater Survey</a>
+                    </li>
+                    <li><a href="http://localhost/wil-kh-v2/ongoing_projects">Ongoing Projects</a>
+                    </li>
                   </ul>
                 </li>
 
@@ -196,6 +202,8 @@ a:3:{s:4:"time";i:1732385094;s:3:"ttl";i:1;s:4:"data";s:30532:"<!DOCTYPE html>
                     <li><a href="journal_article">Journal Article</a>
                     </li>
                     <li><a href="conference">Conference</a>
+                    </li>
+                    <li><a href="wil_newsletter">Newsletter</a>
                     </li>
                   </ul>
                 </li>
@@ -213,11 +221,7 @@ a:3:{s:4:"time";i:1732385094;s:3:"ttl";i:1;s:4:"data";s:30532:"<!DOCTYPE html>
                     <li class="dropdown-submenu"><a class="dropdown-item" href="http://localhost/wil-kh-v2/our_vision">Our Vision</a>
                       
                     </li>
-                    <li class="dropdown-submenu"><a class="dropdown-item" href="http://localhost/wil-kh-v2/ongoing_projects">Ongoing Projects</a>
-                      
-                    </li>
-
-
+                    
                   </ul>
                 </li>
               </ul>
@@ -232,7 +236,7 @@ a:3:{s:4:"time";i:1732385094;s:3:"ttl";i:1;s:4:"data";s:30532:"<!DOCTYPE html>
                 </span>
                   </a>
                 </div>
-              </div> <a class="btn btn-theme btn-sm d-none d-md-inline-block" href="#"><span>Appointment</span></a>
+              </div> <a class="btn btn-theme btn-sm d-none d-md-inline-block" href="http://localhost/wil-kh-v2/contact_us"><span>Appointment</span></a>
             </div>
           </nav>
         </div>
@@ -252,16 +256,16 @@ a:3:{s:4:"time";i:1732385094;s:3:"ttl";i:1;s:4:"data";s:30532:"<!DOCTYPE html>
 <!--header end--><!--hero section start-->
 <section class="banner p-0 pos-r">
   <div class="banner-slider owl-carousel no-pb" data-dots="false" data-nav="true">
-    <div class="item overlay-50 theme-overlay" style="background-image: url('images/client/banner_2.jpg'); background-size: cover; " data-overlay="9">
+    <div class="item overlay-50 theme-overlay" style="background-image: url('images/client/banner_2.jpg'); background-size: cover; " data-overlay="0">
       <div class="container">
         <div class="row pt-8 custom-pb-2">
           <div class="col-lg-6 col-md-8 col-12">
             <h1 class="mb-4 text-white">Excellence in Laboratory Services</h1>
             <p class="lead font-w-5 text-white">Experience state-of-the-art laboratory services with Wil-Kh.<br>We are committed to delivering excellence in every test.</p>
             <div class="btn-box mt-5">
-              <a class="btn btn-white" href="about-us.html"> <span>Learn More.</span>
+              <a class="btn btn-white" href="http://localhost/wil-kh-v2/about_us"> <span>Learn More.</span>
               </a>
-              <a class="btn btn-dark" href="#"> <span>Schedule Appointment</span>
+              <a class="btn btn-dark" href="http://localhost/wil-kh-v2/contact_us"> <span>Schedule Appointment</span>
               </a>
             </div>
           </div>
@@ -272,16 +276,16 @@ a:3:{s:4:"time";i:1732385094;s:3:"ttl";i:1;s:4:"data";s:30532:"<!DOCTYPE html>
     <div class="item overlay-50 theme-overlay" 
      style="background-image: url('images/client/img_28_1.jpg'); 
             background-size: cover; "
-            data-overlay="9">
+            data-overlay="0">
       <div class="container">
         <div class="row pt-8 custom-pb-2">
           <div class="col-lg-6 col-md-8 col-12">
             <h1 class="mb-4 text-white">Your Trusted Laboratory Partner</h1>
             <p class="lead font-w-5 text-white">Wil-Kh provides comprehensive laboratory services.<br>Our team is dedicated to ensuring accurate and timely results.</p>
             <div class="btn-box mt-5">
-              <a class="btn btn-white" href="about-us.html"> <span>Learn More</span>
+              <a class="btn btn-white" href="http://localhost/wil-kh-v2/about_us"> <span>Learn More.</span>
               </a>
-              <a class="btn btn-dark" href="#"> <span>Schedule Appointment</span>
+              <a class="btn btn-dark" href="http://localhost/wil-kh-v2/contact_us"> <span>Schedule Appointment</span>
               </a>
             </div>
           </div>
@@ -316,7 +320,7 @@ a:3:{s:4:"time";i:1732385094;s:3:"ttl";i:1;s:4:"data";s:30532:"<!DOCTYPE html>
                     <h5 class="mt-0">Water Quality Testing</h5>
                   </div>
                   <p class="mb-3">We conduct comprehensive water quality testing to assess and ensure the safety of water sources.</p>
-                  <a class="btn-link text-black" href="#">Read More...</a>
+                  <a class="btn-link text-black" href="http://localhost/wil-kh-v2/water_quality_test">Read More...</a>
                 </div>
               </div>
             </div>
@@ -329,7 +333,7 @@ a:3:{s:4:"time";i:1732385094;s:3:"ttl";i:1;s:4:"data";s:30532:"<!DOCTYPE html>
                     <h5 class="mt-0">Food Safety Analysis</h5>
                   </div>
                   <p class="mb-3">Our food quality tests are designed to evaluate and improve the safety and quality of food products.</p>
-                  <a class="btn-link text-black" href="#">Read More...</a>
+                  <a class="btn-link text-black" href="http://localhost/wil-kh-v2/food_quality_test">Read More...</a>
                 </div>
               </div>
             </div>
@@ -342,7 +346,7 @@ a:3:{s:4:"time";i:1732385094;s:3:"ttl";i:1;s:4:"data";s:30532:"<!DOCTYPE html>
                     <h5 class="mt-0">Soil Quality Assessment</h5>
                   </div>
                   <p class="mb-3">Our soil testing services help determine soil health and suitability for various applications.</p>
-                  <a class="btn-link text-black" href="#">Read More...</a>
+                  <a class="btn-link text-black" href="http://localhost/wil-kh-v2/soil_quality_test">Read More...</a>
                 </div>
               </div>
             </div>
@@ -389,7 +393,7 @@ a:3:{s:4:"time";i:1732385094;s:3:"ttl";i:1;s:4:"data";s:30532:"<!DOCTYPE html>
           </ul>
         </div>
         <!-- <img class="img-fluid me-3" src="images/sign.png" alt=""> -->
-        <a class="btn btn-theme" href="about-us.html"> <span>Learn More About Us</span>
+        <a class="btn btn-theme" href="http://localhost/wil-kh-v2/about_us"> <span>Learn More About Us</span>
         </a>
       </div>
     </div>
@@ -552,7 +556,7 @@ a:3:{s:4:"time";i:1732385094;s:3:"ttl";i:1;s:4:"data";s:30532:"<!DOCTYPE html>
               <a class="popup-img" href="images/client/img_18.2.jpg"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Water Quality</span>
-                <h4><a href="research-single.html">Microplastics in Drinking Water</a></h4>
+                <h4><a href="#">Microplastics in Drinking Water</a></h4>
               </div>
             </div>
           </div>
@@ -562,7 +566,7 @@ a:3:{s:4:"time";i:1732385094;s:3:"ttl";i:1;s:4:"data";s:30532:"<!DOCTYPE html>
               <a class="popup-img" href="images/client/img_18.2.jpg"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Food Safety</span>
-                <h4><a href="research-single.html">Pesticide Residue Analysis</a></h4>
+                <h4><a href="#">Pesticide Residue Analysis</a></h4>
               </div>
             </div>
           </div>
@@ -572,7 +576,7 @@ a:3:{s:4:"time";i:1732385094;s:3:"ttl";i:1;s:4:"data";s:30532:"<!DOCTYPE html>
               <a class="popup-img" href="images/client/img_18.2.jpg"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Soil Quality</span>
-                <h4><a href="research-single.html">Heavy Metal Contamination</a></h4>
+                <h4><a href="#">Heavy Metal Contamination</a></h4>
               </div>
             </div>
           </div>
@@ -582,7 +586,7 @@ a:3:{s:4:"time";i:1732385094;s:3:"ttl";i:1;s:4:"data";s:30532:"<!DOCTYPE html>
               <a class="popup-img" href="images/client/img_18.2.jpg"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Arsenic Research</span>
-                <h4><a href="research-single.html">Groundwater Arsenic Removal</a></h4>
+                <h4><a href="#">Groundwater Arsenic Removal</a></h4>
               </div>
             </div>
           </div>
@@ -592,7 +596,7 @@ a:3:{s:4:"time";i:1732385094;s:3:"ttl";i:1;s:4:"data";s:30532:"<!DOCTYPE html>
               <a class="popup-img" href="images/client/img_18.2.jpg"> <i class="las la-plus"></i>
               </a>
               <div class="cases-title"> <span>Environmental Safety</span>
-                <h4><a href="research-single.html">Industrial Waste Management</a></h4>
+                <h4><a href="#">Industrial Waste Management</a></h4>
               </div>
             </div>
           </div>
@@ -640,6 +644,8 @@ a:3:{s:4:"time";i:1732385094;s:3:"ttl";i:1;s:4:"data";s:30532:"<!DOCTYPE html>
                   <li><a href="http://localhost/wil-kh-v2/contact_us">Contact Us</a></li>
                   <li><a href="http://localhost/wil-kh-v2/our_team">Our Team</a></li>
                   <li><a href="http://localhost/wil-kh-v2/laboratory">Laboratory</a></li>
+                  <li><a href="http://localhost/wil-kh-v2/groundwater_survey">Groundwater Survey</a></li>
+                  <li><a href="http://localhost/wil-kh-v2/arsenic_research">Arsenic research</a></li>
                 </ul>
               </div>
             </div>
@@ -651,8 +657,8 @@ a:3:{s:4:"time";i:1732385094;s:3:"ttl";i:1;s:4:"data";s:30532:"<!DOCTYPE html>
                     <li><a href="http://localhost/wil-kh-v2/water_quality_test">Water quality testing </a></li>
                     <li><a href="http://localhost/wil-kh-v2/food_quality_test">Food quality testing</a></li>
                     <li><a href="http://localhost/wil-kh-v2/soil_quality_test">Soil quality testing</a></li>
-                    <li><a href="http://localhost/wil-kh-v2/risk_assessment">Environmental Risk Assessment</a></li>
                     <li><a href="http://localhost/wil-kh-v2/consultation">Research & Project consultation</a></li>
+                    <li><a href="http://localhost/wil-kh-v2/short_course_training">Short-course training</a></li>
                 </ul>
               </div>
             </div>

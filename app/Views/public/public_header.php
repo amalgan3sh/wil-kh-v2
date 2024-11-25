@@ -169,25 +169,31 @@
                     </li>
                     <li><a href="<?php echo base_url('/environmental_product') ?>">Environmental Technology</a>
                     </li>
-                    <li><a href="<?php echo base_url('/arsenic_research') ?>">Climate, Soils & Farms</a>
+                    <li><a href="<?php echo base_url('/climate_soil_and_farms') ?>">Climate, Soils & Farms</a>
                     </li>
                     <li><a href="<?php echo base_url('/short_course_training') ?>">Short-course training</a>
                     </li>
                   </ul>
                 </li>
 
-                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Service</a>
+                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Research</a>
                   <ul class="dropdown-menu">
+                    <li><a href="<?php echo base_url('/laboratory') ?>">Laboratory</a>
+                    </li>
                     <li><a href="<?php echo base_url('/water_quality_test') ?>">Water quality testing </a>
                     </li>
                     <li><a href="<?php echo base_url('/food_quality_test') ?>">Food quality testing</a>
                     </li>
                     <li><a href="<?php echo base_url('/soil_quality_test') ?>">Soil quality testing</a>
                     </li>
-                    <li><a href="<?php echo base_url('/risk_assessment') ?>">Environmental Risk Assessment</a>
+                    <li><a href="<?php echo base_url('/arsenic_research') ?>">Arsenic Research</a>
                     </li>
-                    <li><a href="<?php echo base_url('/consultation') ?>">Research & Project consultation</a>
+                    <li><a href="<?php echo base_url('/risk_assessment') ?>">Risk Assessment</a>
                     </li> 
+                    <li><a href="<?php echo base_url('/groundwater_survey') ?>">Groundwater Survey</a>
+                    </li>
+                    <li><a href="<?php echo base_url('/ongoing_projects') ?>">Ongoing Projects</a>
+                    </li>
                   </ul>
                 </li>
 
@@ -196,6 +202,8 @@
                     <li><a href="journal_article">Journal Article</a>
                     </li>
                     <li><a href="conference">Conference</a>
+                    </li>
+                    <li><a href="wil_newsletter">Newsletter</a>
                     </li>
                   </ul>
                 </li>
@@ -213,11 +221,7 @@
                     <li class="dropdown-submenu"><a class="dropdown-item" href="<?php echo base_url('/our_vision') ?>">Our Vision</a>
                       
                     </li>
-                    <li class="dropdown-submenu"><a class="dropdown-item" href="<?php echo base_url('/ongoing_projects') ?>">Ongoing Projects</a>
-                      
-                    </li>
-
-
+                    
                   </ul>
                 </li>
               </ul>

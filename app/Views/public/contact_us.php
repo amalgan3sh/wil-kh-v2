@@ -13,7 +13,7 @@
           <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="<?php echo base_url('/') ?>"><i class="las la-home me-1"></i>Home</a>
             </li>
-            <li class="breadcrumb-item">About
+            <li class="breadcrumb-item">About Us
             </li>
             <li class="breadcrumb-item active" aria-current="page">Contact Us</li>
           </ol>

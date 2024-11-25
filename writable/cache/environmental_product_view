@@ -1,0 +1,515 @@
+a:3:{s:4:"time";i:1732573646;s:3:"ttl";i:1;s:4:"data";s:23405:"<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<!-- meta tags -->
+<meta charset="utf-8">
+<meta name="keywords" content="bootstrap 5, premium, multipurpose, sass, scss, saas, rtl, Laboratory, medical" />
+<meta name="description" content="Laboratory & Science Research HTML5 Template" />
+<meta name="author" content="www.themeht.com" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+
+
+<!-- Title -->
+<title>Wil-Kh - Laboratory & Science Research</title>
+
+<!-- favicon icon -->
+<link rel="shortcut icon" href="images/favicon.ico" />
+
+<!-- inject css start -->
+
+<!--== bootstrap -->
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+
+<!--== fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Livvic:ital,wght@0,300;0,400;0,500;0,600;0,700;0,900;1,300;1,400;1,500;1,600;1,700;1,900&display=swap" rel="stylesheet"> 
+
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet"> 
+
+<!--== animate -->
+<link href="css/animate.css" rel="stylesheet" type="text/css" />
+
+<!--== line-awesome -->
+<link href="css/line-awesome.min.css" rel="stylesheet" type="text/css" />
+
+<!--== magnific-popup -->
+<link href="css/magnific-popup.css" rel="stylesheet" type="text/css" />
+
+<!--== owl.carousel -->
+<link href="css/owl.carousel.css" rel="stylesheet" type="text/css" />
+
+<!--== lightslider -->
+<link href="css/lightslider.min.css" rel="stylesheet" type="text/css" />
+
+<!--== base -->
+<link href="css/base.css" rel="stylesheet" type="text/css" />
+
+<!--== shortcodes -->
+<link href="css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!--== spacing -->
+<link href="css/spacing.css" rel="stylesheet" type="text/css" />
+
+<!--== style -->
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+
+<!-- inject css end -->
+
+</head>
+
+<body>
+
+<!-- page wrapper start -->
+
+<div class="page-wrapper">
+
+<!-- preloader start -->
+
+<div id="ht-preloader">
+  <div class="clear-loader d-flex align-items-center justify-content-center">
+    <div class="loader">
+     <span class="plus"></span>
+    <span class="plus"></span>
+    <span class="dot"></span>
+    <span class="dot"></span>
+    <span class="dot"></span>
+    <span class="dot"></span>
+    </div>
+  </div>
+</div>
+
+<!-- preloader end -->
+
+
+<!--header start-->
+
+<header id="site-header" class="header">
+  <div class="header-top light-bg">
+    <div class="container-fluid px-lg-8">
+      <div class="row">
+        <div class="col d-flex align-items-center justify-content-between">
+          <div class="topbar-link d-flex align-items-center text-black">
+          <div class="d-none d-sm-flex align-items-center me-3">
+            <div> <i class="las la-envelope"></i>
+            </div>
+            <div>Email: <a class="text-black" href="mailto:lab@wil-kh.com"> info@wil-kh.com </a>
+            </div>
+          </div>
+          <div class="d-none d-md-flex align-items-center me-3">
+            <div> <i class="las la-map-marker"></i>
+            </div>
+            <div>
+              <div>Location: Kampong Cham, Cambodia</div>
+            </div>
+          </div>
+          <div class="d-none d-lg-flex align-items-center">
+            <div> <i class="las la-business-time"></i>
+            </div>
+            <div>
+              <div>Mon-Sat: 8.00am To 6.00pm</div>
+            </div>
+          </div>
+
+          <div class="d-flex align-items-center"> <a class="btn btn-white btn-sm py-3" href="#"><span>Login</span></a>
+            <div class="social-icons d-none d-lg-inline-block ms-3">
+              <ul class="list-inline">
+                <li><a href="#"><i class="lab la-facebook-f"></i></a>
+                </li>
+                <li><a href="#"><i class="lab la-twitter"></i></a>
+                </li>
+                <li><a href="#"><i class="lab la-linkedin-in"></i></a>
+                </li>
+              </ul>
+            </div>
+            <div class="language-selection ms-3">
+              <div class="dropdown">
+                <button class="dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">English</button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                  <li><a class="dropdown-item" href="#">English</a>
+                  </li>
+                  <li><a class="dropdown-item" href="#">Arabic</a>
+                  </li>
+                  <li><a class="dropdown-item" href="#">French</a>
+                  </li>
+                  <li><a class="dropdown-item" href="#">Italian</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="header-wrap">
+    <div class="container-fluid px-lg-8">
+      <div class="row">
+        <div class="col">
+          <nav class="navbar navbar-expand-lg">
+            <a class="navbar-brand logo" href="http://localhost/wil-kh-v2/">
+              <img id="logo-img" class="img-fluid" src="images/logo_newest.png" alt="WIL-KH Logo">
+
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span></span>
+              <span></span>
+              <span></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+              <ul class="navbar-nav ms-auto me-auto position-relative">
+                <!-- Home -->
+                <li class="nav-item dropdown"> <a class="nav-link active" href="http://localhost/wil-kh-v2/">Home</a>
+                </li>
+                
+                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Development</a>
+                  <ul class="dropdown-menu">
+                    <li><a href="http://localhost/wil-kh-v2/water_product">Water Treatment Technology</a>
+                    </li>
+                    <li><a href="http://localhost/wil-kh-v2/food_product">Food Technology</a>
+                    </li>
+                    <li><a href="http://localhost/wil-kh-v2/environmental_product">Environmental Technology</a>
+                    </li>
+                    <li><a href="http://localhost/wil-kh-v2/climate_soil_and_farms">Climate, Soils & Farms</a>
+                    </li>
+                    <li><a href="http://localhost/wil-kh-v2/short_course_training">Short-course training</a>
+                    </li>
+                  </ul>
+                </li>
+
+                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Research</a>
+                  <ul class="dropdown-menu">
+                    <li><a href="http://localhost/wil-kh-v2/laboratory">Laboratory</a>
+                    </li>
+                    <li><a href="http://localhost/wil-kh-v2/water_quality_test">Water quality testing </a>
+                    </li>
+                    <li><a href="http://localhost/wil-kh-v2/food_quality_test">Food quality testing</a>
+                    </li>
+                    <li><a href="http://localhost/wil-kh-v2/soil_quality_test">Soil quality testing</a>
+                    </li>
+                    <li><a href="http://localhost/wil-kh-v2/risk_assessment">Environmental Risk Assessment</a>
+                    </li>
+                    <li><a href="http://localhost/wil-kh-v2/consultation">Research & Project consultation</a>
+                    </li> 
+                    <li><a href="http://localhost/wil-kh-v2/groundwater_survey">Groundwater Survey</a>
+                    </li>
+                    <li><a href="http://localhost/wil-kh-v2/ongoing_projects">Ongoing Projects</a>
+                    </li>
+                  </ul>
+                </li>
+
+                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Publications</a>
+                  <ul class="dropdown-menu">
+                    <li><a href="journal_article">Journal Article</a>
+                    </li>
+                    <li><a href="conference">Conference</a>
+                    </li>
+                    <li><a href="wil_newsletter">Newsletter</a>
+                    </li>
+                  </ul>
+                </li>
+                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">About Us</a>
+                  <ul class="dropdown-menu">
+                    <li class="dropdown-submenu"><a class="dropdown-item" href="http://localhost/wil-kh-v2/about_us">About Us</a>
+
+                    </li>
+                    <li class="dropdown-submenu"><a class="dropdown-item" href="http://localhost/wil-kh-v2/our_team">Team</a>
+
+                    </li>
+                    <li class="dropdown-submenu"><a class="dropdown-item" href="http://localhost/wil-kh-v2/contact_us">Contact Us</a>
+                      
+                    </li>
+                    <li class="dropdown-submenu"><a class="dropdown-item" href="http://localhost/wil-kh-v2/our_vision">Our Vision</a>
+                      
+                    </li>
+                    
+                  </ul>
+                </li>
+              </ul>
+              
+            </div>
+            
+            <div class="right-nav align-items-center d-flex justify-content-end">
+              
+              <div class="ms-sm-3 me-md-5">
+                <div class="cart">
+                  
+                </span>
+                  </a>
+                </div>
+              </div> <a class="btn btn-theme btn-sm d-none d-md-inline-block" href="http://localhost/wil-kh-v2/contact_us"><span>Appointment</span></a>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+<div class="search-input" id="search-input-box">
+  <div class="container ">
+    <form class="d-flex justify-content-between search-inner">
+      <input type="text" class="form-control" id="search-input" placeholder="Search Here">
+      <button type="submit" class="btn"></button> <span class="las la-times" id="close-search" title="Close Search"></span>
+    </form>
+  </div>
+</div>
+
+<!--header end--><!--page title start-->
+
+<section class="page-title parallaxie" data-bg-img="images/client/img_27.1.jpg">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6">
+        <div class="white-bg p-md-5 p-3 d-inline-block">
+        <h1 class="text-theme">Environmental <span class="text-black">Technology</span></h1>
+        <nav aria-label="breadcrumb" class="page-breadcrumb border-top border-light pt-3 mt-3">
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="http://localhost/wil-kh-v2/"><i class="las la-home me-1"></i>Home</a>
+            </li>
+            <li class="breadcrumb-item">Development
+            </li>
+            <li class="breadcrumb-item active" aria-current="page">Environmental Technology</li>
+          </ol>
+        </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--page title end-->
+
+
+<!--body content start-->
+
+<div class="page-content">
+
+<!--service details start-->
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-12 pe-lg-5">
+        <div class="service-details">
+          <img class="img-fluid w-100 mb-4" src="images/client/img_10.jpg" alt="">
+          <h3 class="mb-3">Leading the Way in Environmental Technology Research and Development </h3>
+          <p class="lead">Our team is committed to advancing environmental sustainability through innovative research and development of eco-friendly products. We leverage the latest technologies and scientific methods to create products that minimize environmental impact while maintaining high quality and efficiency.</p>
+          <p class="mb-5">Our approach involves comprehensive testing and validation to ensure that our products meet rigorous environmental standards. We collaborate with industry leaders and regulatory bodies to stay ahead of the curve in sustainable product development.</p>
+          <div class="shadow-sm p-md-5 p-3" data-bg-img="images/pattern/02.png">
+            <div class="row">
+              <div class="col-sm-6">
+                <ul class="list-unstyled list-icon">
+                  <li class="mb-3"><i class="las la-check"></i> Sustainable Materials</li>
+                  <li class="mb-3"><i class="las la-check"></i> Innovative Design</li>
+                  <li><i class="las la-check"></i> Comprehensive Testing</li>
+                </ul>
+              </div>
+              <div class="col-sm-6 mt-3 mt-sm-0">
+                <ul class="list-unstyled list-icon">
+                  <li class="mb-3"><i class="las la-check"></i> Regulatory Compliance</li>
+                  <li class="mb-3"><i class="las la-check"></i> Expert Team</li>
+                  <li><i class="las la-check"></i> Consumer Safety</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <p class="my-5">Our mission is to drive environmental innovation and create products that benefit both our clients and the planet. We are dedicated to continuous improvement and staying at the forefront of environmental research.</p>
+          <div class="row g-0 mb-5">
+            <div class="col-md-6">
+              <div class="featured-item py-0 text-center shadow-none style-2">
+                <div class="featured-icon"> <i class="flaticon-eco"></i>
+                </div>
+                <div class="featured-desc">
+                  <div class="featured-title">
+                    <h5>Eco-friendly Solutions</h5>
+                  </div>
+                  <p>Our team develops innovative solutions that promote environmental sustainability.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 mt-5 mt-md-0">
+              <div class="featured-item py-0 text-center shadow-none style-2">
+                <div class="featured-icon"> <i class="flaticon-research"></i>
+                </div>
+                <div class="featured-desc">
+                  <div class="featured-title">
+                    <h5>Advanced Research</h5>
+                  </div>
+                  <p>We employ cutting-edge research techniques to ensure our products are at the forefront of innovation.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="accordion" id="accordion">
+            <div class="accordion-item mb-4">
+              <h2 class="accordion-header" id="headingOne">
+      <button class="accordion-button rounded-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+         What types of environmental samples can be tested? 
+      </button>
+    </h2>
+              <div id="collapseOne" class="accordion-collapse border-0 collapse show" aria-labelledby="headingOne" data-bs-parent="#accordion">
+                <div class="accordion-body">We test water, wastewater, sewage, soil, sediment, sludge to protect our environment and public health. </div>
+              </div>
+            </div>
+            <div class="accordion-item mb-4">
+              <h2 class="accordion-header" id="headingTwo">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        Can I collaborate on research projects with WIL? 
+      </button>
+    </h2>
+              <div id="collapseTwo" class="accordion-collapse border-0 collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion">
+                <div class="accordion-body">Yes! We welcome collaborations with academic institutions, government agencies, and private 
+                  companies. Please email us at <a href="mailto:research@wil-kh.com" style="text-decoration: none; color: blue;">research@wil-kh.com</a> to discuss your project.</div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingThree">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+        How do I submit a sample for testing? 
+      </button>
+    </h2>
+              <div id="collapseThree" class="accordion-collapse border-0 collapse" aria-labelledby="headingThree" data-bs-parent="#accordion">
+                <div class="accordion-body">Samples must be collected following specific guidelines depending on the parameters to be tested. 
+                  Contact lab@wil-kh.com for details on sampling methods, parameters, and prices. </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-12 sidebar mt-6 mt-lg-0">
+        <div class="widget p-4 mb-5 light-bg">
+          <div class="sidebar-links">
+            <ul class="list-unstyled">
+              <li><a href="water_product">Water Product Development</a>
+              </li>
+              <li><a href="food_product">Food Product Development</a>
+              </li>
+              <li class="active"><a href="environmental_product">Environmental Product Research</a>
+              </li>
+              <li><a href="consultation">Consultation</a>
+              </li>
+              <li><a href="short_course_training">Training</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="widget p-4 light-bg">
+          <h4>Need Help?</h4>
+          <p>Contact us through our representative or submit a business inquiry online.</p> <a class="btn btn-theme btn-sm" href="contact.html"><span>Contact Us</span></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--service details end-->
+
+</div>
+
+<!--body content end-->
+<!--footer start-->
+
+<footer class="footer light-bg">
+  <div class="primary-footer">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-lg-4 col-12 white-bg p-4 p-md-6">
+          <a class="footer-logo" href="http://localhost/wil-kh-v2/">
+            <img id="footer-logo" class="img-fluid" src="images/logo_new.png" alt="logo" >
+          </a><br><br>
+          <p class="my-4">Water Innovation Lab is dedicated to provide an excellent service in research, development and innovation in water, environment and foods
+</p>
+          <div class="social-icons social-colored footer-social">
+            <ul class="list-inline">
+              <li><a href="http://localhost/wil-kh-v2/contact_us"><i class="lab la-facebook-f"></i></a></li>
+              <li><a href="http://localhost/wil-kh-v2/contact_us"><i class="lab la-twitter"></i></a></li>
+              <li><a href="http://localhost/wil-kh-v2/contact_us"><i class="lab la-instagram"></i></a></li>
+              <li><a href="http://localhost/wil-kh-v2/contact_us"><i class="lab la-dribbble"></i></a></li>
+              <li><a href="http://localhost/wil-kh-v2/contact_us"><i class="lab la-linkedin-in"></i></a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-lg-8 col-12 p-4 p-md-6">
+          <div class="row">
+            <div class="col-md-3 col-sm-6 col-12">
+              <h4 class="mb-4">Quick Links</h4>
+              <div class="footer-list">
+                <ul class="list-unstyled">
+                  <li><a href="http://localhost/wil-kh-v2/about_us">About Us</a></li>
+                  <li><a href="http://localhost/wil-kh-v2/contact_us">Contact Us</a></li>
+                  <li><a href="http://localhost/wil-kh-v2/our_team">Our Team</a></li>
+                  <li><a href="http://localhost/wil-kh-v2/laboratory">Laboratory</a></li>
+                  <li><a href="http://localhost/wil-kh-v2/groundwater_survey">Groundwater Survey</a></li>
+                  <li><a href="http://localhost/wil-kh-v2/arsenic_research">Arsenic research</a></li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="col-md-4 col-sm-6 col-12 mt-6 mt-sm-0">
+              <h4 class="mb-4">Service</h4>
+              <div class="footer-list">
+                <ul class="list-unstyled">
+                    <li><a href="http://localhost/wil-kh-v2/water_quality_test">Water quality testing </a></li>
+                    <li><a href="http://localhost/wil-kh-v2/food_quality_test">Food quality testing</a></li>
+                    <li><a href="http://localhost/wil-kh-v2/soil_quality_test">Soil quality testing</a></li>
+                    <li><a href="http://localhost/wil-kh-v2/consultation">Research & Project consultation</a></li>
+                    <li><a href="http://localhost/wil-kh-v2/short_course_training">Short-course training</a></li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="col-md-5 col-12 mt-6 mt-md-0">
+              <h4 class="mb-4">Get In Touch</h4>
+              <div class="footer-cntct my-4">
+                <ul class="media-icon list-unstyled">
+                  <li><i class="flaticon-hospital"></i>
+                    <p class="mb-0">National Road 7, Ampil Krom Village, Ampil Commune, Kampong Siem District, Kampong Cham, Cambodia</p>
+                  </li>
+                  <li><i class="flaticon-medical-report"></i>  <a href="mailto:lab@wil-kh.com">lab@wil-kh.com </a></li>
+                  <li><i class="flaticon-medical-assistance"></i>  <a href="tel:+85512345678">+855-16-668 900</a></li>
+                  <li><i class="flaticon-working-hours"></i>
+                    <p class="mb-0">Mon-Sat: 8:00am to 12:00pm; 1:00pm to 5:00pm<br>Note: Saturday does not accept E. coli & Total Coliforms testing</p>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col">
+              <div class="copyright p-4 white-bg mt-5 ms-md-n6">Copyright © 2024 All rights reserved | Wil-Kh Powered by <i class="lar la-heart text-theme heartBeat2"></i>  <u><a href="https://www.spyderhub.com">Spyderhub</a></u></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!--footer end-->
+
+</div>
+
+<!-- page wrapper end -->
+
+<!--back-to-top start-->
+
+<div class="scroll-top"><a class="smoothscroll" href="#top"><i class="las la-location-arrow"></i></a></div>
+
+<!--back-to-top end-->
+
+<!-- inject js start -->
+
+<!--== jquery -->
+<script src="js/theme.js"></script>
+
+<!--== theme-plugin -->
+<script src="js/theme-plugin.js"></script>
+
+<!--== theme-script -->
+<script src="js/theme-script.js"></script>
+
+<!-- inject js end -->
+
+</body>
+
+</html>
+";}

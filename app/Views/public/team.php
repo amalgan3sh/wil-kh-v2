@@ -39,7 +39,7 @@
       <div class="col-lg-5 col-md-12">
         <div class="team-member team-single shadow-sm">
           <div class="team-images">
-            <img class="img-fluid w-100" src="images/team/img_1.1.png" alt="">
+            <img class="img-fluid w-100" src="images/team/img_1.1.png" alt="team_MD">
           </div>
           <div class="team-cntct white-bg p-4">
             <ul class="list-unstyled">
@@ -65,13 +65,10 @@
         <div class="team-description">
           <h5 class="text-theme">Managing Director</h5>
           <h2 class="title mb-2"> Samrach Phan </h2> 
-          <p class="lead my-3 text-black">Dr. Samrach Phan is an environmental scientist with expertise in water quality and public health, dedicated 
-            to addressing arsenic contamination challenges, particularly in Southeast Asia. With a strong focus on groundwater safety, Dr. Phan’s 
-            research plays a crucial role in understanding the health risks associated with arsenic exposure and developing solutions to safeguard 
-            vulnerable communities. </p>
-          <p class="mb-4">His contributions to environmental science are widely recognized, from publishing influential studies to 
-            collaborating with public health organizations on effective water management strategies. Dr. Phan’s work is integral to advancing water 
-            safety standards and improving health outcomes for populations relying on groundwater sources.</p>
+          <p class="lead my-3 text-black">Mr. Samrach Phan is a Chemist with expertise in water quality and environmental health, dedicated 
+            to addressing safe drinking water challenges, particularly in rural Cambodia. With a strong focus on groundwater safety, 
+            Mr. Phan’s research plays a crucial role in understanding the health risks associated with arsenic exposure and developing solutions 
+            to safeguard vulnerable communities. </p><br>
             <ul class="list-unstyled list-icon">
               <li class="mb-3"><i class="las la-check"></i> Water and food quality analysis & monitoring.</li>
               <li class="mb-3"><i class="las la-check"></i> Drinking water treatment technology.</li>

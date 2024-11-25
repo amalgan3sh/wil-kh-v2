@@ -32,7 +32,8 @@
       <div class="col-lg-7 col-12 mt-6 mt-lg-0">
         <div class="section-title">
           <h2 class="title">Vision</h2>
-          <li>Water Innovation Lab is dedicated to provide an excellent service in research, development and <br> &nbsp&nbsp&nbsp&nbsp innovation in water, environment and foods</li>
+          Water Innovation Lab is dedicated to provide an excellent service in research, development and <br>
+           innovation in water, environment and foods.</li>
         </div>
         <div class="section-title">
           <h2 class="title">Mission</h2>
@@ -66,7 +67,7 @@
                   <div class="featured-title">
                     <h5 class="mt-0">Laboratory Services</h5>
                   </div>
-                  <p class="mb-3">Providing comprehensive water, food, and soil quality analysis.</p> <a class="btn-link text-black" href="#">Read More...</a>
+                  <p class="mb-3">Providing comprehensive water, food, and soil quality analysis.</p>
                 </div>
               </div>
             </div>
@@ -77,7 +78,7 @@
                   <div class="featured-title">
                     <h5 class="mt-0">Research and Development</h5>
                   </div>
-                  <p class="mb-3">Innovative solutions for water, environment, and food sectors.</p> <a class="btn-link text-black" href="#">Read More...</a>
+                  <p class="mb-3">Innovative solutions for water, environment, and food sectors.</p>
                 </div>
               </div>
             </div>
@@ -88,7 +89,7 @@
                   <div class="featured-title">
                     <h5 class="mt-0">Training and Education</h5>
                   </div>
-                  <p class="mb-3">Engaging young researchers and students in scientific training.</p> <a class="btn-link text-black" href="#">Read More...</a>
+                  <p class="mb-3">Engaging young researchers and students in scientific training.</p>
                 </div>
               </div>
             </div>

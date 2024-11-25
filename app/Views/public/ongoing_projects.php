@@ -8,7 +8,7 @@
           <nav aria-label="breadcrumb" class="page-breadcrumb border-top border-light pt-3 mt-3">
             <ol class="breadcrumb">
               <li class="breadcrumb-item"><a href="<?php echo base_url('/') ?>"><i class="las la-home me-1"></i>Home</a></li>
-              <li class="breadcrumb-item">About</li>
+              <li class="breadcrumb-item">Research</li>
               <li class="breadcrumb-item active" aria-current="page">Ongoing Projects</li>
             </ol>
           </nav>
@@ -40,6 +40,11 @@
           <li>Zero-Waste Initiatives: Essential Oils from Food Waste.</li><br>
           <li>Risk Assessments for Water Sources in Cambodia.</li><br>
         </div>
+        <p>
+    We are always open to ideas from prospective collaborators. Email us 
+    <a href="mailto:research@wil-kh.com" style="text-decoration: none; color: blue;">research@wil-kh.com</a> 
+    for more details.
+</p>
       </div>
     </div>
   </div>
@@ -60,7 +65,7 @@
                   <div class="featured-title">
                     <h5 class="mt-0">Laboratory Services</h5>
                   </div>
-                  <p class="mb-3">Providing comprehensive water, food, and soil quality analysis.</p> <a class="btn-link text-black" href="#">Read More...</a>
+                  <p class="mb-3">Providing comprehensive water, food, and soil quality analysis.</p> 
                 </div>
               </div>
             </div>
@@ -71,7 +76,7 @@
                   <div class="featured-title">
                     <h5 class="mt-0">Research and Development</h5>
                   </div>
-                  <p class="mb-3">Innovative solutions for water, environment, and food sectors.</p> <a class="btn-link text-black" href="#">Read More...</a>
+                  <p class="mb-3">Innovative solutions for water, environment, and food sectors.</p> 
                 </div>
               </div>
             </div>
@@ -82,7 +87,7 @@
                   <div class="featured-title">
                     <h5 class="mt-0">Training and Education</h5>
                   </div>
-                  <p class="mb-3">Engaging young researchers and students in scientific training.</p> <a class="btn-link text-black" href="#">Read More...</a>
+                  <p class="mb-3">Engaging young researchers and students in scientific training.</p> 
                 </div>
               </div>
             </div>

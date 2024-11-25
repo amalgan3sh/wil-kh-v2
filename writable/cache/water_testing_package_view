@@ -1,4 +1,4 @@
-a:3:{s:4:"time";i:1732384277;s:3:"ttl";i:1;s:4:"data";s:26274:"<!DOCTYPE html>
+a:3:{s:4:"time";i:1732570450;s:3:"ttl";i:1;s:4:"data";s:26807:"<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -169,15 +169,19 @@ a:3:{s:4:"time";i:1732384277;s:3:"ttl";i:1;s:4:"data";s:26274:"<!DOCTYPE html>
                     </li>
                     <li><a href="http://localhost/wil-kh-v2/environmental_product">Environmental Technology</a>
                     </li>
-                    <li><a href="http://localhost/wil-kh-v2/arsenic_research">Climate, Soils & Farms</a>
+                    <li><a href="http://localhost/wil-kh-v2/climate_soil_and_farms">Climate, Soils & Farms</a>
                     </li>
                     <li><a href="http://localhost/wil-kh-v2/short_course_training">Short-course training</a>
+                    </li>
+                    <li><a href="http://localhost/wil-kh-v2/ongoing_projects">Ongoing Projects</a>
                     </li>
                   </ul>
                 </li>
 
                 <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Service</a>
                   <ul class="dropdown-menu">
+                    <li><a href="http://localhost/wil-kh-v2/laboratory">Laboratory</a>
+                    </li>
                     <li><a href="http://localhost/wil-kh-v2/water_quality_test">Water quality testing </a>
                     </li>
                     <li><a href="http://localhost/wil-kh-v2/food_quality_test">Food quality testing</a>
@@ -188,6 +192,8 @@ a:3:{s:4:"time";i:1732384277;s:3:"ttl";i:1;s:4:"data";s:26274:"<!DOCTYPE html>
                     </li>
                     <li><a href="http://localhost/wil-kh-v2/consultation">Research & Project consultation</a>
                     </li> 
+                    <li><a href="http://localhost/wil-kh-v2/groundwater_survey">Groundwater Survey</a>
+                  </li>
                   </ul>
                 </li>
 
@@ -196,6 +202,8 @@ a:3:{s:4:"time";i:1732384277;s:3:"ttl";i:1;s:4:"data";s:26274:"<!DOCTYPE html>
                     <li><a href="journal_article">Journal Article</a>
                     </li>
                     <li><a href="conference">Conference</a>
+                    </li>
+                    <li><a href="wil_newsletter">Newsletter</a>
                     </li>
                   </ul>
                 </li>
@@ -213,11 +221,7 @@ a:3:{s:4:"time";i:1732384277;s:3:"ttl";i:1;s:4:"data";s:26274:"<!DOCTYPE html>
                     <li class="dropdown-submenu"><a class="dropdown-item" href="http://localhost/wil-kh-v2/our_vision">Our Vision</a>
                       
                     </li>
-                    <li class="dropdown-submenu"><a class="dropdown-item" href="http://localhost/wil-kh-v2/ongoing_projects">Ongoing Projects</a>
-                      
-                    </li>
-
-
+                    
                   </ul>
                 </li>
               </ul>
@@ -232,7 +236,7 @@ a:3:{s:4:"time";i:1732384277;s:3:"ttl";i:1;s:4:"data";s:26274:"<!DOCTYPE html>
                 </span>
                   </a>
                 </div>
-              </div> <a class="btn btn-theme btn-sm d-none d-md-inline-block" href="#"><span>Appointment</span></a>
+              </div> <a class="btn btn-theme btn-sm d-none d-md-inline-block" href="http://localhost/wil-kh-v2/contact_us"><span>Appointment</span></a>
             </div>
           </nav>
         </div>
@@ -523,6 +527,8 @@ a:3:{s:4:"time";i:1732384277;s:3:"ttl";i:1;s:4:"data";s:26274:"<!DOCTYPE html>
                   <li><a href="http://localhost/wil-kh-v2/contact_us">Contact Us</a></li>
                   <li><a href="http://localhost/wil-kh-v2/our_team">Our Team</a></li>
                   <li><a href="http://localhost/wil-kh-v2/laboratory">Laboratory</a></li>
+                  <li><a href="http://localhost/wil-kh-v2/groundwater_survey">Groundwater Survey</a></li>
+                  <li><a href="http://localhost/wil-kh-v2/arsenic_research">Arsenic research</a></li>
                 </ul>
               </div>
             </div>
@@ -534,8 +540,8 @@ a:3:{s:4:"time";i:1732384277;s:3:"ttl";i:1;s:4:"data";s:26274:"<!DOCTYPE html>
                     <li><a href="http://localhost/wil-kh-v2/water_quality_test">Water quality testing </a></li>
                     <li><a href="http://localhost/wil-kh-v2/food_quality_test">Food quality testing</a></li>
                     <li><a href="http://localhost/wil-kh-v2/soil_quality_test">Soil quality testing</a></li>
-                    <li><a href="http://localhost/wil-kh-v2/risk_assessment">Environmental Risk Assessment</a></li>
                     <li><a href="http://localhost/wil-kh-v2/consultation">Research & Project consultation</a></li>
+                    <li><a href="http://localhost/wil-kh-v2/short_course_training">Short-course training</a></li>
                 </ul>
               </div>
             </div>

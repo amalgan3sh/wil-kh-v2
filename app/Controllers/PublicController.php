@@ -39,7 +39,7 @@ class PublicController extends BaseController
 
     public function Team(): string
     {
-        return $this->renderView('about_us_view', [
+        return $this->renderView('team_view', [
             'public/public_header',
             'public/team',
             'public/public_footer',
@@ -48,7 +48,7 @@ class PublicController extends BaseController
 
     public function ContactUs(): string
     {
-        return $this->renderView('about_us_view', [
+        return $this->renderView('contact_us_view', [
             'public/public_header',
             'public/contact_us',
             'public/public_footer',
@@ -66,7 +66,7 @@ class PublicController extends BaseController
 
     public function WaterProduct(): string
     {
-        return $this->renderView('about_us_view', [
+        return $this->renderView('water_product_view', [
             'public/public_header',
             'public/water_product',
             'public/public_footer',
@@ -75,7 +75,7 @@ class PublicController extends BaseController
 
     public function FoodProduct(): string
     {
-        return $this->renderView('about_us_view', [
+        return $this->renderView('food_product_view', [
             'public/public_header',
             'public/food_product',
             'public/public_footer',
@@ -84,25 +84,25 @@ class PublicController extends BaseController
 
     public function EnvironmentalProduct(): string
     {
-        return $this->renderView('about_us_view', [
+        return $this->renderView('environmental_product_view', [
             'public/public_header',
             'public/environmental_product',
             'public/public_footer',
         ]);
     }
 
-    public function Consultation(): string
+    public function ArsenicResearch(): string
     {
-        return $this->renderView('about_us_view', [
+        return $this->renderView('arsenic_research_view', [
             'public/public_header',
-            'public/consultation',
+            'public/arsenic_research',
             'public/public_footer',
         ]);
     }
 
     public function ShortCourseTraining(): string
     {
-        return $this->renderView('about_us_view', [
+        return $this->renderView('short_course_training_view', [
             'public/public_header',
             'public/short_course_training',
             'public/public_footer',
@@ -111,7 +111,7 @@ class PublicController extends BaseController
 
     public function Laboratory(): string
     {
-        return $this->renderView('about_us_view', [
+        return $this->renderView('laboratory_view', [
             'public/public_header',
             'public/laboratory',
             'public/public_footer',
@@ -119,7 +119,7 @@ class PublicController extends BaseController
     }
     public function WaterQualityTest(): string
     {
-        return $this->renderView('about_us_view', [
+        return $this->renderView('water_quality_test_view', [
             'public/public_header',
             'public/water_quality_test',
             'public/public_footer',
@@ -127,7 +127,7 @@ class PublicController extends BaseController
     }
     public function FoodQualityTest(): string
     {
-        return $this->renderView('about_us_view', [
+        return $this->renderView('food_quality_test_view', [
             'public/public_header',
             'public/food_quality_test',
             'public/public_footer',
@@ -136,25 +136,25 @@ class PublicController extends BaseController
 
     public function SoilQualityTest(): string
     {
-        return $this->renderView('about_us_view', [
+        return $this->renderView('soil_quality_test_view', [
             'public/public_header',
             'public/soil_quality_test',
             'public/public_footer',
         ]);
     }
 
-    public function ArsenicResearch(): string
+    public function ClimateSoilAndFarms(): string
     {
-        return $this->renderView('about_us_view', [
+        return $this->renderView('climate_soil_and_farms_view', [
             'public/public_header',
-            'public/arsenic_research',
+            'public/climate_soil_and_farms',
             'public/public_footer',
         ]);
     }
 
     public function RiskAssessment(): string
     {
-        return $this->renderView('about_us_view', [
+        return $this->renderView('risk_assessment_view', [
             'public/public_header',
             'public/risk_assessment',
             'public/public_footer',
@@ -163,7 +163,7 @@ class PublicController extends BaseController
     
     public function JournalArticle(): string
     {
-        return $this->renderView('about_us_view', [
+        return $this->renderView('journal_article_view', [
             'public/public_header',
             'public/journal_article',
             'public/public_footer',
@@ -172,7 +172,7 @@ class PublicController extends BaseController
 
     public function Conference(): string
     {
-        return $this->renderView('about_us_view', [
+        return $this->renderView('conference_view', [
             'public/public_header',
             'public/conference',
             'public/public_footer',
@@ -181,7 +181,7 @@ class PublicController extends BaseController
 
     public function WILNewsletter(): string
     {
-        return $this->renderView('about_us_view', [
+        return $this->renderView('wil_newsletter_view', [
             'public/public_header',
             'public/wil_newsletter',
             'public/public_footer',
@@ -197,11 +197,56 @@ class PublicController extends BaseController
         ]);
     }
 
-    public function WaterTestingPackage(): string
+    public function DrinkingWaterTestingPackage(): string
     {
-        return $this->renderView('water_testing_package_view', [
+        return $this->renderView('drinking_water_testing_package_view', [
             'public/public_header',
-            'public/water_testing_package',
+            'public/drinking_water_testing_package',
+            'public/public_footer',
+        ]);
+    }
+
+    public function WastewaterTestInformation(): string
+    {
+        return $this->renderView('wastewater_test_information_view', [
+            'public/public_header',
+            'public/wastewater_test_information',
+            'public/public_footer',
+        ]);
+    }
+
+    public function SwimmingPoolWaterTest(): string
+    {
+        return $this->renderView('swimming_pool_water_test_view', [
+            'public/public_header',
+            'public/swimming_pool_water_test',
+            'public/public_footer',
+        ]);
+    }
+
+    public function IndustrialWaterTest(): string
+    {
+        return $this->renderView('industrial_water_testing_view', [
+            'public/public_header',
+            'public/industrial_water_testing',
+            'public/public_footer',
+        ]);
+    }
+
+    public function IrrigationWaterTest(): string
+    {
+        return $this->renderView('irrigation_water_test_view', [
+            'public/public_header',
+            'public/irrigation_water_test',
+            'public/public_footer',
+        ]);
+    }
+
+    public function AllWaterTestInformation(): string
+    {
+        return $this->renderView('all_water_test_information_view', [
+            'public/public_header',
+            'public/all_water_test_information',
             'public/public_footer',
         ]);
     }
@@ -211,6 +256,24 @@ class PublicController extends BaseController
         return $this->renderView('soil_testing_package_view', [
             'public/public_header',
             'public/soil_testing_package',
+            'public/public_footer',
+        ]);
+    }
+
+    public function GroundwaterSurvey(): string
+    {
+        return $this->renderView('groundwater_survey_view', [
+            'public/public_header',
+            'public/groundwater_survey',
+            'public/public_footer',
+        ]);
+    }
+
+    public function FoodQualityTestingPackage(): string
+    {
+        return $this->renderView('food_quality_testing_package_view', [
+            'public/public_header',
+            'public/food_quality_testing_package',
             'public/public_footer',
         ]);
     }

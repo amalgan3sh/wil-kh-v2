@@ -47,11 +47,12 @@
                       sustainability.</p>
           <div class="light-bg p-3">
             <ul class="list-unstyled">
-              <li class="mb-3"><span class="text-black font-w-5">Project name:</span> WIL-KH Lab</li>
-              <li class="mb-3"><span class="text-black font-w-5">Category:</span> Laboratory Research</li>
-              <li class="mb-3"><span class="text-black font-w-5">Research Name:</span> Advanced Chemical Analysis</li>
-              <li class="mb-3"><span class="text-black font-w-5">Research Year:</span> 2024</li>
-              <li><span class="text-black font-w-5">Client:</span> <a href="https://www.wil-kh.com/">WIL-KH</a>
+              <li class="mb-3"><span class="text-black font-w-5"><h4> Laboratory Information</h4></span></li>
+              <li class="mb-3"><span class="text-black font-w-5">Phone: </span> +855-16-668 900</li>
+              <li class="mb-3"><span class="text-black font-w-5">Email: </span> lab@wil-kh.com</li>
+              <li class="mb-3"><span class="text-black font-w-5">Laboratory office hours:</span> Monday to Saturday</li>
+              <li class="mb-3"><span class="text-black font-w-5"></span> &nbsp&nbsp&nbsp&nbsp&nbsp 8:00am to 12:00pm  </li>
+              <li class="mb-3"><span class="text-black font-w-5"></span> &nbsp&nbsp&nbsp&nbsp&nbsp 1:00pm to 5:00pm </li>
               </li>
             </ul>
           </div>

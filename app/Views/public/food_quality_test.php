@@ -10,7 +10,7 @@
           <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="index.html"><i class="las la-home me-1"></i>Home</a>
             </li>
-            <li class="breadcrumb-item">Services
+            <li class="breadcrumb-item">Research
             </li>
             <li class="breadcrumb-item active" aria-current="page">Food Quality Testing</li>
           </ol>
@@ -39,16 +39,17 @@
       </div>
       <div class="col-lg-7 col-12 mt-5 mt-lg-0 ps-lg-5">
         <div>
-          <h3 class="mb-3">Food Quality Testing Overview</h3>
+          <h3 class="mb-3">Food Quality Testing</h3>
           <p class="lead mb-4">Our food safety testing services protect communities from foodborne illnesses by analyzing 
             microbial pathogens, chemical residues, and other contaminants. </p>
           <div class="light-bg p-3">
             <ul class="list-unstyled">
-              <li class="mb-3"><span class="text-black font-w-5">Service:</span> Food Quality Testing</li>
-              <li class="mb-3"><span class="text-black font-w-5">Category:</span> Food Safety Analysis</li>
-              <li class="mb-3"><span class="text-black font-w-5">Testing Parameters:</span> Microbiological, Chemical, Nutritional</li>
-              <li class="mb-3"><span class="text-black font-w-5">Established:</span> 2024</li>
-              <li><span class="text-black font-w-5">Company:</span> <a href="https://www.wil-kh.com/">WIL-KH</a>
+              <li class="mb-3"><span class="text-black font-w-5"><h4> Laboratory Information</h4></span></li>
+              <li class="mb-3"><span class="text-black font-w-5">Phone: </span> +855-16-668 900</li>
+              <li class="mb-3"><span class="text-black font-w-5">Email: </span> lab@wil-kh.com</li>
+              <li class="mb-3"><span class="text-black font-w-5">Laboratory office hours:</span> Monday to Saturday</li>
+              <li class="mb-3"><span class="text-black font-w-5"></span> &nbsp&nbsp&nbsp&nbsp&nbsp 8:00am to 12:00pm  </li>
+              <li class="mb-3"><span class="text-black font-w-5"></span> &nbsp&nbsp&nbsp&nbsp&nbsp 1:00pm to 5:00pm </li>
               </li>
             </ul>
           </div>
@@ -58,43 +59,6 @@
     <div>
       <h3 class="mb-3">Our Process</h3>
       <p class="mb-5"> WIL Laboratory can conduct food quality testing for organizations, companies, and individuals throughout Cambodia.</p>
-      <div class="border-top border-start border-light">
-        <div class="row g-0">
-          <div class="col-lg-4">
-            <div class="featured-item shadow-none d-flex align-items-start style-2 border-end border-light border-bottom">
-              <div class="h5 text-theme me-3">01</div>
-              <div class="featured-desc">
-                <div class="featured-title">
-                  <h5 class="mt-0">Sample Collection</h5>
-                </div>
-                <p>We employ proper sampling techniques to ensure representative and uncontaminated food samples.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4">
-            <div class="featured-item shadow-none d-flex align-items-start style-2 border-end border-light border-bottom">
-              <div class="h5 text-theme me-3">02</div>
-              <div class="featured-desc">
-                <div class="featured-title">
-                  <h5 class="mt-0">Advanced Analysis</h5>
-                </div>
-                <p>Our laboratory utilizes cutting-edge equipment to analyze samples for various contaminants, nutrients, and quality indicators.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4">
-            <div class="featured-item shadow-none d-flex align-items-start style-2 border-end border-light border-bottom">
-              <div class="h5 text-theme me-3">03</div>
-              <div class="featured-desc">
-                <div class="featured-title">
-                  <h5 class="mt-0">Comprehensive Reporting</h5>
-                </div>
-                <p>We provide detailed reports with clear interpretations and recommendations based on the test results.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
     </div>
   </div>
 </section>
@@ -117,12 +81,18 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col">
+          <center><h5 class="mt-0"><a href="<?php echo base_url('/food_quality_testing_package') ?>">👉🏻 Testing Foods? Click here to know more about the Food Quality Testing Packages and Price List👈🏻</a></center>
+          <p style="text-align: justify;">
+          <div class="col-lg-12 col-12 mt-5 mt-lg-0 ps-lg-5">
+            Parameters, analysis methods, and price list the WIL Laboratory has the capacity to test a variety of food quality 
+            parameters. Email us 
+            <a href="mailto:lab@wilkh.com" style="text-decoration: none; color: blue;">lab@wilkh.com</a>
+              for a complete list of <br>parameters and prices. </h5></p>
+          </div>
         <div class="owl-carousel no-pb popup-gallery" data-dots="false" data-items="5" data-md-items="3" data-sm-items="2" data-xs-items="1" data-margin="10">
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
               <img class="img-fluid w-100" src="images/client/img_9_new.jpg" alt="food_test">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
-              </a>
               <div class="cases-title"> <span>Food Testing</span>
                 <h4><a href="#">Food Microbial Testing</a></h4>
               </div>
@@ -131,8 +101,6 @@
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
               <img class="img-fluid w-100" src="images/client/img_9_new.jpg" alt="food_test">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
-              </a>
               <div class="cases-title"> <span>Food Testing</span>
                 <h4><a href="#">Food Chemical Analysis</a></h4>
               </div>
@@ -141,8 +109,6 @@
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
               <img class="img-fluid w-100" src="images/client/img_9_new.jpg" alt="food_test">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
-              </a>
               <div class="cases-title"> <span>Food Testing</span>
                 <h4><a href="#">Food Product Development</a></h4>
               </div>
@@ -151,8 +117,6 @@
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
               <img class="img-fluid w-100" src="images/client/img_9_new.jpg" alt="food_test">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
-              </a>
               <div class="cases-title"> <span>Food Testing</span>
                 <h4><a href="#">Nutrition Analysis</a></h4>
               </div>
@@ -161,8 +125,6 @@
           <div class="item">
             <div class="cases-item position-relative overflow-hidden">
               <img class="img-fluid w-100" src="images/client/img_9_new.jpg" alt="food_test">
-              <a class="popup-img" href="https://images.pexels.com/photos/3912365/pexels-photo-3912365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> <i class="las la-plus"></i>
-              </a>
               <div class="cases-title"> <span>Food Testing</span>
                 <h4><a href="#">Food Selflife Analysis</a></h4>
               </div>

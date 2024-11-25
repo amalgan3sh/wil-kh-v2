@@ -5,14 +5,14 @@
     <div class="row">
       <div class="col-lg-6">
         <div class="white-bg p-md-5 p-3 d-inline-block">
-        <h1 class="text-theme">Food Product <span class="text-black">Development</span></h1>
+        <h1 class="text-theme">Food <span class="text-black">Technology</span></h1>
         <nav aria-label="breadcrumb" class="page-breadcrumb border-top border-light pt-3 mt-3">
           <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="<?php echo base_url('/') ?>"><i class="las la-home me-1"></i>Home</a>
             </li>
             <li class="breadcrumb-item">Development
             </li>
-            <li class="breadcrumb-item active" aria-current="page">Food Product Development</li>
+            <li class="breadcrumb-item active" aria-current="page">Food Technology</li>
           </ol>
         </nav>
         </div>
@@ -36,7 +36,7 @@
       <div class="col-lg-8 col-md-12 pe-lg-5">
         <div class="service-details">
           <img class="img-fluid w-100 mb-4" src="images/client/img_11.jpg" alt="">
-          <h3 class="mb-3">Innovative Solutions in Food Product Development</h3>
+          <h3 class="mb-3">Innovative Solutions in Food Safety, Nutrition and Product Development </h3>
           <p class="lead">Our team is dedicated to creating sustainable and delicious food products. Utilizing cutting-edge technology and culinary expertise, we aim to deliver high-quality food solutions that meet the needs of consumers and businesses alike.</p>
           <p class="mb-5">We combine industry knowledge with creative innovation to develop products that stand out in the market. Our process involves rigorous testing and quality control to ensure that each product not only meets but exceeds expectations.</p>
           <div class="shadow-sm p-md-5 p-3" data-bg-img="images/pattern/02.png">
@@ -88,12 +88,12 @@
             <div class="accordion-item mb-4">
               <h2 class="accordion-header" id="headingOne">
       <button class="accordion-button rounded-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-         What types of water can be tested? 
+         What types of food can be tested? 
       </button>
     </h2>
               <div id="collapseOne" class="accordion-collapse border-0 collapse show" aria-labelledby="headingOne" data-bs-parent="#accordion">
-                <div class="accordion-body">We test drinking water, wastewater, and industrial water to meet local and international safety 
-                  standards.</div>
+                <div class="accordion-body">We test foodstuffs, processed foods, drinks and beverages and agricultural produces to meet local and international safety standards. 
+</div>
               </div>
             </div>
             <div class="accordion-item mb-4">
@@ -104,7 +104,8 @@
     </h2>
               <div id="collapseTwo" class="accordion-collapse border-0 collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion">
                 <div class="accordion-body">Yes! We welcome collaborations with academic institutions, government agencies, and private 
-                  companies. Please email us at research@wil-kh.com to discuss your project.</div>
+                  companies. Please email us at <a href="mailto:research@wil-kh.com" style="text-decoration: none; color: blue;">research@wil-kh.com</a> 
+                   to discuss your project.</div>
               </div>
             </div>
             <div class="accordion-item">
@@ -126,7 +127,7 @@
             <ul class="list-unstyled">
               <li><a href="water_product">Water Product Development</a>
               </li>
-              <li class="active"><a href="food_product">Food Product Development</a>
+              <li class="active"><a href="food_product">Food Technology</a>
               </li>
               <li><a href="environmental_product">Environmental Product Research</a>
               </li>
@@ -137,31 +138,7 @@
             </ul>
           </div>
         </div>
-        <div class="widget p-4 mb-5 light-bg">
-          <div class="white-bg p-4">
-            <h4>Get Free Quote</h4>
-            <form id="queto-form" method="post" action="php/contact.php">
-              <div class="messages"></div>
-              <div class="form-group">
-                <input id="form_name" type="text" name="name" class="form-control" placeholder="First Name" required="required" data-error="Name is required.">
-                <div class="help-block with-errors"></div>
-              </div>
-              <div class="form-group">
-                <input id="form_email" type="email" name="email" class="form-control" placeholder="Email Address" required="required" data-error="Valid email is required.">
-                <div class="help-block with-errors"></div>
-              </div>
-              <div class="form-group">
-                <input id="form_subject" type="text" name="subject" class="form-control" placeholder="Subject" required="required">
-              </div>
-              <div class="form-group">
-                <textarea id="form_message" name="message" class="form-control" placeholder="Type Message" rows="4" required="required" data-error="Please, leave us a message."></textarea>
-                <div class="help-block with-errors"></div>
-              </div>
-              <button class="btn btn-theme mt-4"> <span>Submit Now</span>
-              </button>
-            </form>
-          </div>
-        </div>
+        
         <div class="widget p-4 light-bg">
           <h4>Need Help?</h4>
           <p>Contact with us through our representative or submit a business inquiry online.</p> <a class="btn btn-theme btn-sm" href="contact.html"><span>Contact Us</span></a>

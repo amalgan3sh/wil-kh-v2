@@ -8,7 +8,7 @@
     <div class="row">
       <div class="col-lg-6">
         <div class="white-bg p-md-5 p-3 d-inline-block">
-        <h1 class="text-theme">About <span class="text-black">Wil-Kh</span></h1>
+        <h1 class="text-theme">About <span class="text-black">WIL</span></h1>
         <nav aria-label="breadcrumb" class="page-breadcrumb border-top border-light pt-3 mt-3">
           <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="<?php echo base_url('/') ?>"><i class="las la-home me-1"></i>Home</a>
@@ -58,8 +58,6 @@
             <li><i class="las la-check"></i> Expert Consultation</li>
           </ul>
         </div>
-        <a class="btn btn-theme" href="#"> <span>More About</span>
-        </a>
       </div>
     </div>
   </div>
@@ -217,7 +215,7 @@
     </h2>
               <div id="collapseThree" class="accordion-collapse border-0 collapse" aria-labelledby="headingThree" data-bs-parent="#accordion">
                 <div class="accordion-body">Samples must be collected following specific guidelines depending on the parameters to be tested. 
-                  Contact lab@wil-kh.com for details on sampling methods, parameters, and prices. </div>
+                  Contact <a href="mailto:lab@wil-kh.com" style="text-decoration: none; color: blue;">lab@wil-kh.com</a>  for details on sampling methods, parameters, and prices. </div>
             </div>
           </div>
         </div>
