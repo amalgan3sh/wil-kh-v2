@@ -246,29 +246,30 @@
           <div class="section-title mb-4">
             <h2 class="title mb-0">Contact Us for Our Services</h2> 
           </div>
-          <form id="queto-form" method="post" action="php/contact.php">
+          <form id="contact-form" class="row" method="post" action="php/contact.php">
             <div id="formmessage"></div>
-            <div class="form-group">
-              <input id="form_name" type="text" name="name" class="form-control" placeholder="Name" required="required">
+            <div class="form-group col-md-6">
+              <input id="name" type="text" name="name" class="form-control" placeholder="Name" required="required">
             </div>
-            <div class="form-group">
-              <input id="form_email" type="email" name="email" class="form-control" placeholder="Email" required="required">
+            <div class="form-group col-md-6">
+              <input id="email" type="email" name="email" class="form-control" placeholder="Email" required="required">
             </div>
-            <div class="form-group">
+            <div class="form-group col-md-6">
+              <input id="phone" type="tel" name="phone" class="form-control" placeholder="Phone" required="required">
+            </div>
+            <div class="form-group col-md-6">
               <select name="select" class="form-select form-control">
-                <option>- Choose Service -</option>
-                <option>Water Quality Testing</option>
-                <option>Food Safety Analysis</option>
-                <option>Soil Quality Assessment</option>
-                <option>Environmental Risk Assessment</option>
-                <option>Research & Project consultation</option>
+              <option value="" disabled selected>- Choose Service -</option>
+                <option>Water Testing</option>
+                <option>Food Testing</option>
+                <option>Soil Testing</option>
               </select>
             </div>
-            <div class="form-group">
-              <textarea id="form_message" name="message" class="form-control" placeholder="Message" rows="3" required="required"></textarea>
+            <div class="form-group col-md-12">
+              <textarea id="message" name="message" class="form-control" placeholder="Message" rows="3" required="required"></textarea>
             </div>
-            <div class="mt-4">
-              <button class="btn btn-theme"><span>Send Message</span>
+            <div class="col-md-12 text-center mt-4">
+              <button class="btn btn-theme" type="submit"><span>Send Messages</span>
               </button>
             </div>
           </form>
