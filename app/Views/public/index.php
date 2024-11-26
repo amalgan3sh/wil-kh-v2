@@ -1,3 +1,21 @@
+
+
+<html>
+  <head>
+    <script src="js/contact_us.js"></script>
+  <script type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js">
+</script>
+<script type="text/javascript">
+   (function(){
+      emailjs.init({
+        publicKey: "8ahukF1AatFvyJ1la",
+      });
+   })();
+</script>
+  </head>
+  <body>
+
 <!--hero section start-->
 <section class="banner p-0 pos-r">
   <div class="banner-slider owl-carousel no-pb" data-dots="false" data-nav="true">
@@ -246,30 +264,30 @@
           <div class="section-title mb-4">
             <h2 class="title mb-0">Contact Us for Our Services</h2> 
           </div>
-          <form id="contact-form" class="row" method="post" action="php/contact.php">
+          <form id="contact-form" class="row" >
             <div id="formmessage"></div>
-            <div class="form-group col-md-6">
-              <input id="name" type="text" name="name" class="form-control" placeholder="Name" required="required">
+            <div class="form-group col-md-6">Name : 
+              <input id="name" type="text" class="form-control" placeholder="Name" required="required">
             </div>
-            <div class="form-group col-md-6">
-              <input id="email" type="email" name="email" class="form-control" placeholder="Email" required="required">
+            <div class="form-group col-md-6">Email :
+              <input id="email" type="email" class="form-control" placeholder="Email" required="required">
             </div>
-            <div class="form-group col-md-6">
-              <input id="phone" type="tel" name="phone" class="form-control" placeholder="Phone" required="required">
+            <div class="form-group col-md-6">Phone :
+              <input id="phone" type="tel" class="form-control" placeholder="Phone" required="required">
             </div>
-            <div class="form-group col-md-6">
-              <select name="select" class="form-select form-control">
+            <div class="form-group col-md-6">Service :
+              <select id="service" name="service" class="form-select form-control">
               <option value="" disabled selected>- Choose Service -</option>
                 <option>Water Testing</option>
                 <option>Food Testing</option>
                 <option>Soil Testing</option>
               </select>
             </div>
-            <div class="form-group col-md-12">
-              <textarea id="message" name="message" class="form-control" placeholder="Message" rows="3" required="required"></textarea>
+            <div class="form-group col-md-12">Message :
+              <textarea id="message" class="form-control" placeholder="Message" rows="3" required="required"></textarea>
             </div>
             <div class="col-md-12 text-center mt-4">
-              <button class="btn btn-theme" type="submit"><span>Send Messages</span>
+              <button class="btn btn-theme" onClick="sendMail()"><span>Send Messages</span>
               </button>
             </div>
           </form>
@@ -358,3 +376,5 @@
 </div>
 
 <!--body content end--> 
+  </body>
+</html>

@@ -258,30 +258,7 @@ function databgcolor() {
 };
 
 
-/*------------------------------------
-  HT Contact Form
---------------------------------------*/
-function contactform() { 
-    // when the form is submitted
-    $('#contact-form, #queto-form').on('submit', function (e) {
 
-    // if the validator does not prevent form submit
-    if (!e.isDefaultPrevented()) {
-        var url = "php/contact.php";
-
-        // POST values in the background the the script URL
-        $.ajax({
-            type: "POST",
-            url: url,
-            data: $(this).serialize(),
-            success:function(response){
-        $("#formmessage").html(response.msg).show().delay(2000).fadeOut('slow');
-      }
-        });
-        return false;
-    }
- })    
-};
 
 
 /*------------------------------------
