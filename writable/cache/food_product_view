@@ -1,4 +1,4 @@
-a:3:{s:4:"time";i:1732573512;s:3:"ttl";i:1;s:4:"data";s:24824:"<!DOCTYPE html>
+a:3:{s:4:"time";i:1732624934;s:3:"ttl";i:1;s:4:"data";s:23325:"<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -186,9 +186,9 @@ a:3:{s:4:"time";i:1732573512;s:3:"ttl";i:1;s:4:"data";s:24824:"<!DOCTYPE html>
                     </li>
                     <li><a href="http://localhost/wil-kh-v2/soil_quality_test">Soil quality testing</a>
                     </li>
-                    <li><a href="http://localhost/wil-kh-v2/risk_assessment">Environmental Risk Assessment</a>
+                    <li><a href="http://localhost/wil-kh-v2/arsenic_research">Arsenic Research</a>
                     </li>
-                    <li><a href="http://localhost/wil-kh-v2/consultation">Research & Project consultation</a>
+                    <li><a href="http://localhost/wil-kh-v2/risk_assessment">Risk Assessment</a>
                     </li> 
                     <li><a href="http://localhost/wil-kh-v2/groundwater_survey">Groundwater Survey</a>
                     </li>
@@ -393,31 +393,7 @@ a:3:{s:4:"time";i:1732573512;s:3:"ttl";i:1;s:4:"data";s:24824:"<!DOCTYPE html>
             </ul>
           </div>
         </div>
-        <div class="widget p-4 mb-5 light-bg">
-          <div class="white-bg p-4">
-            <h4>Book Appoinment</h4>
-            <form id="queto-form" method="post" action="php/contact.php">
-              <div class="messages"></div>
-              <div class="form-group">
-                <input id="form_name" type="text" name="name" class="form-control" placeholder="First Name" required="required" data-error="Name is required.">
-                <div class="help-block with-errors"></div>
-              </div>
-              <div class="form-group">
-                <input id="form_email" type="email" name="email" class="form-control" placeholder="Email Address" required="required" data-error="Valid email is required.">
-                <div class="help-block with-errors"></div>
-              </div>
-              <div class="form-group">
-                <input id="form_subject" type="text" name="subject" class="form-control" placeholder="Subject" required="required">
-              </div>
-              <div class="form-group">
-                <textarea id="form_message" name="message" class="form-control" placeholder="Type Message" rows="4" required="required" data-error="Please, leave us a message."></textarea>
-                <div class="help-block with-errors"></div>
-              </div>
-              <button class="btn btn-theme mt-4"> <span>Submit Now</span>
-              </button>
-            </form>
-          </div>
-        </div>
+        
         <div class="widget p-4 light-bg">
           <h4>Need Help?</h4>
           <p>Contact with us through our representative or submit a business inquiry online.</p> <a class="btn btn-theme btn-sm" href="contact.html"><span>Contact Us</span></a>

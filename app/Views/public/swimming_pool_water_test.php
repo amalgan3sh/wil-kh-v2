@@ -5,14 +5,14 @@
     <div class="row">
       <div class="col-lg-6">
         <div class="white-bg p-md-5 p-3 d-inline-block">
-        <h1 class="text-theme">Swimming Pool Water <span class="text-black">Testing Packages</span></h1>
+        <h1 class="text-theme">Recreational Water <span class="text-black">Testing Packages</span></h1>
         <nav aria-label="breadcrumb" class="page-breadcrumb border-top border-light pt-3 mt-3">
           <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="<?php echo base_url('/') ?>"><i class="las la-home me-1"></i>Home</a>
             </li>
             <li class="breadcrumb-item">Research
             </li>
-            <li class="breadcrumb-item active" aria-current="page">Swimming Pool Water Testing Packages</li>
+            <li class="breadcrumb-item active" aria-current="page">Recreational Water Testing Packages</li>
           </ol>
         </nav>
         </div>

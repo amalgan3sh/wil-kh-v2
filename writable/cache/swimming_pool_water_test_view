@@ -1,4 +1,4 @@
-a:3:{s:4:"time";i:1732572173;s:3:"ttl";i:1;s:4:"data";s:25505:"<!DOCTYPE html>
+a:3:{s:4:"time";i:1732625039;s:3:"ttl";i:1;s:4:"data";s:25481:"<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -173,12 +173,10 @@ a:3:{s:4:"time";i:1732572173;s:3:"ttl";i:1;s:4:"data";s:25505:"<!DOCTYPE html>
                     </li>
                     <li><a href="http://localhost/wil-kh-v2/short_course_training">Short-course training</a>
                     </li>
-                    <li><a href="http://localhost/wil-kh-v2/ongoing_projects">Ongoing Projects</a>
-                    </li>
                   </ul>
                 </li>
 
-                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Service</a>
+                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Research</a>
                   <ul class="dropdown-menu">
                     <li><a href="http://localhost/wil-kh-v2/laboratory">Laboratory</a>
                     </li>
@@ -188,12 +186,14 @@ a:3:{s:4:"time";i:1732572173;s:3:"ttl";i:1;s:4:"data";s:25505:"<!DOCTYPE html>
                     </li>
                     <li><a href="http://localhost/wil-kh-v2/soil_quality_test">Soil quality testing</a>
                     </li>
-                    <li><a href="http://localhost/wil-kh-v2/risk_assessment">Environmental Risk Assessment</a>
+                    <li><a href="http://localhost/wil-kh-v2/arsenic_research">Arsenic Research</a>
                     </li>
-                    <li><a href="http://localhost/wil-kh-v2/consultation">Research & Project consultation</a>
+                    <li><a href="http://localhost/wil-kh-v2/risk_assessment">Risk Assessment</a>
                     </li> 
                     <li><a href="http://localhost/wil-kh-v2/groundwater_survey">Groundwater Survey</a>
-                  </li>
+                    </li>
+                    <li><a href="http://localhost/wil-kh-v2/ongoing_projects">Ongoing Projects</a>
+                    </li>
                   </ul>
                 </li>
 
@@ -260,14 +260,14 @@ a:3:{s:4:"time";i:1732572173;s:3:"ttl";i:1;s:4:"data";s:25505:"<!DOCTYPE html>
     <div class="row">
       <div class="col-lg-6">
         <div class="white-bg p-md-5 p-3 d-inline-block">
-        <h1 class="text-theme">Swimming Pool Water <span class="text-black">Testing Packages</span></h1>
+        <h1 class="text-theme">Recreational Water <span class="text-black">Testing Packages</span></h1>
         <nav aria-label="breadcrumb" class="page-breadcrumb border-top border-light pt-3 mt-3">
           <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="http://localhost/wil-kh-v2/"><i class="las la-home me-1"></i>Home</a>
             </li>
-            <li class="breadcrumb-item">Services
+            <li class="breadcrumb-item">Research
             </li>
-            <li class="breadcrumb-item active" aria-current="page">Swimming Pool Water Testing Packages</li>
+            <li class="breadcrumb-item active" aria-current="page">Recreational Water Testing Packages</li>
           </ol>
         </nav>
         </div>
