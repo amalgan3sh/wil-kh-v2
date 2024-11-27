@@ -6,7 +6,7 @@
       <div class="row">
         <div class="col-lg-4 col-12 white-bg p-4 p-md-6">
           <a class="footer-logo" href="<?php echo base_url('/') ?>">
-            <img id="footer-logo" class="img-fluid" src="images/logo_new.png" alt="logo" >
+            <img id="footer-logo" class="img-fluid" src="images/logo-wil.png" alt="logo" >
           </a><br><br>
           <p class="my-4">Water Innovation Lab is dedicated to provide an excellent service in research, development and innovation in water, environment and foods
 </p>
@@ -43,7 +43,7 @@
                     <li><a href="<?php echo base_url('/water_quality_test') ?>">Water quality testing </a></li>
                     <li><a href="<?php echo base_url('/food_quality_test') ?>">Food quality testing</a></li>
                     <li><a href="<?php echo base_url('/soil_quality_test') ?>">Soil quality testing</a></li>
-                    <li><a href="<?php echo base_url('/consultation') ?>">Research & Project consultation</a></li>
+                    <li><a href="<?php echo base_url('/research_and_project_consultation') ?>">Research & Project consultation</a></li>
                     <li><a href="<?php echo base_url('/short_course_training') ?>">Short-course training</a></li>
                 </ul>
               </div>

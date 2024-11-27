@@ -278,6 +278,15 @@ class PublicController extends BaseController
         ]);
     }
 
+    public function ResearchAndProjectConsultation(): string
+    {
+        return $this->renderView('research_and_project_consultation_view', [
+            'public/public_header',
+            'public/research_and_project_consultation',
+            'public/public_footer',
+        ]);
+    }
+
 
 
     /**

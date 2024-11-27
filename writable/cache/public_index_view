@@ -1,4 +1,4 @@
-a:3:{s:4:"time";i:1732717541;s:3:"ttl";i:1;s:4:"data";s:31304:"<!DOCTYPE html>
+a:3:{s:4:"time";i:1732725054;s:3:"ttl";i:1;s:4:"data";s:31325:"<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -632,7 +632,7 @@ a:3:{s:4:"time";i:1732717541;s:3:"ttl";i:1;s:4:"data";s:31304:"<!DOCTYPE html>
       <div class="row">
         <div class="col-lg-4 col-12 white-bg p-4 p-md-6">
           <a class="footer-logo" href="http://localhost/wil-kh-v2/">
-            <img id="footer-logo" class="img-fluid" src="images/logo_new.png" alt="logo" >
+            <img id="footer-logo" class="img-fluid" src="images/logo-wil.png" alt="logo" >
           </a><br><br>
           <p class="my-4">Water Innovation Lab is dedicated to provide an excellent service in research, development and innovation in water, environment and foods
 </p>
@@ -669,7 +669,7 @@ a:3:{s:4:"time";i:1732717541;s:3:"ttl";i:1;s:4:"data";s:31304:"<!DOCTYPE html>
                     <li><a href="http://localhost/wil-kh-v2/water_quality_test">Water quality testing </a></li>
                     <li><a href="http://localhost/wil-kh-v2/food_quality_test">Food quality testing</a></li>
                     <li><a href="http://localhost/wil-kh-v2/soil_quality_test">Soil quality testing</a></li>
-                    <li><a href="http://localhost/wil-kh-v2/consultation">Research & Project consultation</a></li>
+                    <li><a href="http://localhost/wil-kh-v2/research_and_project_consultation">Research & Project consultation</a></li>
                     <li><a href="http://localhost/wil-kh-v2/short_course_training">Short-course training</a></li>
                 </ul>
               </div>

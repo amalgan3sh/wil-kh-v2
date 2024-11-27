@@ -3,7 +3,7 @@
 
 <!--page title start-->
 
-<section class="page-title parallaxie" data-bg-img="images/client/img_16.1.jpg">
+<section class="page-title parallaxie" data-bg-img="images/client/banner_5.png">
   <div class="container">
     <div class="row">
       <div class="col-lg-6">

@@ -34,6 +34,7 @@ $routes->get('all_water_test_information', 'PublicController::AllWaterTestInform
 $routes->get('soil_testing_package', 'PublicController::SoilTestingPackage');
 $routes->get('groundwater_survey', 'PublicController::GroundwaterSurvey');
 $routes->get('food_quality_testing_package', 'PublicController::FoodQualityTestingPackage');
+$routes->get('research_and_project_consultation', 'PublicController::ResearchAndProjectConsultation');
 
 
 
