@@ -1,4 +1,4 @@
-a:3:{s:4:"time";i:1732624966;s:3:"ttl";i:1;s:4:"data";s:23377:"<!DOCTYPE html>
+a:3:{s:4:"time";i:1732727163;s:3:"ttl";i:1;s:4:"data";s:21676:"<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -110,34 +110,6 @@ a:3:{s:4:"time";i:1732624966;s:3:"ttl";i:1;s:4:"data";s:23377:"<!DOCTYPE html>
               <div>Mon-Sat: 8.00am To 6.00pm</div>
             </div>
           </div>
-
-          <div class="d-flex align-items-center"> <a class="btn btn-white btn-sm py-3" href="#"><span>Login</span></a>
-            <div class="social-icons d-none d-lg-inline-block ms-3">
-              <ul class="list-inline">
-                <li><a href="#"><i class="lab la-facebook-f"></i></a>
-                </li>
-                <li><a href="#"><i class="lab la-twitter"></i></a>
-                </li>
-                <li><a href="#"><i class="lab la-linkedin-in"></i></a>
-                </li>
-              </ul>
-            </div>
-            <div class="language-selection ms-3">
-              <div class="dropdown">
-                <button class="dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">English</button>
-                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                  <li><a class="dropdown-item" href="#">English</a>
-                  </li>
-                  <li><a class="dropdown-item" href="#">Arabic</a>
-                  </li>
-                  <li><a class="dropdown-item" href="#">French</a>
-                  </li>
-                  <li><a class="dropdown-item" href="#">Italian</a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
     </div>
@@ -244,14 +216,6 @@ a:3:{s:4:"time";i:1732624966;s:3:"ttl";i:1;s:4:"data";s:23377:"<!DOCTYPE html>
     </div>
   </div>
 </header>
-<div class="search-input" id="search-input-box">
-  <div class="container ">
-    <form class="d-flex justify-content-between search-inner">
-      <input type="text" class="form-control" id="search-input" placeholder="Search Here">
-      <button type="submit" class="btn"></button> <span class="las la-times" id="close-search" title="Close Search"></span>
-    </form>
-  </div>
-</div>
 
 <!--header end--><!--page title start-->
 
@@ -416,7 +380,7 @@ a:3:{s:4:"time";i:1732624966;s:3:"ttl";i:1;s:4:"data";s:23377:"<!DOCTYPE html>
       <div class="row">
         <div class="col-lg-4 col-12 white-bg p-4 p-md-6">
           <a class="footer-logo" href="http://localhost/wil-kh-v2/">
-            <img id="footer-logo" class="img-fluid" src="images/logo_new.png" alt="logo" >
+            <img id="footer-logo" class="img-fluid" src="images/logo-wil.png" alt="logo" >
           </a><br><br>
           <p class="my-4">Water Innovation Lab is dedicated to provide an excellent service in research, development and innovation in water, environment and foods
 </p>
@@ -453,7 +417,7 @@ a:3:{s:4:"time";i:1732624966;s:3:"ttl";i:1;s:4:"data";s:23377:"<!DOCTYPE html>
                     <li><a href="http://localhost/wil-kh-v2/water_quality_test">Water quality testing </a></li>
                     <li><a href="http://localhost/wil-kh-v2/food_quality_test">Food quality testing</a></li>
                     <li><a href="http://localhost/wil-kh-v2/soil_quality_test">Soil quality testing</a></li>
-                    <li><a href="http://localhost/wil-kh-v2/consultation">Research & Project consultation</a></li>
+                    <li><a href="http://localhost/wil-kh-v2/research_and_project_consultation">Research & Project consultation</a></li>
                     <li><a href="http://localhost/wil-kh-v2/short_course_training">Short-course training</a></li>
                 </ul>
               </div>
