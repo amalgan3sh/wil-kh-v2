@@ -244,13 +244,5 @@
     </div>
   </div>
 </header>
-<div class="search-input" id="search-input-box">
-  <div class="container ">
-    <form class="d-flex justify-content-between search-inner">
-      <input type="text" class="form-control" id="search-input" placeholder="Search Here">
-      <button type="submit" class="btn"></button> <span class="las la-times" id="close-search" title="Close Search"></span>
-    </form>
-  </div>
-</div>
 
 <!--header end-->
