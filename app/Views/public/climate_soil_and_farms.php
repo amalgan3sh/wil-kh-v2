@@ -42,11 +42,7 @@
           <p class="lead mb-4">Water Innovation Lab works in collaboration with Columbia University, USA on a projected entitled <b>“Correlations between agronomic growing conditions, rice arsenic uptake and urine arsenic concentrations in Cambodia”</b>.</p>
           <div class="light-bg p-3">
             <ul class="list-unstyled">
-              <li class="mb-3"><span class="text-black font-w-5">Service:</span> Arsenic Testing</li>
-              <li class="mb-3"><span class="text-black font-w-5">Category:</span> Environmental and Health Safety Analysis</li>
-              <li class="mb-3"><span class="text-black font-w-5">Testing Matrices:</span> Water, Soil, Food, Biological Samples</li>
-              <li class="mb-3"><span class="text-black font-w-5">Established:</span> 2024</li>
-              <li><span class="text-black font-w-5">Company:</span> <a href="https://www.wil-kh.com/">WIL-KH</a>
+              <li class="mb-3">To learn more about our present project, please contact us through this email: <a href="mailto:research@wil-kh.com" style="text-decoration: none; color: blue;"> research@wil-kh.com</a>
               </li>
             </ul>
           </div>

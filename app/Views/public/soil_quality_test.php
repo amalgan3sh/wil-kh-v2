@@ -61,7 +61,8 @@
       <p class="mb-5">WIL Laboratory can conduct soil quality testing for organizations, companies, and individuals throughout Cambodia. WIL Laboratory has the capacity to test a variety of soil quality parameters. Email us <a href="mailto:lab@wilkh.com" style="text-decoration: none; color: blue;">lab@wilkh.com</a> for a complete list of parameters and prices. <br>
       <div class="border-top border-start border-light">
         <div class="row g-0">
-          <center><h5 class="mt-0"><a href="<?php echo base_url('/soil_testing_package') ?>">👉🏻 Click here to know more about the Soil Quality Testing Packages and Price List👈🏻</a>
+          <center><h5 class="mt-0">
+          <a href="<?php echo base_url('images/pdf/WIL_Soil Test Information 2024_v1.pdf'); ?>" download>👉🏻 Click here to know more about the Soil Quality Testing Packages and Price List👈🏻</a>
           </center>
         </div>
       </div>

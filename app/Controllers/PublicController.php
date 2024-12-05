@@ -287,6 +287,33 @@ class PublicController extends BaseController
         ]);
     }
 
+    public function BlogOne(): string
+    {
+        return $this->renderView('blog_one_view', [
+            'public/public_header',
+            'public/blog_one',
+            'public/public_footer',
+        ]);
+    }
+
+    public function BlogTwo(): string
+    {
+        return $this->renderView('blog_two_view', [
+            'public/public_header',
+            'public/blog_two',
+            'public/public_footer',
+        ]);
+    }
+
+    public function BlogThree(): string
+    {
+        return $this->renderView('blog_three_view', [
+            'public/public_header',
+            'public/blog_three',
+            'public/public_footer',
+        ]);
+    }
+
 
 
     /**

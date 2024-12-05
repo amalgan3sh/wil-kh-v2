@@ -1,4 +1,4 @@
-a:3:{s:4:"time";i:1732725913;s:3:"ttl";i:1;s:4:"data";s:21117:"<!DOCTYPE html>
+a:3:{s:4:"time";i:1733409936;s:3:"ttl";i:1;s:4:"data";s:20562:"<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -110,29 +110,18 @@ a:3:{s:4:"time";i:1732725913;s:3:"ttl";i:1;s:4:"data";s:21117:"<!DOCTYPE html>
               <div>Mon-Sat: 8.00am To 6.00pm</div>
             </div>
           </div>
-
-          <div class="d-flex align-items-center"> <a class="btn btn-white btn-sm py-3" href="#"><span>Login</span></a>
-            <div class="social-icons d-none d-lg-inline-block ms-3">
-              <ul class="list-inline">
-                <li><a href="#"><i class="lab la-facebook-f"></i></a>
-                </li>
-                <li><a href="#"><i class="lab la-twitter"></i></a>
-                </li>
-                <li><a href="#"><i class="lab la-linkedin-in"></i></a>
-                </li>
-              </ul>
-            </div>
-            <div class="language-selection ms-3">
+          <div class="d-flex align-items-center">
+            <a class="btn btn-white btn-sm py-3" href="https://www.facebook.com/profile.php?id=100079536679250" target="_blank">
+              <span>Login</span>
+            </a>
+          </div>
+          <div class="language-selection ms-3">
               <div class="dropdown">
                 <button class="dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">English</button>
                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                   <li><a class="dropdown-item" href="#">English</a>
                   </li>
-                  <li><a class="dropdown-item" href="#">Arabic</a>
-                  </li>
-                  <li><a class="dropdown-item" href="#">French</a>
-                  </li>
-                  <li><a class="dropdown-item" href="#">Italian</a>
+                  <li><a class="dropdown-item" href="#">Khmer</a>
                   </li>
                 </ul>
               </div>
@@ -305,7 +294,7 @@ a:3:{s:4:"time";i:1732725913;s:3:"ttl";i:1;s:4:"data";s:21117:"<!DOCTYPE html>
     </div>
     <div>
       <h3 class="mb-3">Our Process</h3>
-      <p class="mb-5"> WIL Laboratory can conduct food quality testing for organizations, companies, and individuals throughout Cambodia.</p>
+      <p class="mb-5"> WIL Laboratory can conduct food quality testing for organizations, companies, and individuals throughout Cambodia. WIL Laboratory has the capacity to test a variety of food quality parameters. Email us <a href="mailto:lab@wilkh.com" style="text-decoration: none; color: blue;">lab@wilkh.com</a> for a complete list of parameters and prices.</p>
     </div>
   </div>
 </section>
@@ -328,13 +317,10 @@ a:3:{s:4:"time";i:1732725913;s:3:"ttl";i:1;s:4:"data";s:21117:"<!DOCTYPE html>
   <div class="container-fluid">
     <div class="row">
       <div class="col">
-          <center><h5 class="mt-0"><a href="http://localhost/wil-kh-v2/food_quality_testing_package">👉🏻 Testing Foods? Click here to know more about the Food Quality Testing Packages and Price List👈🏻</a></center>
+          <center><h5 class="mt-0">
+            <a href="http://localhost/wil-kh-v2/images/pdf/WIL_Food%20Quality%20Test%20Information%202024.pdf" download>👉🏻 Testing Foods? Click here to know more about the Food Quality Testing Packages and Price List👈🏻</a></center>
           <p style="text-align: justify;">
           <div class="col-lg-12 col-12 mt-5 mt-lg-0 ps-lg-5">
-            Parameters, analysis methods, and price list the WIL Laboratory has the capacity to test a variety of food quality 
-            parameters. Email us 
-            <a href="mailto:lab@wilkh.com" style="text-decoration: none; color: blue;">lab@wilkh.com</a>
-              for a complete list of <br>parameters and prices. </h5></p>
           </div>
         <div class="owl-carousel no-pb popup-gallery" data-dots="false" data-items="5" data-md-items="3" data-sm-items="2" data-xs-items="1" data-margin="10">
           <div class="item">

@@ -110,6 +110,25 @@
               <div>Mon-Sat: 8.00am To 6.00pm</div>
             </div>
           </div>
+          <div class="d-flex align-items-center"> <a class="btn btn-white btn-sm py-3" href="https://accounts.zoho.com/signin?servicename=AaaServer&serviceurl=https%3A%2F%2Faccounts.zoho.com%2Fhome" target="_blank"><span>Login</span></a>
+            <div class="social-icons d-none d-lg-inline-block ms-3">
+              <ul class="list-inline">
+                <li><a href="https://www.facebook.com/profile.php?id=100079536679250" target="_blank"><i class="lab la-facebook-f"></i></a>
+                </li>
+              </ul>
+            </div>
+          <div class="language-selection ms-3">
+              <div class="dropdown">
+                <button class="dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">English</button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                  <li><a class="dropdown-item" href="#">English</a>
+                  </li>
+                  <li><a class="dropdown-item" href="#">Khmer</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>

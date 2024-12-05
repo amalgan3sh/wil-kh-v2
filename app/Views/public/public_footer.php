@@ -10,15 +10,7 @@
           </a><br><br>
           <p class="my-4">Water Innovation Lab is dedicated to provide an excellent service in research, development and innovation in water, environment and foods
 </p>
-          <div class="social-icons social-colored footer-social">
-            <ul class="list-inline">
-              <li><a href="<?php echo base_url('/contact_us') ?>"><i class="lab la-facebook-f"></i></a></li>
-              <li><a href="<?php echo base_url('/contact_us') ?>"><i class="lab la-twitter"></i></a></li>
-              <li><a href="<?php echo base_url('/contact_us') ?>"><i class="lab la-instagram"></i></a></li>
-              <li><a href="<?php echo base_url('/contact_us') ?>"><i class="lab la-dribbble"></i></a></li>
-              <li><a href="<?php echo base_url('/contact_us') ?>"><i class="lab la-linkedin-in"></i></a></li>
-            </ul>
-          </div>
+          
         </div>
         <div class="col-lg-8 col-12 p-4 p-md-6">
           <div class="row">

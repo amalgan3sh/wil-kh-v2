@@ -58,7 +58,7 @@
     </div>
     <div>
       <h3 class="mb-3">Our Process</h3>
-      <p class="mb-5"> WIL Laboratory can conduct food quality testing for organizations, companies, and individuals throughout Cambodia.</p>
+      <p class="mb-5"> WIL Laboratory can conduct food quality testing for organizations, companies, and individuals throughout Cambodia. WIL Laboratory has the capacity to test a variety of food quality parameters. Email us <a href="mailto:lab@wilkh.com" style="text-decoration: none; color: blue;">lab@wilkh.com</a> for a complete list of parameters and prices.</p>
     </div>
   </div>
 </section>
@@ -81,13 +81,10 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col">
-          <center><h5 class="mt-0"><a href="<?php echo base_url('/food_quality_testing_package') ?>">👉🏻 Testing Foods? Click here to know more about the Food Quality Testing Packages and Price List👈🏻</a></center>
+          <center><h5 class="mt-0">
+            <a href="<?php echo base_url('images/pdf/WIL_Food Quality Test Information 2024.pdf'); ?>" download>👉🏻 Testing Foods? Click here to know more about the Food Quality Testing Packages and Price List👈🏻</a></center>
           <p style="text-align: justify;">
           <div class="col-lg-12 col-12 mt-5 mt-lg-0 ps-lg-5">
-            Parameters, analysis methods, and price list the WIL Laboratory has the capacity to test a variety of food quality 
-            parameters. Email us 
-            <a href="mailto:lab@wilkh.com" style="text-decoration: none; color: blue;">lab@wilkh.com</a>
-              for a complete list of <br>parameters and prices. </h5></p>
           </div>
         <div class="owl-carousel no-pb popup-gallery" data-dots="false" data-items="5" data-md-items="3" data-sm-items="2" data-xs-items="1" data-margin="10">
           <div class="item">

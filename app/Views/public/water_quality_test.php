@@ -42,11 +42,11 @@
           <p class="lead mb-4">Water quality testing is an important part of development because microbial and chemical contaminants can cause water-boned diseases and harm people and the environment.</p>
           <div class="light-bg p-3">
             <ul class="list-unstyled">
-              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('/drinking_water_testing_package') ?>">Drinking Water Quality Testing</a></span></li>
-              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('/wastewater_test_information') ?>">Wastewater Analysis</a></span></li>
-              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('/swimming_pool_water_test') ?>">Recreational Water Quality Testing </a></span></li>
-              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('/industrial_water_testing') ?>">Water for Production Testing </a></span></li>
-              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('/irrigation_water_test') ?>">Irrigation Water Quality Testing </a></span></li>
+              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('images/pdf/WIL_Drinking Water Quality Package 2024_v1.pdf'); ?>" download>Drinking Water Quality Testing</a></span></li>
+              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('images/pdf/WIL_Wastewater test information 2024.pdf'); ?>" download>Wastewater Analysis</a></span></li>
+              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('images/pdf/WIL_Swimming Pool Water Test Information 2024.pdf'); ?>" download>Recreational Water Quality Testing </a></span></li>
+              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('images/pdf/WIL_Industrial Water Test Information 2024.pdf'); ?>" download>Water for Production Testing </a></span></li>
+              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('images/pdf/WIL_Irrigation Water Test Information 2024.pdf'); ?>" download>Irrigation Water Quality Testing </a></span></li>
               </li>
             </ul>
           </div>
@@ -60,7 +60,12 @@
         and production purposes. </p>
       <div class="border-top border-start border-light">
         <div class="row g-0">
-        <center><h5 class="mt-0"><a href="<?php echo base_url('/all_water_test_information') ?>">👉🏻 Click here to know more about the Water Quality Testing Packages and Price List👈🏻</a></h5></center>
+        <center>
+          <h5 class="mt-0">
+            <a href="<?php echo base_url('images/pdf/WIL_Water Quality Testing Information Sheet 2024.pdf'); ?>" download>👉🏻 Click here to access the complete list of parameters and price for water quality testing 👈🏻
+            </a>
+          </h5>
+        </center>
           <div class="col-lg-4">
             <div class="featured-item shadow-none d-flex align-items-start style-2 border-end border-light border-bottom">
               <div class="h5 text-theme me-3">01</div>

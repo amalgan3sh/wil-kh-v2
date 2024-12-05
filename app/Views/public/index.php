@@ -24,7 +24,7 @@
         <div class="row pt-8 custom-pb-2">
           <div class="col-lg-6 col-md-8 col-12">
             <h1 class="mb-4 text-white">Excellence in Laboratory Services</h1>
-            <p class="lead font-w-5 text-white">Experience state-of-the-art laboratory services with Wil-Kh.<br>We are committed to delivering excellence in every test.</p>
+            <p class="lead font-w-5 text-white">Experience state-of-the-art laboratory services with WIL.<br>We are committed to delivering excellence in every test.</p>
             <div class="btn-box mt-5">
               <a class="btn btn-white" href="<?php echo base_url('/about_us') ?>"> <span>Learn More.</span>
               </a>
@@ -44,7 +44,7 @@
         <div class="row pt-8 custom-pb-2">
           <div class="col-lg-6 col-md-8 col-12">
             <h1 class="mb-4 text-white">Your Trusted Laboratory Partner</h1>
-            <p class="lead font-w-5 text-white">Wil-Kh provides comprehensive laboratory services.<br>Our team is dedicated to ensuring accurate and timely results.</p>
+            <p class="lead font-w-5 text-white">WIL provides comprehensive laboratory services.<br>Our team is dedicated to ensuring accurate and timely results.</p>
             <div class="btn-box mt-5">
               <a class="btn btn-white" href="<?php echo base_url('/about_us') ?>"> <span>Learn More.</span>
               </a>
@@ -141,7 +141,7 @@
       <div class="col-lg-6 col-12 mt-6 mt-lg-0">
         <div class="section-title">
           <h2 class="title">We Employ Cutting-Edge Research Technology & Expertise</h2> 
-          <p class="mb-0">At WIL-KH, we're dedicated to providing high-quality products and services in water, food, and environmental safety. Our state-of-the-art laboratory facilities support our research and development activities, ensuring precise and reliable results.</p>
+          <p class="mb-0">At WIL, we're dedicated to providing high-quality products and services in water, food, and environmental safety. Our state-of-the-art laboratory facilities support our research and development activities, ensuring precise and reliable results.</p>
         </div>
         <div class="d-flex align-items-start">
           <ul class="list-unstyled list-icon mb-5 me-5">
@@ -373,8 +373,85 @@
 
 
 
+<!--blog start-->
+
+<section>
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-8 col-12">
+        <div class="section-title">
+          <h2 class="title">From our blog list Latest News</h2>
+        </div>
+      </div>
+    </div>
+    <div class="row" style="display: flex; flex-wrap: wrap;">
+    <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" style="display: flex; flex-direction: column;">
+        <!-- Blog Card -->
+        <div class="card post-card border-0 rounded-0 shadow-sm bg-transparent" style="flex-grow: 1;">
+            <img class="card-img-top" src="images/client/blog1.JPG" alt="blog 1">
+            <div class="card-body px-4 pb-4 pt-0" style="flex-grow: 1;">
+                <h2 class="h4 my-3">Joining the Regional Meeting of Cambodian Water Supply Association (C.W.A).</h2>
+                <ul class="list-inline mb-0 border-top border-bottom border-light py-2 mb-4">
+                    <li class="list-inline-item">
+                        <a href="#" class="text-black"><i class="lar la-user-circle me-1"></i> Admin</a>
+                    </li>
+                </ul>
+                <div class="d-flex justify-content-between align-items-center">
+                    <div><a class="px-3 py-2 light-bg text-black" href="#">Research</a> <a class="px-3 py-2 light-bg text-black" href="#">Development</a></div>
+                    <a class="link-btn" href="<?php echo base_url('/blog_one') ?>"><i class="las la-long-arrow-alt-right"></i></a>
+                </div>
+            </div>
+        </div>
+        <!-- End Blog Card -->
+    </div>
+
+    <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" style="display: flex; flex-direction: column;">
+        <!-- Blog Card -->
+        <div class="card post-card border-0 rounded-0 shadow-sm bg-transparent" style="flex-grow: 1;">
+            <img class="card-img-top" src="images/client/blog2.JPG" alt="blog 2">
+            <div class="card-body px-4 pb-4 pt-0" style="flex-grow: 1;">
+                <h2 class="h4 my-3">Visit to Saram Water Supply in Kampong Speu Province. </h2><h4 style="color: white;">.</h4>
+                <ul class="list-inline mb-0 border-top border-bottom border-light py-2 mb-4">
+                    <li class="list-inline-item">
+                        <a href="#" class="text-black"><i class="lar la-user-circle me-1"></i> Admin</a>
+                    </li>
+                </ul>
+                <div class="d-flex justify-content-between align-items-center">
+                    <div><a class="px-3 py-2 light-bg text-black" href="#">Information</a> <a class="px-3 py-2 light-bg text-black" href="#">Water Supply</a></div>
+                    <a class="link-btn" href="<?php echo base_url('/blog_two') ?>"><i class="las la-long-arrow-alt-right"></i></a>
+                </div>
+            </div>
+        </div>
+        <!-- End Blog Card -->
+    </div>
+
+    <div class="col-md-6 col-lg-4" style="display: flex; flex-direction: column;">
+        <!-- Blog Card -->
+        <div class="card post-card border-0 rounded-0 shadow-sm bg-transparent" style="flex-grow: 1;">
+            <img class="card-img-top" src="images/client/blog3.png" alt="blog 3">
+            <div class="card-body px-4 pb-4 pt-0" style="flex-grow: 1;">
+                <h2 class="h4 my-3">A pilot study of gravity-driven membrane (GDM) solution at Sotr Nikum Water Supply Station.</h2>
+                <ul class="list-inline mb-0 border-top border-bottom border-light py-2 mb-4">
+                    <li class="list-inline-item">
+                        <a href="#" class="text-black"><i class="lar la-user-circle me-1"></i> Admin</a>
+                    </li>
+                </ul>
+                <div class="d-flex justify-content-between align-items-center">
+                    <div><a class="px-3 py-2 light-bg text-black" href="#">Water</a> <a class="px-3 py-2 light-bg text-black" href="#">Standards</a></div>
+                    <a class="link-btn" href="<?php echo base_url('/blog_three') ?>"><i class="las la-long-arrow-alt-right"></i></a>
+                </div>
+            </div>
+        </div>
+        <!-- End Blog Card -->
+    </div>
+</div>
+
+    </div>
+  </div>
+</section>
+
+<!--blog end-->
+
 </div>
 
 <!--body content end--> 
-  </body>
-</html>
