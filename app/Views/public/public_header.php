@@ -117,16 +117,21 @@
                 </li>
               </ul>
             </div>
-          <div class="language-selection ms-3">
-              <div class="dropdown">
-                <button class="dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">English</button>
-                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                  <li><a class="dropdown-item" href="#">English</a>
-                  </li>
-                  <li><a class="dropdown-item" href="#">Khmer</a>
-                  </li>
-                </ul>
-              </div>
+<!-- Translation Code here -->
+<span>
+    <div class="translate" id="google_translate_element"></div>
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({
+                pageLanguage: 'en',
+                includedLanguages: 'en,km' // Restrict to English (en) and Khmer (km)
+            }, 'google_translate_element');
+        }
+    </script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</span>
+<!-- Translation Code End here -->
+
             </div>
           </div>
         </div>
