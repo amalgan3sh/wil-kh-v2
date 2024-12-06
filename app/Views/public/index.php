@@ -388,7 +388,7 @@
     <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" style="display: flex; flex-direction: column;">
         <!-- Blog Card -->
         <div class="card post-card border-0 rounded-0 shadow-sm bg-transparent" style="flex-grow: 1;">
-            <img class="card-img-top" src="images/client/blog1.JPG" alt="blog 1">
+            <img class="card-img-top" src="images/client/blog1.png" alt="blog 1">
             <div class="card-body px-4 pb-4 pt-0" style="flex-grow: 1;">
                 <h2 class="h4 my-3">Joining the Regional Meeting of Cambodian Water Supply Association (C.W.A).</h2>
                 <ul class="list-inline mb-0 border-top border-bottom border-light py-2 mb-4">
@@ -408,7 +408,7 @@
     <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" style="display: flex; flex-direction: column;">
         <!-- Blog Card -->
         <div class="card post-card border-0 rounded-0 shadow-sm bg-transparent" style="flex-grow: 1;">
-            <img class="card-img-top" src="images/client/blog2.JPG" alt="blog 2">
+            <img class="card-img-top" src="images/client/blog2.png" alt="blog 2">
             <div class="card-body px-4 pb-4 pt-0" style="flex-grow: 1;">
                 <h2 class="h4 my-3">Visit to Saram Water Supply in Kampong Speu Province. </h2><h4 style="color: white;">.</h4>
                 <ul class="list-inline mb-0 border-top border-bottom border-light py-2 mb-4">

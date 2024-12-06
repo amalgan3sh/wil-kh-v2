@@ -1,4 +1,4 @@
-a:3:{s:4:"time";i:1733409784;s:3:"ttl";i:1;s:4:"data";s:20586:"<!DOCTYPE html>
+a:3:{s:4:"time";i:1733471006;s:3:"ttl";i:1;s:4:"data";s:20214:"<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -110,11 +110,13 @@ a:3:{s:4:"time";i:1733409784;s:3:"ttl";i:1;s:4:"data";s:20586:"<!DOCTYPE html>
               <div>Mon-Sat: 8.00am To 6.00pm</div>
             </div>
           </div>
-          <div class="d-flex align-items-center">
-            <a class="btn btn-white btn-sm py-3" href="https://www.facebook.com/profile.php?id=100079536679250" target="_blank">
-              <span>Login</span>
-            </a>
-          </div>
+          <div class="d-flex align-items-center"> <a class="btn btn-white btn-sm py-3" href="https://accounts.zoho.com/signin?servicename=AaaServer&serviceurl=https%3A%2F%2Faccounts.zoho.com%2Fhome" target="_blank"><span>Login</span></a>
+            <div class="social-icons d-none d-lg-inline-block ms-3">
+              <ul class="list-inline">
+                <li><a href="https://www.facebook.com/profile.php?id=100079536679250" target="_blank"><i class="lab la-facebook-f"></i></a>
+                </li>
+              </ul>
+            </div>
           <div class="language-selection ms-3">
               <div class="dropdown">
                 <button class="dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">English</button>
@@ -387,15 +389,7 @@ a:3:{s:4:"time";i:1733409784;s:3:"ttl";i:1;s:4:"data";s:20586:"<!DOCTYPE html>
           </a><br><br>
           <p class="my-4">Water Innovation Lab is dedicated to provide an excellent service in research, development and innovation in water, environment and foods
 </p>
-          <div class="social-icons social-colored footer-social">
-            <ul class="list-inline">
-              <li><a href="http://localhost/wil-kh-v2/contact_us"><i class="lab la-facebook-f"></i></a></li>
-              <li><a href="http://localhost/wil-kh-v2/contact_us"><i class="lab la-twitter"></i></a></li>
-              <li><a href="http://localhost/wil-kh-v2/contact_us"><i class="lab la-instagram"></i></a></li>
-              <li><a href="http://localhost/wil-kh-v2/contact_us"><i class="lab la-dribbble"></i></a></li>
-              <li><a href="http://localhost/wil-kh-v2/contact_us"><i class="lab la-linkedin-in"></i></a></li>
-            </ul>
-          </div>
+          
         </div>
         <div class="col-lg-8 col-12 p-4 p-md-6">
           <div class="row">

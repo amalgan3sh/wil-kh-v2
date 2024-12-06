@@ -1,4 +1,4 @@
-a:3:{s:4:"time";i:1733470850;s:3:"ttl";i:1;s:4:"data";s:19548:"<!DOCTYPE html>
+a:3:{s:4:"time";i:1733442028;s:3:"ttl";i:1;s:4:"data";s:18756:"<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -236,38 +236,21 @@ a:3:{s:4:"time";i:1733470850;s:3:"ttl";i:1;s:4:"data";s:19548:"<!DOCTYPE html>
   </div>
 </header>
 
-<!--header end-->
+<!--header end--><!--page title start-->
 
-<html>
-  <head>
-    <script src="js/contact_us.js"></script>
-  <script type="text/javascript"
-        src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js">
-</script>
-<script type="text/javascript">
-   (function(){
-      emailjs.init({
-        publicKey: "8ahukF1AatFvyJ1la",
-      });
-   })();
-</script>
-  </head>
-  <body>
-<!--page title start-->
-
-<section class="page-title parallaxie" data-bg-img="images/client/img_17.jpg">
+<section class="page-title parallaxie" data-bg-img="images/client/img_7.jpg">
   <div class="container">
     <div class="row">
       <div class="col-lg-6">
         <div class="white-bg p-md-5 p-3 d-inline-block">
-        <h1 class="text-theme">Contact <span class="text-black">Us</span></h1>
+        <h1 class="text-theme">Journal <span class="text-black">Articles</span></h1>
         <nav aria-label="breadcrumb" class="page-breadcrumb border-top border-light pt-3 mt-3">
           <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="http://localhost/wil-kh-v2/"><i class="las la-home me-1"></i>Home</a>
             </li>
-            <li class="breadcrumb-item">About Us
+            <li class="breadcrumb-item">Publications
             </li>
-            <li class="breadcrumb-item active" aria-current="page">Contact Us</li>
+            <li class="breadcrumb-item active" aria-current="page">Journal Articles</li>
           </ol>
         </nav>
         </div>
@@ -278,79 +261,73 @@ a:3:{s:4:"time";i:1733470850;s:3:"ttl";i:1;s:4:"data";s:19548:"<!DOCTYPE html>
 
 <!--page title end-->
 
-
 <!--body content start-->
 
 <div class="page-content">
 
-<!--contact start-->
+<!--journal articles start-->
 
 <section>
   <div class="container">
-    <div class="row justify-content-center text-center">
-      <div class="col-lg-8 col-12">
-        <div class="section-title">
-          <h2 class="title">Drop A Line!</h2> 
-          <p class="mb-0">Any Question or Remarks ? Just Write Us a Message!</p>
-        </div>
-      </div>
-    </div>
-    <div class="row g-0">
-      <div class="col-lg-6">
-        <div class="contact-main white-bg shadow-sm p-5">
-          <form id="contact-form" class="row" >
-            <div id="formmessage"></div>
-            <div class="form-group col-md-6">Name : 
-              <input id="name" type="text" class="form-control" placeholder="Name" required="required">
+    <div class="row">
+      <div class="col-12 col-lg-8 mb-6 mb-lg-0">
+        <!-- Journal Article Card -->
+        <div class="card post-card border-0 rounded-0 shadow-sm bg-transparent mb-6">
+          <div class="card-body px-4 pb-4 pt-0">
+            <div class="mt-n3">
+              <div class="d-inline-block white-bg px-2 py-1 text-black box-shadow">15 May 2024</div>
             </div>
-            <div class="form-group col-md-6">Email :
-              <input id="email" type="email" class="form-control" placeholder="Email" required="required">
-            </div>
-            <div class="form-group col-md-6">Phone :
-              <input id="phone" type="tel" class="form-control" placeholder="Phone" required="required">
-            </div>
-            <div class="form-group col-md-6">Service :
-              <select id="service" name="service" class="form-select form-control">
-              <option value="" disabled selected>- Choose Service -</option>
-                <option>Water Testing</option>
-                <option>Food Testing</option>
-                <option>Soil Testing</option>
-              </select>
-            </div>
-            <div class="form-group col-md-12">Message :
-              <textarea id="message" class="form-control" placeholder="Message" rows="3" required="required"></textarea>
-            </div>
-            <div class="col-md-12 text-center mt-4">
-              <button class="btn btn-theme" onClick="sendMail()"><span>Send Messages</span>
-              </button>
-            </div>
-          </form>
-        </div>
-      </div>
-      <div class="col-lg-5 dark-bg">
-        <div class="px-3 py-5 p-md-5 text-white">
-          <div class="contact-media mb-4">
-            <h5 class="text-white">Find Office:</h5>
-            <span>National Road 7, Ampil Krom Village, Kampong Cham, Cambodia </span>
-          </div>
-          <div class="contact-media mb-4">
-            <h5 class="text-white">Contact Us:</h5>
-            <ul class="list-unstyled">
-              <li class="mb-2">Phone: <a href="tel:+912345678900"><strong>+855 (0) 16 668 900 </strong></a>
-              </li>
-              <li class="mb-2">Email:<br>
-              </li>
-              <li>&nbsp&nbsp&nbsp&nbsp General Inquiries: <a href="info@wil-kh.com"><strong>info@wil-kh.com </strong></a>
-              </li>
-              <li>&nbsp&nbsp&nbsp&nbsp Laboratory Services: <a href="mailto:lab@wil-kh.com"><strong>lab@wil-kh.com </strong></a>
-              </li>
-              <li>&nbsp&nbsp&nbsp&nbsp Research Collaborations: <a href="mailto:research@wil-kh.com"><strong>research@wil-kh.com </strong></a>
+            <strong>International Journal</strong>
+            <h2 class="h4 my-3">Chemical risks in drinking water of inhabitants in the basin of the Tonle Sap Great lake. J Water Health 21 (12): 1908–1921.</h2>
+            <ul class="list-inline mb-0 border-top border-bottom border-light py-2 mb-4">
+              <li class="list-inline-item"> <a href="#" class="text-black"><i class="lar la-user-circle me-1"></i>Phan, K., Hoeng, S., Phin, S., The, N., Sriv, T., Sao, V., Chey, C.O. 2023.</a>
               </li>
             </ul>
+            <div class="d-flex justify-content-between align-items-center">
+              <div><a class="px-3 py-2 light-bg text-black" href="#">Water Quality</a>  <a class="px-3 py-2 light-bg text-black" href="#">Urban Water</a>
+              </div> <a class="link-btn" href="https://doi.org/10.2166/wh.2023.236"><i class="las la-long-arrow-alt-right"></i></a>
+            </div>
           </div>
-          <div class="contact-media mb-4">
-            <h5 class="text-white">Working Hours:</h5>
-            <span>Monday - Saturday: <strong>8:00 AM - 12:00 PM, 1:00 PM - 5:00 PM </strong></span>
+        </div>
+        <!-- End Journal Article Card -->
+
+        <!-- Journal Article Card -->
+        <div class="card post-card border-0 rounded-0 shadow-sm bg-transparent mb-6">
+          <div class="card-body px-4 pb-4 pt-0">
+            <div class="mt-n3">
+              <div class="d-inline-block white-bg px-2 py-1 text-black box-shadow"></div>
+            </div>
+            <strong>Domestic Journal</strong>
+            <h2 class="h4 my-3"> The development and evaluation of Cashew Apple Based Fruit Juice formula. Bull. CCS 15 (Accepted) </h2>
+            <ul class="list-inline mb-0 border-top border-bottom border-light py-2 mb-4">
+              <li class="list-inline-item"> <a href="#" class="text-black"><i class="lar la-user-circle me-1"></i>Aong, L., Huoy, L., Phan, K. 2024. </a>
+              </li>
+            </ul>
+            <div class="d-flex justify-content-between align-items-center">
+              <div>
+                <a class="px-3 py-2 light-bg text-black" href="#">Quality check</a>  <a class="px-3 py-2 light-bg text-black" href="#">Fruit Juice</a>
+              </div> 
+            </div>
+          </div>
+        </div>
+        <!-- End Journal Article Card -->
+      </div>
+      
+      <!-- Sidebar -->
+      <div class="col-12 col-lg-4">
+        
+        <!-- Tags Widget -->
+        <div class="p-4 border widget-tags">
+          <h4 class="mb-3">Tags</h4>
+          <div> 
+            <a class="d-inline-block m-1" href="#">Water Quality</a>
+            <a class="d-inline-block m-1" href="#">Purification</a>
+            <a class="d-inline-block m-1" href="#">Conservation</a>
+            <a class="d-inline-block m-1" href="#">Sustainability</a>
+            <a class="d-inline-block m-1" href="#">Urban Water</a>
+            <a class="d-inline-block m-1" href="#">Technology</a>
+            <a class="d-inline-block m-1" href="#">Innovation</a>
+            <a class="d-inline-block m-1" href="#">Research</a>
           </div>
         </div>
       </div>
@@ -358,31 +335,11 @@ a:3:{s:4:"time";i:1733470850;s:3:"ttl";i:1;s:4:"data";s:19548:"<!DOCTYPE html>
   </div>
 </section>
 
-<!--contact end-->
-
-
-<!--map start-->
-
-<section class="p-0">
-  <div class="container-fluid p-0">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="map">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3749.982330201794!2d105.4280371!3d12.0145362!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310c4120fd1f5121%3A0x5888bd0cab029ddf!2sWatER%20Innovation%20LAB!5e1!3m2!1sen!2sin!4v1731593948807!5m2!1sen!2sin" allowfullscreen=""></iframe>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!--map end-->
+<!--journal articles end-->
 
 </div>
 
-<!--body content end--> 
-
-  </body>
-</html><!--footer start-->
+<!--body content end--><!--footer start-->
 
 <footer class="footer light-bg">
   <div class="primary-footer">

@@ -16,7 +16,7 @@
              style="position: relative; width: 100%;">
             <!-- Original Image -->
             <img id="image1-base" 
-               src="images/client/blog3.PNG" 
+               src="images/client/blog3.png" 
                alt="Base Image" 
                style="width: 100%; position: relative; z-index: 1; transition: transform 0.3s ease;">
           
@@ -44,7 +44,7 @@
              style="position: relative; width: 100%;">
             <!-- Original Image -->
             <img id="image2-base" 
-               src="images/client/blog3_1.PNG" 
+               src="images/client/blog3_1.png" 
                alt="Base Image" 
                style="width: 100%; position: relative; z-index: 1; transition: transform 0.3s ease;">
           

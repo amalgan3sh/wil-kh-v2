@@ -49,7 +49,7 @@
         <div class="row">
             <div class="col-md-6 mb-4">
                 <div class="image-container">
-                    <img src="images/client/blog2.JPG" alt="Discussion with Water Operator" class="img-fluid">
+                    <img src="images/client/blog2.png" alt="Discussion with Water Operator" class="img-fluid">
                     <div class="hover-overlay">
                         <div>Our discussion on potential cooperation with water operator</div>
                     </div>
@@ -71,7 +71,7 @@
             
             <div class="col-md-6 mb-4">
                 <div class="image-container">
-                    <img src="images/client/blog2_1.PNG" alt="Saram Water Supply Station" class="img-fluid">
+                    <img src="images/client/blog2_1.png" alt="Saram Water Supply Station" class="img-fluid">
                     <div class="hover-overlay">
                         <div>Saram Water Supply Station in Kampong Speu Province</div>
                     </div>

@@ -114,20 +114,6 @@
             <h5 class="text-white">Working Hours:</h5>
             <span>Monday - Saturday: <strong>8:00 AM - 12:00 PM, 1:00 PM - 5:00 PM </strong></span>
           </div>
-          <div class="social-icons">
-            <ul class="list-inline">
-              <li><a href="#"><i class="lab la-facebook-f"></i></a>
-              </li>
-              <li><a href="#"><i class="lab la-twitter"></i></a>
-              </li>
-              <li><a href="#"><i class="lab la-instagram"></i></a>
-              </li>
-              <li><a href="#"><i class="lab la-dribbble"></i></a>
-              </li>
-              <li><a href="#"><i class="lab la-linkedin-in"></i></a>
-              </li>
-            </ul>
-          </div>
         </div>
       </div>
     </div>
