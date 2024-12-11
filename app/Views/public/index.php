@@ -271,8 +271,8 @@
               <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('images/pdf/WIL_Industrial Water Test Information 2024.pdf'); ?>" download>Water for Production Testing </a></span></li>
               <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('images/pdf/WIL_Irrigation Water Test Information 2024.pdf'); ?>" download>Irrigation Water Quality Testing </a></span></li>
               <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('images/pdf/WIL_Water Quality Testing Information Sheet 2024.pdf'); ?>" download>All Water Test Information and Price List </a></span></li>
-              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('images/pdf/WIL_Irrigation Water Test Information 2024.pdf'); ?>" download>Food Quality Testing Information </a></span></li>
-              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('images/pdf/WIL_Food Quality Test Information 2024.pdf'); ?>" download>Soil Quality Testing Information </a></span></li>
+              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('images/pdf/WIL_Food Quality Test Information 2024.pdf'); ?>" download>Food Quality Testing Information </a></span></li>
+              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('images/pdf/WIL_Soil Test Information 2024_v1.pdf'); ?>" download>Soil Quality Testing Information </a></span></li>
               </li>
             </ul>
           </div>
