@@ -1,6 +1,6 @@
 <!--page title start-->
 
-<section class="page-title parallaxie" data-bg-img="images/client/img_30.1.jpg" alt="">
+<section class="page-title parallaxie" data-bg-img="images/client/img_9.jpg" alt="">
   <div class="container">
     <div class="row">
       <div class="col-lg-6">
