@@ -254,6 +254,34 @@
 </section>
 <!--service end-->
 
+<section>
+  <div class="container">
+    <div class="row align-items-center mb-6">
+      <div class="col-lg-5 col-12">
+      <img class="img-fluid img-border box-shadow w-100" src="images/client/img_20.jpg" alt="water_testing">
+      </div>
+      <div class="col-lg-7 col-12 mt-5 mt-lg-0 ps-lg-5">
+        <div>
+          <h3 class="mb-3">Water, Food, Soil Quality Testing Overview</h3>
+          <div class="light-bg p-3">
+            <ul class="list-unstyled">
+              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('images/pdf/WIL_Drinking Water Quality Package 2024_v1.pdf'); ?>" download>Drinking Water Quality Testing</a></span></li>
+              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('images/pdf/WIL_Wastewater test information 2024.pdf'); ?>" download>Waste Water Analysis</a></span></li>
+              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('images/pdf/WIL_Swimming Pool Water Test Information 2024.pdf'); ?>" download>Recreational Water Quality Testing </a></span></li>
+              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('images/pdf/WIL_Industrial Water Test Information 2024.pdf'); ?>" download>Water for Production Testing </a></span></li>
+              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('images/pdf/WIL_Irrigation Water Test Information 2024.pdf'); ?>" download>Irrigation Water Quality Testing </a></span></li>
+              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('images/pdf/WIL_Water Quality Testing Information Sheet 2024.pdf'); ?>" download>All Water Test Information and Price List </a></span></li>
+              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('images/pdf/WIL_Irrigation Water Test Information 2024.pdf'); ?>" download>Food Quality Testing Information </a></span></li>
+              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('images/pdf/WIL_Food Quality Test Information 2024.pdf'); ?>" download>Soil Quality Testing Information </a></span></li>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 
 <!--form start-->
 <section class="parallaxie" data-bg-img="https://t3.ftcdn.net/jpg/04/95/00/16/360_F_495001640_bHTjOMfRIiDCdaYmJ9sao4clTw8e9uG9.jpg">
