@@ -62,8 +62,52 @@
       <div class="border-top border-start border-light">
         <div class="row g-0">
           <center><h5 class="mt-0">
-          <a href="<?php echo base_url('images/pdf/WIL_Soil Test Information 2024_v1.pdf'); ?>" download>👉🏻 Click here to know more about the Soil Quality Testing Packages and Price List👈🏻</a>
-          </center>
+          <h5 style="margin-top: 20px; margin-bottom: 20px;">
+            👇🏻 Click here to access the complete list of parameters and price for water quality testing 👇🏻<br><br>          
+          <a href="<?php echo base_url('/soil_testing_package') ?>">
+              <button style="
+              background-color: #4CAF50;
+              border: none;
+              color: white;
+              padding: 10px 24px;
+              text-align: center;
+              text-decoration: none;
+              display: inline-block;
+              font-size: 16px;
+              margin: 4px 10px;
+              cursor: pointer;
+              border-radius: 8px;
+              transition: background-color 0.3s ease;
+              box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            " onmouseover="this.style.backgroundColor='#45a049'" 
+               onmouseout="this.style.backgroundColor='#4CAF50'">
+              🔍 Open Document
+            </button>
+
+            <a href="<?php echo base_url('images/pdf/WIL_Soil Test Information 2024_v1.pdf'); ?>" download>
+              <button style="
+                background-color: #2196F3;
+                border: none;
+                color: white;
+                padding: 10px 24px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+                margin: 4px 10px;
+                cursor: pointer;
+                border-radius: 8px;
+                transition: background-color 0.3s ease;
+                box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+              " onmouseover="this.style.backgroundColor='#1E88E5'" 
+                 onmouseout="this.style.backgroundColor='#2196F3'">
+                📥 Download PDF
+              </button>
+            </a>
+          </h5>
+        </center>
+
+
         </div>
       </div>
     </div>
