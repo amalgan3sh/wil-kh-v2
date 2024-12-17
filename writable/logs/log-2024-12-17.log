@@ -1,0 +1,30 @@
+CRITICAL - 2024-12-17 06:02:51 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "public/drinking_water_testing_package.php"
+[Method: GET, Route: drinking_water_testing_package]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('public/drinking_water_testing_package.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('public/drinking_water_testing_package', [], true)
+ 3 APPPATH\Controllers\PublicController.php(357): view('public/drinking_water_testing_package')
+ 4 APPPATH\Controllers\PublicController.php(333): App\Controllers\PublicController->App\Controllers\{closure}()
+ 5 APPPATH\Controllers\PublicController.php(354): App\Controllers\PublicController->renderCache('drinking_water_testing_package_view', Object(Closure))
+ 6 APPPATH\Controllers\PublicController.php(202): App\Controllers\PublicController->renderView('drinking_water_testing_package_view', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PublicController->DrinkingWaterTestingPackage()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PublicController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-17 06:09:12 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "public/water_quality_test-drinking_water_testing_package.php"
+[Method: GET, Route: water_quality_test-drinking_water_testing_package]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('public/water_quality_test-drinking_water_testing_package.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('public/water_quality_test-drinking_water_testing_package', [], true)
+ 3 APPPATH\Controllers\PublicController.php(357): view('public/water_quality_test-drinking_water_testing_package')
+ 4 APPPATH\Controllers\PublicController.php(333): App\Controllers\PublicController->App\Controllers\{closure}()
+ 5 APPPATH\Controllers\PublicController.php(354): App\Controllers\PublicController->renderCache('drinking_water_testing_package_view', Object(Closure))
+ 6 APPPATH\Controllers\PublicController.php(202): App\Controllers\PublicController->renderView('drinking_water_testing_package_view', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PublicController->DrinkingWaterTestingPackage()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PublicController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

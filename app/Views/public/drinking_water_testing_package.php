@@ -228,6 +228,11 @@
         </tr>
     </table>
 
+<br><br>
+<ul class="list-unstyled">
+  <button class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('images/pdf/WIL_Drinking Water Quality Package 2024.pdf'); ?>" download>Download</a></span></button>
+</ul>
+
           
 
         </div>

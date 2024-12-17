@@ -231,6 +231,11 @@
         <td style="border: 1px solid black;">$15.00</td>
     </tr>
 </table>
+
+<br><br>
+<ul class="list-unstyled">
+  <button class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('images/pdf/WIL_Swimming Pool Water Test Information 2024.pdf'); ?>" download>Download</a></span></button>
+</ul>
           
 
         </div>

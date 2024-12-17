@@ -42,11 +42,11 @@
           <p class="lead mb-4">Water quality testing is an important part of development because microbial and chemical contaminants can cause water-boned diseases and harm people and the environment.</p>
           <div class="light-bg p-3">
             <ul class="list-unstyled">
-              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('images/pdf/WIL_Drinking Water Quality Package 2024_v1.pdf'); ?>" download>Drinking Water Quality Testing</a></span></li>
-              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('images/pdf/WIL_Wastewater test information 2024.pdf'); ?>" download>Wastewater Analysis</a></span></li>
-              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('images/pdf/WIL_Swimming Pool Water Test Information 2024.pdf'); ?>" download>Recreational Water Quality Testing </a></span></li>
-              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('images/pdf/WIL_Industrial Water Test Information 2024.pdf'); ?>" download>Water for Production Testing </a></span></li>
-              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('images/pdf/WIL_Irrigation Water Test Information 2024.pdf'); ?>" download>Irrigation Water Quality Testing </a></span></li>
+              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('/drinking_water_testing_package'); ?>" >Drinking Water Quality Testing</a></span></li>
+              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('/wastewater_test_information'); ?>" >Wastewater Analysis</a></span></li>
+              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('/swimming_pool_water_test'); ?>" >Recreational Water Quality Testing </a></span></li>
+              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('/industrial_water_testing'); ?>" >Water for Production Testing </a></span></li>
+              <li class="mb-3"><span class="text-black font-w-5"><a href="<?php echo base_url('/irrigation_water_test'); ?>" >Irrigation Water Quality Testing </a></span></li>
               </li>
             </ul>
           </div>
@@ -62,48 +62,8 @@
         <div class="row g-0">
         <center>
           <h5 style="margin-top: 20px; margin-bottom: 20px;">
-            👇🏻 Click here to access the complete list of parameters and price for water quality testing 👇🏻<br><br>
+          <a href="<?php echo base_url('/all_water_test_information') ?>">👉🏻 Click here to access the complete list of parameters and price for water quality testing 👈🏻<br><br></a>
 
-            <a href="<?php echo base_url('/all_water_test_information') ?>">
-              <button style="
-              background-color: #4CAF50;
-              border: none;
-              color: white;
-              padding: 10px 24px;
-              text-align: center;
-              text-decoration: none;
-              display: inline-block;
-              font-size: 16px;
-              margin: 4px 10px;
-              cursor: pointer;
-              border-radius: 8px;
-              transition: background-color 0.3s ease;
-              box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-            " onmouseover="this.style.backgroundColor='#45a049'" 
-               onmouseout="this.style.backgroundColor='#4CAF50'">
-              🔍 Open Document
-            </button>
-
-            <a href="<?php echo base_url('images/pdf/WIL_Water Quality Testing Information Sheet 2024.pdf'); ?>" download>
-              <button style="
-                background-color: #2196F3;
-                border: none;
-                color: white;
-                padding: 10px 24px;
-                text-align: center;
-                text-decoration: none;
-                display: inline-block;
-                font-size: 16px;
-                margin: 4px 10px;
-                cursor: pointer;
-                border-radius: 8px;
-                transition: background-color 0.3s ease;
-                box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-              " onmouseover="this.style.backgroundColor='#1E88E5'" 
-                 onmouseout="this.style.backgroundColor='#2196F3'">
-                📥 Download PDF
-              </button>
-            </a>
           </h5>
         </center>
         

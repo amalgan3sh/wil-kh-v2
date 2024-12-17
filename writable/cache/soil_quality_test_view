@@ -1,4 +1,4 @@
-a:3:{s:4:"time";i:1734121699;s:3:"ttl";i:1;s:4:"data";s:21941:"<!DOCTYPE html>
+a:3:{s:4:"time";i:1734419350;s:3:"ttl";i:1;s:4:"data";s:20369:"<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -306,47 +306,9 @@ a:3:{s:4:"time";i:1734121699;s:3:"ttl";i:1;s:4:"data";s:21941:"<!DOCTYPE html>
         <div class="row g-0">
           <center><h5 class="mt-0">
           <h5 style="margin-top: 20px; margin-bottom: 20px;">
-            👇🏻 Click here to access the complete list of parameters and price for water quality testing 👇🏻<br><br>          
           <a href="http://localhost/wil-kh-v2/soil_testing_package">
-              <button style="
-              background-color: #4CAF50;
-              border: none;
-              color: white;
-              padding: 10px 24px;
-              text-align: center;
-              text-decoration: none;
-              display: inline-block;
-              font-size: 16px;
-              margin: 4px 10px;
-              cursor: pointer;
-              border-radius: 8px;
-              transition: background-color 0.3s ease;
-              box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-            " onmouseover="this.style.backgroundColor='#45a049'" 
-               onmouseout="this.style.backgroundColor='#4CAF50'">
-              🔍 Open Document
-            </button>
-
-            <a href="http://localhost/wil-kh-v2/images/pdf/WIL_Soil%20Test%20Information%202024_v1.pdf" download>
-              <button style="
-                background-color: #2196F3;
-                border: none;
-                color: white;
-                padding: 10px 24px;
-                text-align: center;
-                text-decoration: none;
-                display: inline-block;
-                font-size: 16px;
-                margin: 4px 10px;
-                cursor: pointer;
-                border-radius: 8px;
-                transition: background-color 0.3s ease;
-                box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-              " onmouseover="this.style.backgroundColor='#1E88E5'" 
-                 onmouseout="this.style.backgroundColor='#2196F3'">
-                📥 Download PDF
-              </button>
-            </a>
+          👉🏻 Click here to access the complete list of parameters and price for water quality testing 👈🏻<br><br>          
+          </a>
           </h5>
         </center>
 

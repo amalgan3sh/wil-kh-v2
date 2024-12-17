@@ -1,4 +1,4 @@
-a:3:{s:4:"time";i:1734121953;s:3:"ttl";i:1;s:4:"data";s:25195:"<!DOCTYPE html>
+a:3:{s:4:"time";i:1734418924;s:3:"ttl";i:1;s:4:"data";s:23342:"<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -285,11 +285,11 @@ a:3:{s:4:"time";i:1734121953;s:3:"ttl";i:1;s:4:"data";s:25195:"<!DOCTYPE html>
           <p class="lead mb-4">Water quality testing is an important part of development because microbial and chemical contaminants can cause water-boned diseases and harm people and the environment.</p>
           <div class="light-bg p-3">
             <ul class="list-unstyled">
-              <li class="mb-3"><span class="text-black font-w-5"><a href="http://localhost/wil-kh-v2/images/pdf/WIL_Drinking%20Water%20Quality%20Package%202024_v1.pdf" download>Drinking Water Quality Testing</a></span></li>
-              <li class="mb-3"><span class="text-black font-w-5"><a href="http://localhost/wil-kh-v2/images/pdf/WIL_Wastewater%20test%20information%202024.pdf" download>Wastewater Analysis</a></span></li>
-              <li class="mb-3"><span class="text-black font-w-5"><a href="http://localhost/wil-kh-v2/images/pdf/WIL_Swimming%20Pool%20Water%20Test%20Information%202024.pdf" download>Recreational Water Quality Testing </a></span></li>
-              <li class="mb-3"><span class="text-black font-w-5"><a href="http://localhost/wil-kh-v2/images/pdf/WIL_Industrial%20Water%20Test%20Information%202024.pdf" download>Water for Production Testing </a></span></li>
-              <li class="mb-3"><span class="text-black font-w-5"><a href="http://localhost/wil-kh-v2/images/pdf/WIL_Irrigation%20Water%20Test%20Information%202024.pdf" download>Irrigation Water Quality Testing </a></span></li>
+              <li class="mb-3"><span class="text-black font-w-5"><a href="http://localhost/wil-kh-v2/drinking_water_testing_package" >Drinking Water Quality Testing</a></span></li>
+              <li class="mb-3"><span class="text-black font-w-5"><a href="http://localhost/wil-kh-v2/wastewater_test_information" >Wastewater Analysis</a></span></li>
+              <li class="mb-3"><span class="text-black font-w-5"><a href="http://localhost/wil-kh-v2/swimming_pool_water_test" >Recreational Water Quality Testing </a></span></li>
+              <li class="mb-3"><span class="text-black font-w-5"><a href="http://localhost/wil-kh-v2/industrial_water_testing" >Water for Production Testing </a></span></li>
+              <li class="mb-3"><span class="text-black font-w-5"><a href="http://localhost/wil-kh-v2/irrigation_water_test" >Irrigation Water Quality Testing </a></span></li>
               </li>
             </ul>
           </div>
@@ -305,48 +305,8 @@ a:3:{s:4:"time";i:1734121953;s:3:"ttl";i:1;s:4:"data";s:25195:"<!DOCTYPE html>
         <div class="row g-0">
         <center>
           <h5 style="margin-top: 20px; margin-bottom: 20px;">
-            👇🏻 Click here to access the complete list of parameters and price for water quality testing 👇🏻<br><br>
+          <a href="http://localhost/wil-kh-v2/all_water_test_information">👉🏻 Click here to access the complete list of parameters and price for water quality testing 👈🏻<br><br></a>
 
-            <a href="http://localhost/wil-kh-v2/all_water_test_information">
-              <button style="
-              background-color: #4CAF50;
-              border: none;
-              color: white;
-              padding: 10px 24px;
-              text-align: center;
-              text-decoration: none;
-              display: inline-block;
-              font-size: 16px;
-              margin: 4px 10px;
-              cursor: pointer;
-              border-radius: 8px;
-              transition: background-color 0.3s ease;
-              box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-            " onmouseover="this.style.backgroundColor='#45a049'" 
-               onmouseout="this.style.backgroundColor='#4CAF50'">
-              🔍 Open Document
-            </button>
-
-            <a href="http://localhost/wil-kh-v2/images/pdf/WIL_Water%20Quality%20Testing%20Information%20Sheet%202024.pdf" download>
-              <button style="
-                background-color: #2196F3;
-                border: none;
-                color: white;
-                padding: 10px 24px;
-                text-align: center;
-                text-decoration: none;
-                display: inline-block;
-                font-size: 16px;
-                margin: 4px 10px;
-                cursor: pointer;
-                border-radius: 8px;
-                transition: background-color 0.3s ease;
-                box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-              " onmouseover="this.style.backgroundColor='#1E88E5'" 
-                 onmouseout="this.style.backgroundColor='#2196F3'">
-                📥 Download PDF
-              </button>
-            </a>
           </h5>
         </center>
         

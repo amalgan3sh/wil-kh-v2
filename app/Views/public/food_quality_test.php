@@ -82,7 +82,7 @@
     <div class="row">
       <div class="col">
           <center><h5 class="mt-0">
-            <a href="<?php echo base_url('images/pdf/WIL_Food Quality Test Information 2024.pdf'); ?>" download>👉🏻 Testing Foods? Click here to know more about the Food Quality Testing Packages and Price List👈🏻</a></center>
+            <a href="<?php echo base_url('/food_quality_testing_package'); ?>" >👉🏻 Testing Foods? Click here to know more about the Food Quality Testing Packages and Price List👈🏻</a></center>
           <p style="text-align: justify;">
           <div class="col-lg-12 col-12 mt-5 mt-lg-0 ps-lg-5">
           </div>
