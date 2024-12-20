@@ -1,4 +1,4 @@
-a:3:{s:4:"time";i:1733903252;s:3:"ttl";i:1;s:4:"data";s:19611:"<!DOCTYPE html>
+a:3:{s:4:"time";i:1734702500;s:3:"ttl";i:1;s:4:"data";s:19815:"<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -241,53 +241,48 @@ a:3:{s:4:"time";i:1733903252;s:3:"ttl";i:1;s:4:"data";s:19611:"<!DOCTYPE html>
   </div>
 </header>
 
-<!--header end-->
-
-<html>
+<!--header end--><html>
   <head>
     <script src="js/contact_us.js"></script>
-  <script type="text/javascript"
-        src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js">
-</script>
-<script type="text/javascript">
-   (function(){
-      emailjs.init({
-        publicKey: "8ahukF1AatFvyJ1la",
-      });
-   })();
-</script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+    <script type="text/javascript">
+      (function(){
+        emailjs.init({
+          publicKey: "C9gkryqNG61SPInH7",
+        });
+      })();
+    </script>
   </head>
-  <body>
-<!--page title start-->
-
-<section class="page-title parallaxie" data-bg-img="images/client/img_17.jpg">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-6">
-        <div class="white-bg p-md-5 p-3 d-inline-block">
-        <h1 class="text-theme">Contact <span class="text-black">Us</span></h1>
-        <nav aria-label="breadcrumb" class="page-breadcrumb border-top border-light pt-3 mt-3">
-          <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="http://localhost/wil-kh-v2/"><i class="las la-home me-1"></i>Home</a>
-            </li>
-            <li class="breadcrumb-item">About Us
-            </li>
-            <li class="breadcrumb-item active" aria-current="page">Contact Us</li>
-          </ol>
-        </nav>
+  <!--page title start-->
+  
+  <section class="page-title parallaxie" data-bg-img="images/client/img_17.jpg">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6">
+          <div class="white-bg p-md-5 p-3 d-inline-block">
+          <h1 class="text-theme">Contact <span class="text-black">Us</span></h1>
+          <nav aria-label="breadcrumb" class="page-breadcrumb border-top border-light pt-3 mt-3">
+            <ol class="breadcrumb">
+              <li class="breadcrumb-item"><a href="http://localhost/wil-kh-v2/"><i class="las la-home me-1"></i>Home</a>
+              </li>
+              <li class="breadcrumb-item">About Us
+              </li>
+              <li class="breadcrumb-item active" aria-current="page">Contact Us</li>
+            </ol>
+          </nav>
+          </div>
         </div>
       </div>
     </div>
-  </div>
-</section>
-
-<!--page title end-->
-
-
-<!--body content start-->
-
-<div class="page-content">
-
+  </section>
+  
+  <!--page title end-->
+  
+  
+  <!--body content start-->
+  
+  <div class="page-content">
+  
 <!--contact start-->
 
 <section>
@@ -302,37 +297,43 @@ a:3:{s:4:"time";i:1733903252;s:3:"ttl";i:1;s:4:"data";s:19611:"<!DOCTYPE html>
     </div>
     <div class="row g-0">
       <div class="col-lg-6">
-        <div class="contact-main white-bg shadow-sm p-5">
-          <form id="contact-form" class="row" >
-            <div id="formmessage"></div>
-            <div class="form-group col-md-6">Name : 
-              <input id="name" type="text" class="form-control" placeholder="Name" required="required">
-            </div>
-            <div class="form-group col-md-6">Email :
-              <input id="email" type="email" class="form-control" placeholder="Email" required="required">
-            </div>
-            <div class="form-group col-md-6">Phone :
-              <input id="phone" type="tel" class="form-control" placeholder="Phone" required="required">
-            </div>
-            <div class="form-group col-md-6">Service :
-              <select id="service" name="service" class="form-select form-control">
-              <option value="" disabled selected>- Choose Service -</option>
-                <option>Water Testing</option>
-                <option>Food Testing</option>
-                <option>Soil Testing</option>
-              </select>
-            </div>
-            <div class="form-group col-md-12">Message :
-              <textarea id="message" class="form-control" placeholder="Message" rows="3" required="required"></textarea>
-            </div>
-            <div class="col-md-12 text-center mt-4">
-              <button class="btn btn-theme" onClick="sendMail()"><span>Send Messages</span>
-              </button>
-            </div>
-          </form>
+    <!-- Previous sections remain the same until the form -->
+    <div class="contact-main white-bg shadow-sm p-5">
+      <form id="contact-form" class="row" onSubmit="return false;">
+        <div id="formmessage"></div>
+        <div class="form-group col-md-6">
+          <label for="name">Name:</label>
+          <input id="name" type="text" class="form-control" placeholder="Name" required>
         </div>
-      </div>
-      <div class="col-lg-5 dark-bg">
+        <div class="form-group col-md-6">
+          <label for="email">Email:</label>
+          <input id="email" type="email" class="form-control" placeholder="Email" required>
+        </div>
+        <div class="form-group col-md-6">
+          <label for="phone">Phone:</label>
+          <input id="phone" type="tel" class="form-control" placeholder="Phone" required>
+        </div>
+        <div class="form-group col-md-6">
+          <label for="service">Service:</label>
+          <select id="service" name="service" class="form-select form-control" required>
+            <option value="" disabled selected>- Choose Service -</option>
+            <option>Water Testing</option>
+            <option>Food Testing</option>
+            <option>Soil Testing</option>
+          </select>
+        </div>
+        <div class="form-group col-md-12">
+          <label for="message">Message:</label>
+          <textarea id="message" class="form-control" placeholder="Message" rows="3" required></textarea>
+        </div>
+        <div class="col-md-12 text-center mt-4">
+          <button type="button" class="btn btn-theme" onclick="sendMail()">
+            <span>Send Message</span>
+          </button>
+        </div>
+      </form>
+    </div></div>
+    <div class="col-lg-5 dark-bg">
         <div class="px-3 py-5 p-md-5 text-white">
           <div class="contact-media mb-4">
             <h5 class="text-white">Find Office:</h5>
