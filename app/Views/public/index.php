@@ -9,7 +9,7 @@
 <script type="text/javascript">
    (function(){
       emailjs.init({
-        publicKey: "8ahukF1AatFvyJ1la",
+        publicKey: "C9gkryqNG61SPInH7",
       });
    })();
 </script>
@@ -288,38 +288,41 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-6 col-md-8 col-11 ms-auto">
-        <div class="white-bg box-shadow p-4 p-md-5 z-index-1">
-          <div class="section-title mb-4">
-            <h2 class="title mb-0">Contact Us for Our Services</h2> 
-          </div>
-          <form id="contact-form" class="row" >
-            <div id="formmessage"></div>
-            <div class="form-group col-md-6">Name : 
-              <input id="name" type="text" class="form-control" placeholder="Name" required="required">
-            </div>
-            <div class="form-group col-md-6">Email :
-              <input id="email" type="email" class="form-control" placeholder="Email" required="required">
-            </div>
-            <div class="form-group col-md-6">Phone :
-              <input id="phone" type="tel" class="form-control" placeholder="Phone" required="required">
-            </div>
-            <div class="form-group col-md-6">Service :
-              <select id="service" name="service" class="form-select form-control">
-              <option value="" disabled selected>- Choose Service -</option>
-                <option>Water Testing</option>
-                <option>Food Testing</option>
-                <option>Soil Testing</option>
-              </select>
-            </div>
-            <div class="form-group col-md-12">Message :
-              <textarea id="message" class="form-control" placeholder="Message" rows="3" required="required"></textarea>
-            </div>
-            <div class="col-md-12 text-center mt-4">
-              <button class="btn btn-theme" onClick="sendMail()"><span>Send Messages</span>
-              </button>
-            </div>
-          </form>
+      <div class="contact-main white-bg shadow-sm p-5">
+      <form id="contact-form" class="row" onSubmit="return false;">
+        <div id="formmessage"></div>
+        <div class="form-group col-md-6">
+          <label for="name">Name:</label>
+          <input id="name" type="text" class="form-control" placeholder="Name" required>
         </div>
+        <div class="form-group col-md-6">
+          <label for="email">Email:</label>
+          <input id="email" type="email" class="form-control" placeholder="Email" required>
+        </div>
+        <div class="form-group col-md-6">
+          <label for="phone">Phone:</label>
+          <input id="phone" type="tel" class="form-control" placeholder="Phone" required>
+        </div>
+        <div class="form-group col-md-6">
+          <label for="service">Service:</label>
+          <select id="service" name="service" class="form-select form-control" required>
+            <option value="" disabled selected>- Choose Service -</option>
+            <option>Water Testing</option>
+            <option>Food Testing</option>
+            <option>Soil Testing</option>
+          </select>
+        </div>
+        <div class="form-group col-md-12">
+          <label for="message">Message:</label>
+          <textarea id="message" class="form-control" placeholder="Message" rows="3" required></textarea>
+        </div>
+        <div class="col-md-12 text-center mt-4">
+          <button type="button" class="btn btn-theme" onclick="sendMail()">
+            <span>Send Message</span>
+          </button>
+        </div>
+      </form>
+    </div></div>
       </div>
     </div>
   </div>
